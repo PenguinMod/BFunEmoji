@@ -27,7 +27,7 @@ glob.glob(path.join(__dirname, "../emojis/png") + `/**/*.png`).then(async (relPa
             if (!folder.scale) {
                 await sharp(image).avif().toFile(newPath);
             } else {
-                await sharp(image).resize({ width: folder.scale, height: folder.scale, kernel: "nearest" }).avif().toFile(newPath);
+                await sharp(image).resize({ width: folder.scale, height: folder.scale, kernel: "cubic" }).avif().toFile(newPath);
             }
         }
     }

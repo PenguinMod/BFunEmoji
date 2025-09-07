@@ -20,7 +20,7 @@ General guidelines (but not strict rules) for emojis:
 Rules for this repository:
 - No emojis ripped/traced directly from another emoji set (e.g., Twemoji, Apple emojis, etc.)
 - Emoji file names must be lowercase and only use characters a-z
-- All content must be appropriate for ages 10+ (e.g., no bloody faces)
+- All content must be appropriate for ages 10+ or in the standard emoji set (e.g., no bloody faces)
 - SFW (Safe for Work) content only. Suggestive/sexual content is not tolerated.
 - All content must not have any special restrictions (e.g., only Steamboat Willie is public domain but not recent versions of Mickey)
 - AI-Generated content will be ignored and closed. You aren't a chef if you can only order food.
