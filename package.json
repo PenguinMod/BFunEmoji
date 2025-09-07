@@ -1,0 +1,15 @@
+{
+  "name": "bfunemoji",
+  "version": "1.0.0",
+  "description": "Not meant to be used as a package, see GitHub for info",
+  "homepage": "https://github.com/PenguinMod/BFunEmoji#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PenguinMod/BFunEmoji.git"
+  },
+  "license": "CC0-1.0",
+  "type": "commonjs",
+  "scripts": {
+    "make:others": "cd scripts && node makeothers.js"
+  }
+}
