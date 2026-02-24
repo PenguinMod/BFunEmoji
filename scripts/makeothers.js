@@ -1,6 +1,6 @@
 /**
  * @fileoverview make:others
- * Makes the `avif`, `thumb/128x128` and `thumb/64x64` folders based on the `png` folder.
+ * Makes the `avif`, `thumb/128x128` and `thumb/64x64` folders based on any `png` folders.
  */
 
 const fs = require("fs");
