@@ -1,5 +1,6 @@
 # BFunEmoji
 BFunEmoji is a quick and dirty, CC0-Licensed Emoji set in Bitmap format.
+The emoji-set can be found in [the `emojiset` folder](/emojis/emojiset/).
 
 # Licensing
 Creative Commons Zero v1.0 Universal is a Public Domain license.

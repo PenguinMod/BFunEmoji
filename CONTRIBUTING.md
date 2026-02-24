@@ -1,12 +1,12 @@
 # Contributing
-Note that all emojis within this repository are licensed under Creative Commons Zero v1.0 Universal.
+Note that all emojis drawn for the standard BFunEmoji emoji-set within this repository are licensed under Creative Commons Zero v1.0 Universal.
 
 Creative Commons Zero v1.0 Universal is a Public Domain license. See [LICENSE](./LICENSE).
 
 Formatting your own emoji:
 - Emoji should be 256x256 in size exactly
 - Export/Save your files as `.png`
-- Add your emojis in `emojis/png`
+- Add your emojis in `emojis/emojiset/png`
 - Do **not** run the `make:others` script for *your* Pull Request as this will make a big mess of changes
 
 General guidelines (but not strict rules) for emojis:
