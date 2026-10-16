@@ -1,5 +1,5 @@
 # Contributing
-Note that all emojis drawn for the standard BFunEmoji emoji-set within this repository are licensed under Creative Commons Zero v1.0 Universal.
+Note that all emojis drawn for BFunEmoji across all collections within this repository are licensed under Creative Commons Zero v1.0 Universal.
 
 Please be aware before designing or submitting anything that by contributing an emoji to the BFunEmoji collection, you are voluntarily giving up all rights to your design, allowing anyone, including public and commercial entities, to freely use, modify, reproduce, redistribute, and reuse it in any form and for any purpose.
 
@@ -24,7 +24,7 @@ General guidelines (but not strict rules) for emoji designs:
 Rules for this repository:
 - No emojis ripped/traced directly from another emoji set (e.g., Twemoji, Apple emojis, etc.)
 - All content must not have any special licensing restrictions (e.g., only Steamboat Willie is public domain but not recent versions of Mickey)
-- All content must be appropriate for ages 10+ or in the standard emoji set (e.g., no bloody faces)
+- All content must be appropriate for ages 10+ or approved into the Unicode Standard (e.g., no bloody faces)
   - Problematic associations or innuendos may cause unintended designs to be rejected or marked as restricted in metadata regardless.
 - SFW (Safe for Work) content only. Suggestive/sexual content is not tolerated.
   - Some approved Unicode-standard emojis may have mature association (e.g., 🏩, 🔞) and are included as exceptions to this rule.
