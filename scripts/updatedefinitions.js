@@ -174,6 +174,20 @@ if (collectionTarget === "standard") {
                 }
             }
         }
+
+        // now we skip comment lines
+        if (trimLine.startsWith("#"))
+            continue;
+
+        // grab emojis
+        // NOTE: Don't use trimLine here for precaution because emojis use zero-width symbols
+        // Format: code points; status # 🙂 E1.0 slightly smiling face
+        const emojiSplit = line.split(";");
+        const codePoints = emojiSplit.shift().trim();
+        const metaSplit = emojiSplit.join(";").split("#");
+        const status = metaSplit.shift().trim();
+        const emojiInfo = metaSplit.join("#");
+        
     }
 }
 
