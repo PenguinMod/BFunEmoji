@@ -36,7 +36,7 @@ if (
  */
 // NOTE: For ALL groups & subgroups:
 /**
- * id: Should start with the type, then a separating dash. Then, the name of the group in lowercase, with non A-Z characters replaced by their hex code point in lowercase.
+ * id: Should start with the type, then a separating dash. Then, the name of the group in lowercase, with whitespace as dashes and non A-Z characters replaced by their hex code point in lowercase.
  * name: The name of the group.
  * group_type: Either "qualified" or "internal". "internal" groups shouldn't regularly appear.
  */
@@ -60,6 +60,32 @@ const createEmoji = () => {
         sequences: [],
         flags: [],
     };
+};
+
+const makeGroupId = (group) => {
+    const normalizedName = group.name.toLowerCase()
+        .replace(/\s+/g, "-")
+        .replace(/[^a-z\-\_]+/g, (char) => [...char].map(piece => piece.charCodeAt(0).toString(16)).join("-"));
+    return `${group.type}-${normalizedName}`;
+};
+
+const saveGroupToFile = async (savePath, group) => {
+    try {
+        const existingDataStr = await fs.readFile(savePath, "utf8");
+        const existingData = JSON.parse(existingDataStr);
+        console.log("merging data for", group.id);
+        group = {
+            ...existingData,
+            ...group,
+            name: existingData.name,
+            group_type: existingData.group_type,
+            flags: existingData.flags,
+        };
+    } catch {
+        console.log("saving for the first time", group.id);
+    } finally {
+        await fs.writeFile(savePath, JSON.stringify(group, null, 4), "utf8");
+    }
 };
 
 // for standard, do the fetches and checks
@@ -89,12 +115,58 @@ if (collectionTarget === "standard") {
         if (!line.trim()) continue;
 
         // look for group marker
+        // NOTE: Assume all emojis are in subgroups and all groups have at least 1 subgroup.
+        // NOTE: We assume groups and subgroups will never change names.
         const trimLine = line.trim();
         const isGroupThisLine = trimLine.startsWith("# group:");
         const isSubGroupThisLine = trimLine.startsWith("# subgroup:");
+        if (isGroupThisLine && currentGroup && !currentSubgroup)
+            throw new Error("Next group started before first group created a subgroup");
+        if (isSubGroupThisLine && !currentGroup)
+            throw new Error("Subgroup is present outside of a group");
         if (isGroupThisLine || isSubGroupThisLine) {
-            if ((currentGroup && isGroupThisLine) || (currentSubgroup && isSubGroupThisLine)) {
+            // If we have a group/subgroup to save then save it. Should only be false on first group
+            if (currentGroup && currentSubgroup) {
+                // commit emojis to file
+                for (const emoji of currentEmojis) {
+                    const emojiPath = path.join(definitionFolder, `${emoji.id}.json`);
+                    await fs.writeFile(emojiPath, JSON.stringify(emoji, null, 4), "utf8");
+                }
+                currentEmojis.splice(0, Infinity);
 
+                // save group to file
+                const subGroupPath = path.join(definitionFolder, `${currentSubgroup.id}.json`);
+                await saveGroupToFile(subGroupPath, currentSubgroup);
+                currentSubgroup = null;
+                // for groups, need to save their data too
+                if (isGroupThisLine) {
+                    const groupPath = path.join(definitionFolder, `${currentGroup.id}.json`);
+                    await saveGroupToFile(groupPath, currentGroup);
+                    currentGroup = null;
+                }
+            }
+
+            // Start a new group/subgroup
+            // Grab the name from "# subgroup: group-name" or "# group: Group name"
+            const groupLineSlice = trimLine.split(":");
+            groupLineSlice.shift();
+
+            const groupName = groupLineSlice.join(":").trim();
+            const newGroup = createGroup();
+            newGroup.name = groupName;
+            newGroup.collection = "standard";
+            newGroup.type = isGroupThisLine ? "group" : "subgroup";
+            newGroup.group_type = "qualified";
+            newGroup.id = makeGroupId(newGroup);
+            if (currentGroup) {
+                newGroup.group = currentGroup.id;
+            }
+
+            // assign the group to current
+            if (isGroupThisLine) {
+                currentGroup = newGroup;
+            } else {
+                currentSubgroup = newGroup;
             }
         }
     }
