@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-computer",
+    "type": "subgroup",
+    "name": "computer",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-objects"
+}

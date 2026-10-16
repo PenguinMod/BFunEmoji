@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-tool",
+    "type": "subgroup",
+    "name": "tool",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-objects"
+}

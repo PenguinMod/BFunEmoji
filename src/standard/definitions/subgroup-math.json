@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-math",
+    "type": "subgroup",
+    "name": "math",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-symbols"
+}

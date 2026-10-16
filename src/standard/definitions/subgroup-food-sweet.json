@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-food-sweet",
+    "type": "subgroup",
+    "name": "food-sweet",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-food-26-drink"
+}

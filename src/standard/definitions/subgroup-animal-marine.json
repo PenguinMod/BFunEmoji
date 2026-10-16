@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-animal-marine",
+    "type": "subgroup",
+    "name": "animal-marine",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-animals-26-nature"
+}

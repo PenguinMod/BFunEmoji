@@ -1,0 +1,8 @@
+{
+    "id": "group-activities",
+    "type": "group",
+    "name": "Activities",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": []
+}

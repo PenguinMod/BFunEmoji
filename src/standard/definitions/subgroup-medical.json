@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-medical",
+    "type": "subgroup",
+    "name": "medical",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-objects"
+}

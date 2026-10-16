@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-book-paper",
+    "type": "subgroup",
+    "name": "book-paper",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-objects"
+}

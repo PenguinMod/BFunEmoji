@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-animal-reptile",
+    "type": "subgroup",
+    "name": "animal-reptile",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-animals-26-nature"
+}

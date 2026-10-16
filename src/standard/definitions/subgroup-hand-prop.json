@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-hand-prop",
+    "type": "subgroup",
+    "name": "hand-prop",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-people-26-body"
+}

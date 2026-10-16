@@ -1,0 +1,8 @@
+{
+    "id": "group-symbols",
+    "type": "group",
+    "name": "Symbols",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": []
+}

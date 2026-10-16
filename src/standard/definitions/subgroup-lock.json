@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-lock",
+    "type": "subgroup",
+    "name": "lock",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-objects"
+}

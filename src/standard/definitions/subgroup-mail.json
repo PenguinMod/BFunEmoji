@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-mail",
+    "type": "subgroup",
+    "name": "mail",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-objects"
+}

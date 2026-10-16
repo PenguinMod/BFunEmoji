@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-hands",
+    "type": "subgroup",
+    "name": "hands",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-people-26-body"
+}

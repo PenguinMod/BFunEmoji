@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-sound",
+    "type": "subgroup",
+    "name": "sound",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-objects"
+}

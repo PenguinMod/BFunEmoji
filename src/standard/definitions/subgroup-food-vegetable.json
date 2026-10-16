@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-food-vegetable",
+    "type": "subgroup",
+    "name": "food-vegetable",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-food-26-drink"
+}

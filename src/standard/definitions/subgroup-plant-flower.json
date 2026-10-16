@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-plant-flower",
+    "type": "subgroup",
+    "name": "plant-flower",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-animals-26-nature"
+}

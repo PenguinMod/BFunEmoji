@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-office",
+    "type": "subgroup",
+    "name": "office",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-objects"
+}

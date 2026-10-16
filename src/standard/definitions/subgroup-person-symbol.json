@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-person-symbol",
+    "type": "subgroup",
+    "name": "person-symbol",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-people-26-body"
+}

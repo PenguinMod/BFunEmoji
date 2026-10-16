@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-animal-mammal",
+    "type": "subgroup",
+    "name": "animal-mammal",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-animals-26-nature"
+}

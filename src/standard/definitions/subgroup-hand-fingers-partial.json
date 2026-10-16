@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-hand-fingers-partial",
+    "type": "subgroup",
+    "name": "hand-fingers-partial",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-people-26-body"
+}

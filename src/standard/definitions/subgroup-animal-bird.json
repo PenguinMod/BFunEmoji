@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-animal-bird",
+    "type": "subgroup",
+    "name": "animal-bird",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-animals-26-nature"
+}

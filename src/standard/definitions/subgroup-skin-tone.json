@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-skin-tone",
+    "type": "subgroup",
+    "name": "skin-tone",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-component"
+}

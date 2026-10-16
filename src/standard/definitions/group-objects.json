@@ -1,0 +1,8 @@
+{
+    "id": "group-objects",
+    "type": "group",
+    "name": "Objects",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": []
+}

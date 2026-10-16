@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-face-glasses",
+    "type": "subgroup",
+    "name": "face-glasses",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-smileys-26-emotion"
+}

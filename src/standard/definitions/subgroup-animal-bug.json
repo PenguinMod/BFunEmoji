@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-animal-bug",
+    "type": "subgroup",
+    "name": "animal-bug",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-animals-26-nature"
+}

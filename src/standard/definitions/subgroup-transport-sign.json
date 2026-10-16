@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-transport-sign",
+    "type": "subgroup",
+    "name": "transport-sign",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-symbols"
+}

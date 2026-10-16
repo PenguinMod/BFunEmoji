@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-place-other",
+    "type": "subgroup",
+    "name": "place-other",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-travel-26-places"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-money",
+    "type": "subgroup",
+    "name": "money",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-objects"
+}

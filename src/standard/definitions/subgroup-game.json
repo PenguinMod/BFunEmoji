@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-game",
+    "type": "subgroup",
+    "name": "game",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-activities"
+}

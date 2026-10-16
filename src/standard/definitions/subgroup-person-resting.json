@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-person-resting",
+    "type": "subgroup",
+    "name": "person-resting",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-people-26-body"
+}

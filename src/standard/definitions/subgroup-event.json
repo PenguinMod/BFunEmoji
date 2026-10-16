@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-event",
+    "type": "subgroup",
+    "name": "event",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-activities"
+}

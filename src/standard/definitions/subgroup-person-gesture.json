@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-person-gesture",
+    "type": "subgroup",
+    "name": "person-gesture",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-people-26-body"
+}

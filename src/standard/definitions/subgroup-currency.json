@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-currency",
+    "type": "subgroup",
+    "name": "currency",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-symbols"
+}

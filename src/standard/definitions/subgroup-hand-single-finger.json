@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-hand-single-finger",
+    "type": "subgroup",
+    "name": "hand-single-finger",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-people-26-body"
+}

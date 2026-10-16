@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-award-medal",
+    "type": "subgroup",
+    "name": "award-medal",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-activities"
+}

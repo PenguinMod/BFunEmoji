@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-face-sleepy",
+    "type": "subgroup",
+    "name": "face-sleepy",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-smileys-26-emotion"
+}

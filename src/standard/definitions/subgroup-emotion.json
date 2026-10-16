@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-emotion",
+    "type": "subgroup",
+    "name": "emotion",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-smileys-26-emotion"
+}

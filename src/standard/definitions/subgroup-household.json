@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-household",
+    "type": "subgroup",
+    "name": "household",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-objects"
+}

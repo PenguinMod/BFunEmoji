@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-face-concerned",
+    "type": "subgroup",
+    "name": "face-concerned",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-smileys-26-emotion"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-food-prepared",
+    "type": "subgroup",
+    "name": "food-prepared",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-food-26-drink"
+}

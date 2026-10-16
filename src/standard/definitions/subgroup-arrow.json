@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-arrow",
+    "type": "subgroup",
+    "name": "arrow",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-symbols"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-keycap",
+    "type": "subgroup",
+    "name": "keycap",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-symbols"
+}

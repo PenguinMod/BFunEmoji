@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-hand-fingers-closed",
+    "type": "subgroup",
+    "name": "hand-fingers-closed",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-people-26-body"
+}

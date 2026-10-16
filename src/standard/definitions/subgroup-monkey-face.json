@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-monkey-face",
+    "type": "subgroup",
+    "name": "monkey-face",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-smileys-26-emotion"
+}

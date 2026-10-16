@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-other-object",
+    "type": "subgroup",
+    "name": "other-object",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-objects"
+}

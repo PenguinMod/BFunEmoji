@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-religion",
+    "type": "subgroup",
+    "name": "religion",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-symbols"
+}

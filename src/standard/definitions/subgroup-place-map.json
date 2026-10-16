@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-place-map",
+    "type": "subgroup",
+    "name": "place-map",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-travel-26-places"
+}

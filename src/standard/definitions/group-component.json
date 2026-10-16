@@ -1,0 +1,8 @@
+{
+    "id": "group-component",
+    "type": "group",
+    "name": "Component",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": []
+}

@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-person-fantasy",
+    "type": "subgroup",
+    "name": "person-fantasy",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-people-26-body"
+}

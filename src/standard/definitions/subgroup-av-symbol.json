@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-av-symbol",
+    "type": "subgroup",
+    "name": "av-symbol",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-symbols"
+}

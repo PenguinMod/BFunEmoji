@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-music",
+    "type": "subgroup",
+    "name": "music",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-objects"
+}

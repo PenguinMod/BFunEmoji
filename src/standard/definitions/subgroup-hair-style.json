@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-hair-style",
+    "type": "subgroup",
+    "name": "hair-style",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-component"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-face-costume",
+    "type": "subgroup",
+    "name": "face-costume",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-smileys-26-emotion"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-dishware",
+    "type": "subgroup",
+    "name": "dishware",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-food-26-drink"
+}

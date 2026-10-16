@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-gender",
+    "type": "subgroup",
+    "name": "gender",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-symbols"
+}

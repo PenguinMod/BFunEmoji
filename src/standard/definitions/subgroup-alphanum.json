@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-alphanum",
+    "type": "subgroup",
+    "name": "alphanum",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-symbols"
+}

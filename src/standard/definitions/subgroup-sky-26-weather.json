@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-sky-26-weather",
+    "type": "subgroup",
+    "name": "sky & weather",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-travel-26-places"
+}

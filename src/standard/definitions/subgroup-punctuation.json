@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-punctuation",
+    "type": "subgroup",
+    "name": "punctuation",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-symbols"
+}

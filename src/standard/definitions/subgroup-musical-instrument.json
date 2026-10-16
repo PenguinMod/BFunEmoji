@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-musical-instrument",
+    "type": "subgroup",
+    "name": "musical-instrument",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-objects"
+}

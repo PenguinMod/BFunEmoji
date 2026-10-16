@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-other-symbol",
+    "type": "subgroup",
+    "name": "other-symbol",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-symbols"
+}

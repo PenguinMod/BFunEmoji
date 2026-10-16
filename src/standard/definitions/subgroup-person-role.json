@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-person-role",
+    "type": "subgroup",
+    "name": "person-role",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-people-26-body"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-country-flag",
+    "type": "subgroup",
+    "name": "country-flag",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-flags"
+}

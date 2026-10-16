@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-plant-other",
+    "type": "subgroup",
+    "name": "plant-other",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-animals-26-nature"
+}

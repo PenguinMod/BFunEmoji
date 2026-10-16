@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-zodiac",
+    "type": "subgroup",
+    "name": "zodiac",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-symbols"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-animal-amphibian",
+    "type": "subgroup",
+    "name": "animal-amphibian",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-animals-26-nature"
+}

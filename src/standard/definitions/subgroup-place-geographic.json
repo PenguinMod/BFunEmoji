@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-place-geographic",
+    "type": "subgroup",
+    "name": "place-geographic",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-travel-26-places"
+}

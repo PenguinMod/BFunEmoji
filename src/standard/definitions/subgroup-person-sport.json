@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-person-sport",
+    "type": "subgroup",
+    "name": "person-sport",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-people-26-body"
+}

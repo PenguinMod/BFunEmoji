@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-face-hand",
+    "type": "subgroup",
+    "name": "face-hand",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-smileys-26-emotion"
+}
