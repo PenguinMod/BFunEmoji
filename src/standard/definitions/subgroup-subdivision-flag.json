@@ -1,0 +1,9 @@
+{
+    "id": "subgroup-subdivision-flag",
+    "type": "subgroup",
+    "name": "subdivision-flag",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": [],
+    "group": "group-flags"
+}

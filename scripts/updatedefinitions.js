@@ -112,19 +112,22 @@ if (collectionTarget === "standard") {
     const currentEmojis = [];
     for (let i = 0; i < textList.length; i++) {
         const line = textList[i];
-        if (!line.trim()) continue;
+        const trimLine = line.trim();
+        if (!trimLine) continue;
 
-        // look for group marker
+        // look for group marker, or end of file to save.
         // NOTE: Assume all emojis are in subgroups and all groups have at least 1 subgroup.
         // NOTE: We assume groups and subgroups will never change names.
-        const trimLine = line.trim();
+        const isEndOfFile = trimLine.startsWith("#EOF");
         const isGroupThisLine = trimLine.startsWith("# group:");
         const isSubGroupThisLine = trimLine.startsWith("# subgroup:");
         if (isGroupThisLine && currentGroup && !currentSubgroup)
             throw new Error("Next group started before first group created a subgroup");
         if (isSubGroupThisLine && !currentGroup)
             throw new Error("Subgroup is present outside of a group");
-        if (isGroupThisLine || isSubGroupThisLine) {
+        if (isEndOfFile && ((!currentGroup) || (!currentSubgroup)))
+            throw new Error("Read EOF before groups were created");
+        if (isGroupThisLine || isSubGroupThisLine || isEndOfFile) {
             // If we have a group/subgroup to save then save it. Should only be false on first group
             if (currentGroup && currentSubgroup) {
                 // commit emojis to file
@@ -147,26 +150,28 @@ if (collectionTarget === "standard") {
             }
 
             // Start a new group/subgroup
-            // Grab the name from "# subgroup: group-name" or "# group: Group name"
-            const groupLineSlice = trimLine.split(":");
-            groupLineSlice.shift();
+            if (!isEndOfFile) {
+                // Grab the name from "# subgroup: group-name" or "# group: Group name"
+                const groupLineSlice = trimLine.split(":");
+                groupLineSlice.shift();
 
-            const groupName = groupLineSlice.join(":").trim();
-            const newGroup = createGroup();
-            newGroup.name = groupName;
-            newGroup.collection = "standard";
-            newGroup.type = isGroupThisLine ? "group" : "subgroup";
-            newGroup.group_type = "qualified";
-            newGroup.id = makeGroupId(newGroup);
-            if (currentGroup) {
-                newGroup.group = currentGroup.id;
-            }
+                const groupName = groupLineSlice.join(":").trim();
+                const newGroup = createGroup();
+                newGroup.name = groupName;
+                newGroup.collection = "standard";
+                newGroup.type = isGroupThisLine ? "group" : "subgroup";
+                newGroup.group_type = "qualified";
+                newGroup.id = makeGroupId(newGroup);
+                if (currentGroup) {
+                    newGroup.group = currentGroup.id;
+                }
 
-            // assign the group to current
-            if (isGroupThisLine) {
-                currentGroup = newGroup;
-            } else {
-                currentSubgroup = newGroup;
+                // assign the group to current
+                if (isGroupThisLine) {
+                    currentGroup = newGroup;
+                } else {
+                    currentSubgroup = newGroup;
+                }
             }
         }
     }

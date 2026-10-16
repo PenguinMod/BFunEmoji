@@ -3,6 +3,6 @@
     "type": "group",
     "name": "Component",
     "collection": "standard",
-    "group_type": "qualified",
+    "group_type": "internal",
     "flags": []
 }
