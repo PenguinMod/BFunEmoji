@@ -80,11 +80,12 @@ const makeEmojiId = (emoji) => {
         + emoji.name.toLowerCase().replace(/[^a-z]/g, "-");
 };
 
+const existingDefinitions = new Map();
 const saveGroupToFile = async (savePath, group) => {
     try {
         const existingDataStr = await fs.readFile(savePath, "utf8");
         const existingData = JSON.parse(existingDataStr);
-        console.log("merging data for", group.id);
+        console.log("merging group data for", group.id);
         group = {
             ...existingData,
             ...group,
@@ -93,9 +94,48 @@ const saveGroupToFile = async (savePath, group) => {
             flags: existingData.flags,
         };
     } catch {
-        console.log("saving for the first time", group.id);
+        console.log("saving group for the first time", group.id);
     } finally {
         await fs.writeFile(savePath, JSON.stringify(group, null, 4), "utf8");
+    }
+};
+const saveEmojiInFolder = async (saveFolder, emoji) => {
+    /** @type {string[]} see all the defs that already exist in the folder */
+    const definitions = existingDefinitions.get(saveFolder)
+        || (await fs.readdir(saveFolder)).filter(fileName => fileName.endsWith(".json"));
+    existingDefinitions.set(saveFolder, definitions);
+
+    // NOTE: Emojis may differ in CLDR name since they are documented to be allowed to change. In this case we cant assume a path yet incase existing definitions use an older name.
+    // We need to find a definition with our code points (if we have 14ff4-23e0 and a file named 14ff4-23e0-my-cool-emoji.json exists, save to that name)
+    let savePath = path.join(saveFolder, `${emoji.id}.json`);
+    try {
+        // drop to catch & finally to make the new data if we dont find anything
+        const codePoints = makeCodepointString(emoji.unicode);
+        const existingFileName = definitions.find(fileName => fileName.startsWith(codePoints));
+        if (!existingFileName)
+            throw new Error("No matches");
+        // We also need to change the ID (intentional mutation)
+        emoji.id = path.basename(existingFileName, ".json");
+        savePath = path.join(saveFolder, existingFileName);
+
+        // NOTE: If these fail (like broken json), then the earlier code should recover the existing file instead of making a new one
+        const existingDataStr = await fs.readFile(savePath, "utf8");
+        const existingData = JSON.parse(existingDataStr);
+        console.log("merging emoji data for", emoji.id);
+        emoji = {
+            ...existingData,
+            ...emoji,
+            name: existingData.name,
+            alias: [...new Set([...emoji.alias, ...existingData.alias])],
+            sequences: [...new Set([...emoji.sequences, ...existingData.sequences])],
+            emoji_type: existingData.emoji_type,
+            completed: existingData.completed,
+            flags: existingData.flags,
+        };
+    } catch {
+        console.log("saving emoji for the first time", emoji.id);
+    } finally {
+        await fs.writeFile(savePath, JSON.stringify(emoji, null, 4), "utf8");
     }
 };
 
@@ -110,7 +150,7 @@ if (collectionTarget === "standard") {
      * name: The CLDR Short Name. This may change for newer emojis, and the old name should be included in alias.
      * alias: The CLDR Short Name, then a version with dashes, then a version with underscores, then others added for legacy or compatibility reasons.
      * unicode: The preferred character sequence to create this emoji.
-     * emoji_version: The version of Unicode the character came from.
+     * emoji_version: The version of emoji the character came from.
      * emoji_type: Either "qualified" or "component". "component" emojis are special and have glyphs for assistance, but shouldn't regularly appear.
      * completed: True if this glyph is fully drawn in the collection.
      * sequences: The preferred character sequence, then incomplete or alternate sequences that can still create this emoji.
@@ -143,8 +183,7 @@ if (collectionTarget === "standard") {
             if (currentGroup && currentSubgroup) {
                 // commit emojis to file
                 for (const emoji of currentEmojis) {
-                    const emojiPath = path.join(definitionFolder, `${emoji.id}.json`);
-                    await fs.writeFile(emojiPath, JSON.stringify(emoji, null, 4), "utf8");
+                    await saveEmojiInFolder(definitionFolder, emoji);
                 }
                 currentEmojis.splice(0, Infinity);
 
@@ -212,7 +251,7 @@ if (collectionTarget === "standard") {
             const emojiDefinition = createEmoji();
             emojiDefinition.type = "emoji";
             emojiDefinition.name = emojiCldrName;
-            emojiDefinition.alias = [emojiCldrName];
+            emojiDefinition.alias = [emojiCldrName, emojiCldrName.replace(/\s+/g, "-"), emojiCldrName.replace(/\s+/g, "_")];
             emojiDefinition.unicode = emojiCreated;
             emojiDefinition.sequences = [emojiCreated];
             emojiDefinition.emoji_version = emojiVersion;
