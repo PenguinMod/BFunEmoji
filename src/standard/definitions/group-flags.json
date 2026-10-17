@@ -1,0 +1,8 @@
+{
+    "id": "group-flags",
+    "type": "group",
+    "name": "Flags",
+    "collection": "standard",
+    "group_type": "qualified",
+    "flags": []
+}
