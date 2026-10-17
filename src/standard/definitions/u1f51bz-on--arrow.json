@@ -1,0 +1,20 @@
+{
+    "id": "u1f51bz-on--arrow",
+    "type": "emoji",
+    "name": "ON! arrow",
+    "alias": [
+        "ON! arrow",
+        "on-arrow",
+        "on_arrow"
+    ],
+    "unicode": "🔛",
+    "sequences": [
+        "🔛"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-arrow"
+}

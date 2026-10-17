@@ -1,0 +1,20 @@
+{
+    "id": "u1f496z-sparkling-heart",
+    "type": "emoji",
+    "name": "sparkling heart",
+    "alias": [
+        "sparkling heart",
+        "sparkling-heart",
+        "sparkling_heart"
+    ],
+    "unicode": "💖",
+    "sequences": [
+        "💖"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-heart"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f1e7-1f1f6z-flag--caribbean-netherlands",
+    "type": "emoji",
+    "name": "flag: Caribbean Netherlands",
+    "alias": [
+        "flag: Caribbean Netherlands",
+        "flag-caribbean-netherlands",
+        "flag_caribbean_netherlands"
+    ],
+    "unicode": "🇧🇶",
+    "sequences": [
+        "🇧🇶"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

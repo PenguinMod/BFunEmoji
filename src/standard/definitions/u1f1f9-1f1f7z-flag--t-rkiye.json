@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f9-1f1f7z-flag--t-rkiye",
+    "type": "emoji",
+    "name": "flag: Türkiye",
+    "alias": [
+        "flag: Türkiye",
+        "flag-t-rkiye",
+        "flag_t_rkiye"
+    ],
+    "unicode": "🇹🇷",
+    "sequences": [
+        "🇹🇷"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f646-1f3fbz-person-gesturing-ok--light-skin-tone",
+    "type": "emoji",
+    "name": "person gesturing OK: light skin tone",
+    "alias": [
+        "person gesturing OK: light skin tone",
+        "person-gesturing-ok-light-skin-tone",
+        "person_gesturing_ok_light_skin_tone"
+    ],
+    "unicode": "🙆🏻",
+    "sequences": [
+        "🙆🏻"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-gesture"
+}

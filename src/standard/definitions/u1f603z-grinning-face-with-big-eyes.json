@@ -1,0 +1,20 @@
+{
+    "id": "u1f603z-grinning-face-with-big-eyes",
+    "type": "emoji",
+    "name": "grinning face with big eyes",
+    "alias": [
+        "grinning face with big eyes",
+        "grinning-face-with-big-eyes",
+        "grinning_face_with_big_eyes"
+    ],
+    "unicode": "😃",
+    "sequences": [
+        "😃"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-smiling"
+}

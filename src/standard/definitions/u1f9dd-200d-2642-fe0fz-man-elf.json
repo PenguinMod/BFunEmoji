@@ -1,0 +1,21 @@
+{
+    "id": "u1f9dd-200d-2642-fe0fz-man-elf",
+    "type": "emoji",
+    "name": "man elf",
+    "alias": [
+        "man elf",
+        "man-elf",
+        "man_elf"
+    ],
+    "unicode": "🧝‍♂️",
+    "sequences": [
+        "🧝‍♂️",
+        "🧝‍♂"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-fantasy"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f3b1z-pool---ball",
+    "type": "emoji",
+    "name": "pool 8 ball",
+    "alias": [
+        "pool 8 ball",
+        "pool-8-ball",
+        "pool_8_ball"
+    ],
+    "unicode": "🎱",
+    "sequences": [
+        "🎱"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-game"
+}

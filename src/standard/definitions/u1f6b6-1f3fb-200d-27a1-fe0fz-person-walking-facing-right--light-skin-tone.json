@@ -1,0 +1,21 @@
+{
+    "id": "u1f6b6-1f3fb-200d-27a1-fe0fz-person-walking-facing-right--light-skin-tone",
+    "type": "emoji",
+    "name": "person walking facing right: light skin tone",
+    "alias": [
+        "person walking facing right: light skin tone",
+        "person-walking-facing-right-light-skin-tone",
+        "person_walking_facing_right_light_skin_tone"
+    ],
+    "unicode": "🚶🏻‍➡️",
+    "sequences": [
+        "🚶🏻‍➡️",
+        "🚶🏻‍➡"
+    ],
+    "flags": [],
+    "emoji_version": "15.1",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-activity"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "u1f3bbz-violin",
+    "type": "emoji",
+    "name": "violin",
+    "alias": [
+        "violin"
+    ],
+    "unicode": "🎻",
+    "sequences": [
+        "🎻"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-musical-instrument"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f1e8-1f1f7z-flag--costa-rica",
+    "type": "emoji",
+    "name": "flag: Costa Rica",
+    "alias": [
+        "flag: Costa Rica",
+        "flag-costa-rica",
+        "flag_costa_rica"
+    ],
+    "unicode": "🇨🇷",
+    "sequences": [
+        "🇨🇷"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

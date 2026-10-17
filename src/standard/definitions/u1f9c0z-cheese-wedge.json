@@ -1,0 +1,20 @@
+{
+    "id": "u1f9c0z-cheese-wedge",
+    "type": "emoji",
+    "name": "cheese wedge",
+    "alias": [
+        "cheese wedge",
+        "cheese-wedge",
+        "cheese_wedge"
+    ],
+    "unicode": "🧀",
+    "sequences": [
+        "🧀"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-food-prepared"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f3-1f1ebz-flag--norfolk-island",
+    "type": "emoji",
+    "name": "flag: Norfolk Island",
+    "alias": [
+        "flag: Norfolk Island",
+        "flag-norfolk-island",
+        "flag_norfolk_island"
+    ],
+    "unicode": "🇳🇫",
+    "sequences": [
+        "🇳🇫"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f92bz-shushing-face",
+    "type": "emoji",
+    "name": "shushing face",
+    "alias": [
+        "shushing face",
+        "shushing-face",
+        "shushing_face"
+    ],
+    "unicode": "🤫",
+    "sequences": [
+        "🤫"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-hand"
+}

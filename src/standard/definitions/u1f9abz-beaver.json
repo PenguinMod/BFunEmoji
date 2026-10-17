@@ -1,0 +1,18 @@
+{
+    "id": "u1f9abz-beaver",
+    "type": "emoji",
+    "name": "beaver",
+    "alias": [
+        "beaver"
+    ],
+    "unicode": "🦫",
+    "sequences": [
+        "🦫"
+    ],
+    "flags": [],
+    "emoji_version": "13.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-mammal"
+}

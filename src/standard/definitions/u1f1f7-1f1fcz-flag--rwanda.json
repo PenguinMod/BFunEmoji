@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f7-1f1fcz-flag--rwanda",
+    "type": "emoji",
+    "name": "flag: Rwanda",
+    "alias": [
+        "flag: Rwanda",
+        "flag-rwanda",
+        "flag_rwanda"
+    ],
+    "unicode": "🇷🇼",
+    "sequences": [
+        "🇷🇼"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

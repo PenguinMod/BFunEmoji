@@ -1,0 +1,19 @@
+{
+    "id": "u1f563z-eight-thirty",
+    "type": "emoji",
+    "name": "eight-thirty",
+    "alias": [
+        "eight-thirty",
+        "eight_thirty"
+    ],
+    "unicode": "🕣",
+    "sequences": [
+        "🕣"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-time"
+}

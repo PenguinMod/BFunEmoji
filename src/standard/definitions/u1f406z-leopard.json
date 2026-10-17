@@ -1,0 +1,18 @@
+{
+    "id": "u1f406z-leopard",
+    "type": "emoji",
+    "name": "leopard",
+    "alias": [
+        "leopard"
+    ],
+    "unicode": "🐆",
+    "sequences": [
+        "🐆"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-mammal"
+}

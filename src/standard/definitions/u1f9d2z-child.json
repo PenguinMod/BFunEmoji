@@ -1,0 +1,18 @@
+{
+    "id": "u1f9d2z-child",
+    "type": "emoji",
+    "name": "child",
+    "alias": [
+        "child"
+    ],
+    "unicode": "🧒",
+    "sequences": [
+        "🧒"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person"
+}

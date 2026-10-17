@@ -1,0 +1,20 @@
+{
+    "id": "u1f44cz-ok-hand",
+    "type": "emoji",
+    "name": "OK hand",
+    "alias": [
+        "OK hand",
+        "ok-hand",
+        "ok_hand"
+    ],
+    "unicode": "👌",
+    "sequences": [
+        "👌"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-hand-fingers-partial"
+}

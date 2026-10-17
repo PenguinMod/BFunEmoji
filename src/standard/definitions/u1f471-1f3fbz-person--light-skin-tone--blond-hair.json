@@ -1,0 +1,20 @@
+{
+    "id": "u1f471-1f3fbz-person--light-skin-tone--blond-hair",
+    "type": "emoji",
+    "name": "person: light skin tone, blond hair",
+    "alias": [
+        "person: light skin tone, blond hair",
+        "person-light-skin-tone-blond-hair",
+        "person_light_skin_tone_blond_hair"
+    ],
+    "unicode": "👱🏻",
+    "sequences": [
+        "👱🏻"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person"
+}

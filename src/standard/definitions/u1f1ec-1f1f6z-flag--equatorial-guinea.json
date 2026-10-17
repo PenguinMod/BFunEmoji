@@ -1,0 +1,20 @@
+{
+    "id": "u1f1ec-1f1f6z-flag--equatorial-guinea",
+    "type": "emoji",
+    "name": "flag: Equatorial Guinea",
+    "alias": [
+        "flag: Equatorial Guinea",
+        "flag-equatorial-guinea",
+        "flag_equatorial_guinea"
+    ],
+    "unicode": "🇬🇶",
+    "sequences": [
+        "🇬🇶"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "u1f3d4-fe0fz-snow-capped-mountain",
+    "type": "emoji",
+    "name": "snow-capped mountain",
+    "alias": [
+        "snow-capped mountain",
+        "snow-capped-mountain",
+        "snow_capped_mountain"
+    ],
+    "unicode": "🏔️",
+    "sequences": [
+        "🏔️",
+        "🏔"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-place-geographic"
+}

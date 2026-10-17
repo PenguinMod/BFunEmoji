@@ -1,0 +1,20 @@
+{
+    "id": "u1f197z-ok-button",
+    "type": "emoji",
+    "name": "OK button",
+    "alias": [
+        "OK button",
+        "ok-button",
+        "ok_button"
+    ],
+    "unicode": "🆗",
+    "sequences": [
+        "🆗"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-alphanum"
+}

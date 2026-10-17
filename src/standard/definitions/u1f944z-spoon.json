@@ -1,0 +1,18 @@
+{
+    "id": "u1f944z-spoon",
+    "type": "emoji",
+    "name": "spoon",
+    "alias": [
+        "spoon"
+    ],
+    "unicode": "🥄",
+    "sequences": [
+        "🥄"
+    ],
+    "flags": [],
+    "emoji_version": "3.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-dishware"
+}

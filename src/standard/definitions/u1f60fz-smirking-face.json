@@ -1,0 +1,20 @@
+{
+    "id": "u1f60fz-smirking-face",
+    "type": "emoji",
+    "name": "smirking face",
+    "alias": [
+        "smirking face",
+        "smirking-face",
+        "smirking_face"
+    ],
+    "unicode": "😏",
+    "sequences": [
+        "😏"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-neutral-skeptical"
+}

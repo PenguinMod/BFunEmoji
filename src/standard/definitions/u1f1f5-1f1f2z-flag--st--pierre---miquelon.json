@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f5-1f1f2z-flag--st--pierre---miquelon",
+    "type": "emoji",
+    "name": "flag: St. Pierre & Miquelon",
+    "alias": [
+        "flag: St. Pierre & Miquelon",
+        "flag-st-pierre-miquelon",
+        "flag_st_pierre_miquelon"
+    ],
+    "unicode": "🇵🇲",
+    "sequences": [
+        "🇵🇲"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

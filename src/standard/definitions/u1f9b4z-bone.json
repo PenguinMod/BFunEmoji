@@ -1,0 +1,18 @@
+{
+    "id": "u1f9b4z-bone",
+    "type": "emoji",
+    "name": "bone",
+    "alias": [
+        "bone"
+    ],
+    "unicode": "🦴",
+    "sequences": [
+        "🦴"
+    ],
+    "flags": [],
+    "emoji_version": "11.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-body-parts"
+}

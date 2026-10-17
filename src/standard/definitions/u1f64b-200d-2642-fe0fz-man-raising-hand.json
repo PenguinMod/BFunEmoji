@@ -1,0 +1,21 @@
+{
+    "id": "u1f64b-200d-2642-fe0fz-man-raising-hand",
+    "type": "emoji",
+    "name": "man raising hand",
+    "alias": [
+        "man raising hand",
+        "man-raising-hand",
+        "man_raising_hand"
+    ],
+    "unicode": "🙋‍♂️",
+    "sequences": [
+        "🙋‍♂️",
+        "🙋‍♂"
+    ],
+    "flags": [],
+    "emoji_version": "4.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-gesture"
+}

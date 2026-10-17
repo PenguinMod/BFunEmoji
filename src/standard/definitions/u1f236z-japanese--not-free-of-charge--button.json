@@ -1,0 +1,20 @@
+{
+    "id": "u1f236z-japanese--not-free-of-charge--button",
+    "type": "emoji",
+    "name": "Japanese “not free of charge” button",
+    "alias": [
+        "Japanese “not free of charge” button",
+        "japanese-not-free-of-charge-button",
+        "japanese_not_free_of_charge_button"
+    ],
+    "unicode": "🈶",
+    "sequences": [
+        "🈶"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-alphanum"
+}

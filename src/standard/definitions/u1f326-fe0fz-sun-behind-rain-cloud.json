@@ -1,0 +1,21 @@
+{
+    "id": "u1f326-fe0fz-sun-behind-rain-cloud",
+    "type": "emoji",
+    "name": "sun behind rain cloud",
+    "alias": [
+        "sun behind rain cloud",
+        "sun-behind-rain-cloud",
+        "sun_behind_rain_cloud"
+    ],
+    "unicode": "🌦️",
+    "sequences": [
+        "🌦️",
+        "🌦"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-sky-26-weather"
+}

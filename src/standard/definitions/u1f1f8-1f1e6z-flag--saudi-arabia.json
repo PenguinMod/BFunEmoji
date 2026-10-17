@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f8-1f1e6z-flag--saudi-arabia",
+    "type": "emoji",
+    "name": "flag: Saudi Arabia",
+    "alias": [
+        "flag: Saudi Arabia",
+        "flag-saudi-arabia",
+        "flag_saudi_arabia"
+    ],
+    "unicode": "🇸🇦",
+    "sequences": [
+        "🇸🇦"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

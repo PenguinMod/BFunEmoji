@@ -1,0 +1,18 @@
+{
+    "id": "u1f962z-chopsticks",
+    "type": "emoji",
+    "name": "chopsticks",
+    "alias": [
+        "chopsticks"
+    ],
+    "unicode": "🥢",
+    "sequences": [
+        "🥢"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-dishware"
+}

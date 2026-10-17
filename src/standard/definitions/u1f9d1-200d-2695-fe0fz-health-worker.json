@@ -1,0 +1,21 @@
+{
+    "id": "u1f9d1-200d-2695-fe0fz-health-worker",
+    "type": "emoji",
+    "name": "health worker",
+    "alias": [
+        "health worker",
+        "health-worker",
+        "health_worker"
+    ],
+    "unicode": "🧑‍⚕️",
+    "sequences": [
+        "🧑‍⚕️",
+        "🧑‍⚕"
+    ],
+    "flags": [],
+    "emoji_version": "12.1",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-role"
+}

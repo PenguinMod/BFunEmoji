@@ -1,0 +1,18 @@
+{
+    "id": "u1f492z-wedding",
+    "type": "emoji",
+    "name": "wedding",
+    "alias": [
+        "wedding"
+    ],
+    "unicode": "💒",
+    "sequences": [
+        "💒"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-place-building"
+}

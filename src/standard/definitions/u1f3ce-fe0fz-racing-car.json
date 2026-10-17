@@ -1,0 +1,21 @@
+{
+    "id": "u1f3ce-fe0fz-racing-car",
+    "type": "emoji",
+    "name": "racing car",
+    "alias": [
+        "racing car",
+        "racing-car",
+        "racing_car"
+    ],
+    "unicode": "🏎️",
+    "sequences": [
+        "🏎️",
+        "🏎"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-transport-ground"
+}

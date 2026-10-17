@@ -1,0 +1,18 @@
+{
+    "id": "u1f416z-pig",
+    "type": "emoji",
+    "name": "pig",
+    "alias": [
+        "pig"
+    ],
+    "unicode": "🐖",
+    "sequences": [
+        "🐖"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-mammal"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "u1f9dc-200d-2640-fe0fz-mermaid",
+    "type": "emoji",
+    "name": "mermaid",
+    "alias": [
+        "mermaid"
+    ],
+    "unicode": "🧜‍♀️",
+    "sequences": [
+        "🧜‍♀️",
+        "🧜‍♀"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-fantasy"
+}

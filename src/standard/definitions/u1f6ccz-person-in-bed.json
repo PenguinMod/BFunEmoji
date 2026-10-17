@@ -1,0 +1,20 @@
+{
+    "id": "u1f6ccz-person-in-bed",
+    "type": "emoji",
+    "name": "person in bed",
+    "alias": [
+        "person in bed",
+        "person-in-bed",
+        "person_in_bed"
+    ],
+    "unicode": "🛌",
+    "sequences": [
+        "🛌"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-resting"
+}

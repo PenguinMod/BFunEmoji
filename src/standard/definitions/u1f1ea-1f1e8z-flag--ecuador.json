@@ -1,0 +1,20 @@
+{
+    "id": "u1f1ea-1f1e8z-flag--ecuador",
+    "type": "emoji",
+    "name": "flag: Ecuador",
+    "alias": [
+        "flag: Ecuador",
+        "flag-ecuador",
+        "flag_ecuador"
+    ],
+    "unicode": "🇪🇨",
+    "sequences": [
+        "🇪🇨"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

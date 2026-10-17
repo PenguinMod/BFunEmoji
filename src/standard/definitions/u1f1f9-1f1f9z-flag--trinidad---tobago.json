@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f9-1f1f9z-flag--trinidad---tobago",
+    "type": "emoji",
+    "name": "flag: Trinidad & Tobago",
+    "alias": [
+        "flag: Trinidad & Tobago",
+        "flag-trinidad-tobago",
+        "flag_trinidad_tobago"
+    ],
+    "unicode": "🇹🇹",
+    "sequences": [
+        "🇹🇹"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

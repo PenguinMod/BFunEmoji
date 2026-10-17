@@ -1,0 +1,21 @@
+{
+    "id": "u1f6a3-200d-2640-fe0fz-woman-rowing-boat",
+    "type": "emoji",
+    "name": "woman rowing boat",
+    "alias": [
+        "woman rowing boat",
+        "woman-rowing-boat",
+        "woman_rowing_boat"
+    ],
+    "unicode": "🚣‍♀️",
+    "sequences": [
+        "🚣‍♀️",
+        "🚣‍♀"
+    ],
+    "flags": [],
+    "emoji_version": "4.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-sport"
+}

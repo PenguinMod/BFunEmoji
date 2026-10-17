@@ -1,0 +1,20 @@
+{
+    "id": "u1f530z-japanese-symbol-for-beginner",
+    "type": "emoji",
+    "name": "Japanese symbol for beginner",
+    "alias": [
+        "Japanese symbol for beginner",
+        "japanese-symbol-for-beginner",
+        "japanese_symbol_for_beginner"
+    ],
+    "unicode": "🔰",
+    "sequences": [
+        "🔰"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-other-symbol"
+}

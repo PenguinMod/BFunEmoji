@@ -1,0 +1,20 @@
+{
+    "id": "u1f9e1z-orange-heart",
+    "type": "emoji",
+    "name": "orange heart",
+    "alias": [
+        "orange heart",
+        "orange-heart",
+        "orange_heart"
+    ],
+    "unicode": "🧡",
+    "sequences": [
+        "🧡"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-heart"
+}

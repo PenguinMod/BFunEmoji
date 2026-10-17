@@ -1,0 +1,20 @@
+{
+    "id": "u1fa94z-diya-lamp",
+    "type": "emoji",
+    "name": "diya lamp",
+    "alias": [
+        "diya lamp",
+        "diya-lamp",
+        "diya_lamp"
+    ],
+    "unicode": "🪔",
+    "sequences": [
+        "🪔"
+    ],
+    "flags": [],
+    "emoji_version": "12.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-light-26-video"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f1e8-1f1eez-flag--c-te-d-ivoire",
+    "type": "emoji",
+    "name": "flag: Côte d’Ivoire",
+    "alias": [
+        "flag: Côte d’Ivoire",
+        "flag-c-te-d-ivoire",
+        "flag_c_te_d_ivoire"
+    ],
+    "unicode": "🇨🇮",
+    "sequences": [
+        "🇨🇮"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

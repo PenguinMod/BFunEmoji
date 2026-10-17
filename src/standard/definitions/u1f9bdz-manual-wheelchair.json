@@ -1,0 +1,20 @@
+{
+    "id": "u1f9bdz-manual-wheelchair",
+    "type": "emoji",
+    "name": "manual wheelchair",
+    "alias": [
+        "manual wheelchair",
+        "manual-wheelchair",
+        "manual_wheelchair"
+    ],
+    "unicode": "🦽",
+    "sequences": [
+        "🦽"
+    ],
+    "flags": [],
+    "emoji_version": "12.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-transport-ground"
+}

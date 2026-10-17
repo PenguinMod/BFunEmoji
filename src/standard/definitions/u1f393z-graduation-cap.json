@@ -1,0 +1,20 @@
+{
+    "id": "u1f393z-graduation-cap",
+    "type": "emoji",
+    "name": "graduation cap",
+    "alias": [
+        "graduation cap",
+        "graduation-cap",
+        "graduation_cap"
+    ],
+    "unicode": "🎓",
+    "sequences": [
+        "🎓"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-clothing"
+}

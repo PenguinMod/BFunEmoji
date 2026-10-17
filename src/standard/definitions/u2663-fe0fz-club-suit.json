@@ -1,0 +1,21 @@
+{
+    "id": "u2663-fe0fz-club-suit",
+    "type": "emoji",
+    "name": "club suit",
+    "alias": [
+        "club suit",
+        "club-suit",
+        "club_suit"
+    ],
+    "unicode": "♣️",
+    "sequences": [
+        "♣️",
+        "♣"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-game"
+}

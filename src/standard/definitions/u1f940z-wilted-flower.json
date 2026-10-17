@@ -1,0 +1,20 @@
+{
+    "id": "u1f940z-wilted-flower",
+    "type": "emoji",
+    "name": "wilted flower",
+    "alias": [
+        "wilted flower",
+        "wilted-flower",
+        "wilted_flower"
+    ],
+    "unicode": "🥀",
+    "sequences": [
+        "🥀"
+    ],
+    "flags": [],
+    "emoji_version": "3.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-plant-flower"
+}

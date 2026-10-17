@@ -1,0 +1,20 @@
+{
+    "id": "u1f35bz-curry-rice",
+    "type": "emoji",
+    "name": "curry rice",
+    "alias": [
+        "curry rice",
+        "curry-rice",
+        "curry_rice"
+    ],
+    "unicode": "🍛",
+    "sequences": [
+        "🍛"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-food-asian"
+}

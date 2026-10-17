@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f3-1f1f7z-flag--nauru",
+    "type": "emoji",
+    "name": "flag: Nauru",
+    "alias": [
+        "flag: Nauru",
+        "flag-nauru",
+        "flag_nauru"
+    ],
+    "unicode": "🇳🇷",
+    "sequences": [
+        "🇳🇷"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

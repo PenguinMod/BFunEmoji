@@ -1,0 +1,19 @@
+{
+    "id": "u1fa7bz-x-ray",
+    "type": "emoji",
+    "name": "x-ray",
+    "alias": [
+        "x-ray",
+        "x_ray"
+    ],
+    "unicode": "🩻",
+    "sequences": [
+        "🩻"
+    ],
+    "flags": [],
+    "emoji_version": "14.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-medical"
+}

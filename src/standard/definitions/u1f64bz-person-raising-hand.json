@@ -1,0 +1,20 @@
+{
+    "id": "u1f64bz-person-raising-hand",
+    "type": "emoji",
+    "name": "person raising hand",
+    "alias": [
+        "person raising hand",
+        "person-raising-hand",
+        "person_raising_hand"
+    ],
+    "unicode": "🙋",
+    "sequences": [
+        "🙋"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-gesture"
+}

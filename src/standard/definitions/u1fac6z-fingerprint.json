@@ -1,0 +1,18 @@
+{
+    "id": "u1fac6z-fingerprint",
+    "type": "emoji",
+    "name": "fingerprint",
+    "alias": [
+        "fingerprint"
+    ],
+    "unicode": "🫆",
+    "sequences": [
+        "🫆"
+    ],
+    "flags": [],
+    "emoji_version": "16.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-symbol"
+}

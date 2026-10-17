@@ -1,0 +1,20 @@
+{
+    "id": "u1f3fcz-medium-light-skin-tone",
+    "type": "emoji",
+    "name": "medium-light skin tone",
+    "alias": [
+        "medium-light skin tone",
+        "medium-light-skin-tone",
+        "medium_light_skin_tone"
+    ],
+    "unicode": "🏼",
+    "sequences": [
+        "🏼"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "component",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-skin-tone"
+}

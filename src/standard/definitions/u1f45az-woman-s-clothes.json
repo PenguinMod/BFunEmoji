@@ -1,0 +1,20 @@
+{
+    "id": "u1f45az-woman-s-clothes",
+    "type": "emoji",
+    "name": "woman’s clothes",
+    "alias": [
+        "woman’s clothes",
+        "woman-s-clothes",
+        "woman_s_clothes"
+    ],
+    "unicode": "👚",
+    "sequences": [
+        "👚"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-clothing"
+}

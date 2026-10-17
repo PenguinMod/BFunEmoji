@@ -1,0 +1,20 @@
+{
+    "id": "u1f9d1-200d-1f9d2z-family--adult--child",
+    "type": "emoji",
+    "name": "family: adult, child",
+    "alias": [
+        "family: adult, child",
+        "family-adult-child",
+        "family_adult_child"
+    ],
+    "unicode": "🧑‍🧒",
+    "sequences": [
+        "🧑‍🧒"
+    ],
+    "flags": [],
+    "emoji_version": "15.1",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-symbol"
+}

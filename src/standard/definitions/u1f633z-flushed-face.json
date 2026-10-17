@@ -1,0 +1,20 @@
+{
+    "id": "u1f633z-flushed-face",
+    "type": "emoji",
+    "name": "flushed face",
+    "alias": [
+        "flushed face",
+        "flushed-face",
+        "flushed_face"
+    ],
+    "unicode": "😳",
+    "sequences": [
+        "😳"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-concerned"
+}

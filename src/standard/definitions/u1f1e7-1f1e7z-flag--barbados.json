@@ -1,0 +1,20 @@
+{
+    "id": "u1f1e7-1f1e7z-flag--barbados",
+    "type": "emoji",
+    "name": "flag: Barbados",
+    "alias": [
+        "flag: Barbados",
+        "flag-barbados",
+        "flag_barbados"
+    ],
+    "unicode": "🇧🇧",
+    "sequences": [
+        "🇧🇧"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

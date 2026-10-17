@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f0-1f1f7z-flag--south-korea",
+    "type": "emoji",
+    "name": "flag: South Korea",
+    "alias": [
+        "flag: South Korea",
+        "flag-south-korea",
+        "flag_south_korea"
+    ],
+    "unicode": "🇰🇷",
+    "sequences": [
+        "🇰🇷"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

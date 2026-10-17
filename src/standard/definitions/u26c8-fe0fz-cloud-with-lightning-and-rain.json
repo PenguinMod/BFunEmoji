@@ -1,0 +1,21 @@
+{
+    "id": "u26c8-fe0fz-cloud-with-lightning-and-rain",
+    "type": "emoji",
+    "name": "cloud with lightning and rain",
+    "alias": [
+        "cloud with lightning and rain",
+        "cloud-with-lightning-and-rain",
+        "cloud_with_lightning_and_rain"
+    ],
+    "unicode": "⛈️",
+    "sequences": [
+        "⛈️",
+        "⛈"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-sky-26-weather"
+}

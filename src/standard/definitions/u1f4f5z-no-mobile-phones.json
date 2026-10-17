@@ -1,0 +1,20 @@
+{
+    "id": "u1f4f5z-no-mobile-phones",
+    "type": "emoji",
+    "name": "no mobile phones",
+    "alias": [
+        "no mobile phones",
+        "no-mobile-phones",
+        "no_mobile_phones"
+    ],
+    "unicode": "📵",
+    "sequences": [
+        "📵"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-warning"
+}

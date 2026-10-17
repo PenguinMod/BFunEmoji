@@ -1,0 +1,21 @@
+{
+    "id": "u1f5c2-fe0fz-card-index-dividers",
+    "type": "emoji",
+    "name": "card index dividers",
+    "alias": [
+        "card index dividers",
+        "card-index-dividers",
+        "card_index_dividers"
+    ],
+    "unicode": "🗂️",
+    "sequences": [
+        "🗂️",
+        "🗂"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-office"
+}

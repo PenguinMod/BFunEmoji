@@ -1,0 +1,20 @@
+{
+    "id": "u1f519z-back-arrow",
+    "type": "emoji",
+    "name": "BACK arrow",
+    "alias": [
+        "BACK arrow",
+        "back-arrow",
+        "back_arrow"
+    ],
+    "unicode": "🔙",
+    "sequences": [
+        "🔙"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-arrow"
+}

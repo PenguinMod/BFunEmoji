@@ -1,0 +1,20 @@
+{
+    "id": "u1f502z-repeat-single-button",
+    "type": "emoji",
+    "name": "repeat single button",
+    "alias": [
+        "repeat single button",
+        "repeat-single-button",
+        "repeat_single_button"
+    ],
+    "unicode": "🔂",
+    "sequences": [
+        "🔂"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-av-symbol"
+}

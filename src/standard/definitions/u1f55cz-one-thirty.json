@@ -1,0 +1,19 @@
+{
+    "id": "u1f55cz-one-thirty",
+    "type": "emoji",
+    "name": "one-thirty",
+    "alias": [
+        "one-thirty",
+        "one_thirty"
+    ],
+    "unicode": "🕜",
+    "sequences": [
+        "🕜"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-time"
+}

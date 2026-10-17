@@ -1,0 +1,20 @@
+{
+    "id": "u1f1e8-1f1f0z-flag--cook-islands",
+    "type": "emoji",
+    "name": "flag: Cook Islands",
+    "alias": [
+        "flag: Cook Islands",
+        "flag-cook-islands",
+        "flag_cook_islands"
+    ],
+    "unicode": "🇨🇰",
+    "sequences": [
+        "🇨🇰"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

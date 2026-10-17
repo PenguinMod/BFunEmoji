@@ -1,0 +1,20 @@
+{
+    "id": "u1f4a0z-diamond-with-a-dot",
+    "type": "emoji",
+    "name": "diamond with a dot",
+    "alias": [
+        "diamond with a dot",
+        "diamond-with-a-dot",
+        "diamond_with_a_dot"
+    ],
+    "unicode": "💠",
+    "sequences": [
+        "💠"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-geometric"
+}

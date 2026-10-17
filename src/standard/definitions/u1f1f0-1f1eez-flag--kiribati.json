@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f0-1f1eez-flag--kiribati",
+    "type": "emoji",
+    "name": "flag: Kiribati",
+    "alias": [
+        "flag: Kiribati",
+        "flag-kiribati",
+        "flag_kiribati"
+    ],
+    "unicode": "🇰🇮",
+    "sequences": [
+        "🇰🇮"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

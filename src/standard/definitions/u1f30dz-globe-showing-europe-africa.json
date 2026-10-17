@@ -1,0 +1,20 @@
+{
+    "id": "u1f30dz-globe-showing-europe-africa",
+    "type": "emoji",
+    "name": "globe showing Europe-Africa",
+    "alias": [
+        "globe showing Europe-Africa",
+        "globe-showing-europe-africa",
+        "globe_showing_europe_africa"
+    ],
+    "unicode": "🌍",
+    "sequences": [
+        "🌍"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-place-map"
+}

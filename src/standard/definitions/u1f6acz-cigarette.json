@@ -1,0 +1,18 @@
+{
+    "id": "u1f6acz-cigarette",
+    "type": "emoji",
+    "name": "cigarette",
+    "alias": [
+        "cigarette"
+    ],
+    "unicode": "🚬",
+    "sequences": [
+        "🚬"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-other-object"
+}

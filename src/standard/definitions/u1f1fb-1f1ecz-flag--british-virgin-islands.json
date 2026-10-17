@@ -1,0 +1,20 @@
+{
+    "id": "u1f1fb-1f1ecz-flag--british-virgin-islands",
+    "type": "emoji",
+    "name": "flag: British Virgin Islands",
+    "alias": [
+        "flag: British Virgin Islands",
+        "flag-british-virgin-islands",
+        "flag_british_virgin_islands"
+    ],
+    "unicode": "🇻🇬",
+    "sequences": [
+        "🇻🇬"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "u21aa-fe0fz-left-arrow-curving-right",
+    "type": "emoji",
+    "name": "left arrow curving right",
+    "alias": [
+        "left arrow curving right",
+        "left-arrow-curving-right",
+        "left_arrow_curving_right"
+    ],
+    "unicode": "↪️",
+    "sequences": [
+        "↪️",
+        "↪"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-arrow"
+}

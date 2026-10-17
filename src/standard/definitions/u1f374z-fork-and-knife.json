@@ -1,0 +1,20 @@
+{
+    "id": "u1f374z-fork-and-knife",
+    "type": "emoji",
+    "name": "fork and knife",
+    "alias": [
+        "fork and knife",
+        "fork-and-knife",
+        "fork_and_knife"
+    ],
+    "unicode": "🍴",
+    "sequences": [
+        "🍴"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-dishware"
+}

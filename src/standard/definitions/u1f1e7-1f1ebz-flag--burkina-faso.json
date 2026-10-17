@@ -1,0 +1,20 @@
+{
+    "id": "u1f1e7-1f1ebz-flag--burkina-faso",
+    "type": "emoji",
+    "name": "flag: Burkina Faso",
+    "alias": [
+        "flag: Burkina Faso",
+        "flag-burkina-faso",
+        "flag_burkina_faso"
+    ],
+    "unicode": "🇧🇫",
+    "sequences": [
+        "🇧🇫"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

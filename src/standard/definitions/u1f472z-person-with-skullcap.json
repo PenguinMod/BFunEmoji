@@ -1,0 +1,20 @@
+{
+    "id": "u1f472z-person-with-skullcap",
+    "type": "emoji",
+    "name": "person with skullcap",
+    "alias": [
+        "person with skullcap",
+        "person-with-skullcap",
+        "person_with_skullcap"
+    ],
+    "unicode": "👲",
+    "sequences": [
+        "👲"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-role"
+}

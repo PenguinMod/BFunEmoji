@@ -1,0 +1,19 @@
+{
+    "id": "u1fa80z-yo-yo",
+    "type": "emoji",
+    "name": "yo-yo",
+    "alias": [
+        "yo-yo",
+        "yo_yo"
+    ],
+    "unicode": "🪀",
+    "sequences": [
+        "🪀"
+    ],
+    "flags": [],
+    "emoji_version": "12.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-game"
+}

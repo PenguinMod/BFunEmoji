@@ -1,0 +1,21 @@
+{
+    "id": "u26e9-fe0fz-shinto-shrine",
+    "type": "emoji",
+    "name": "shinto shrine",
+    "alias": [
+        "shinto shrine",
+        "shinto-shrine",
+        "shinto_shrine"
+    ],
+    "unicode": "⛩️",
+    "sequences": [
+        "⛩️",
+        "⛩"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-place-religious"
+}

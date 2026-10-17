@@ -1,0 +1,18 @@
+{
+    "id": "u1fad3z-flatbread",
+    "type": "emoji",
+    "name": "flatbread",
+    "alias": [
+        "flatbread"
+    ],
+    "unicode": "🫓",
+    "sequences": [
+        "🫓"
+    ],
+    "flags": [],
+    "emoji_version": "13.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-food-prepared"
+}

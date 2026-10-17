@@ -1,0 +1,18 @@
+{
+    "id": "u1f4c5z-calendar",
+    "type": "emoji",
+    "name": "calendar",
+    "alias": [
+        "calendar"
+    ],
+    "unicode": "📅",
+    "sequences": [
+        "📅"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-office"
+}

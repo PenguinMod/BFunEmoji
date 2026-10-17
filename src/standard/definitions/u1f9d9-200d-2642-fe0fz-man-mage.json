@@ -1,0 +1,21 @@
+{
+    "id": "u1f9d9-200d-2642-fe0fz-man-mage",
+    "type": "emoji",
+    "name": "man mage",
+    "alias": [
+        "man mage",
+        "man-mage",
+        "man_mage"
+    ],
+    "unicode": "🧙‍♂️",
+    "sequences": [
+        "🧙‍♂️",
+        "🧙‍♂"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-fantasy"
+}

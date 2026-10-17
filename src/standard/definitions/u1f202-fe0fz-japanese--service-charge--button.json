@@ -1,0 +1,21 @@
+{
+    "id": "u1f202-fe0fz-japanese--service-charge--button",
+    "type": "emoji",
+    "name": "Japanese “service charge” button",
+    "alias": [
+        "Japanese “service charge” button",
+        "japanese-service-charge-button",
+        "japanese_service_charge_button"
+    ],
+    "unicode": "🈂️",
+    "sequences": [
+        "🈂️",
+        "🈂"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-alphanum"
+}

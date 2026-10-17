@@ -1,0 +1,20 @@
+{
+    "id": "u1f385z-santa-claus",
+    "type": "emoji",
+    "name": "Santa Claus",
+    "alias": [
+        "Santa Claus",
+        "santa-claus",
+        "santa_claus"
+    ],
+    "unicode": "🎅",
+    "sequences": [
+        "🎅"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-fantasy"
+}

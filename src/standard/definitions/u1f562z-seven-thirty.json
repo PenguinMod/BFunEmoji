@@ -1,0 +1,19 @@
+{
+    "id": "u1f562z-seven-thirty",
+    "type": "emoji",
+    "name": "seven-thirty",
+    "alias": [
+        "seven-thirty",
+        "seven_thirty"
+    ],
+    "unicode": "🕢",
+    "sequences": [
+        "🕢"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-time"
+}

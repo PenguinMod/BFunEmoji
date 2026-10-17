@@ -1,0 +1,19 @@
+{
+    "id": "u1f55fz-four-thirty",
+    "type": "emoji",
+    "name": "four-thirty",
+    "alias": [
+        "four-thirty",
+        "four_thirty"
+    ],
+    "unicode": "🕟",
+    "sequences": [
+        "🕟"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-time"
+}

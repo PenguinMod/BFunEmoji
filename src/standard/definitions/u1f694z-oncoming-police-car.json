@@ -1,0 +1,20 @@
+{
+    "id": "u1f694z-oncoming-police-car",
+    "type": "emoji",
+    "name": "oncoming police car",
+    "alias": [
+        "oncoming police car",
+        "oncoming-police-car",
+        "oncoming_police_car"
+    ],
+    "unicode": "🚔",
+    "sequences": [
+        "🚔"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-transport-ground"
+}

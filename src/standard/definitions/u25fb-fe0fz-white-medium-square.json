@@ -1,0 +1,21 @@
+{
+    "id": "u25fb-fe0fz-white-medium-square",
+    "type": "emoji",
+    "name": "white medium square",
+    "alias": [
+        "white medium square",
+        "white-medium-square",
+        "white_medium_square"
+    ],
+    "unicode": "◻️",
+    "sequences": [
+        "◻️",
+        "◻"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-geometric"
+}

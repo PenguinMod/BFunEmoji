@@ -1,0 +1,20 @@
+{
+    "id": "u1f1e9-1f1efz-flag--djibouti",
+    "type": "emoji",
+    "name": "flag: Djibouti",
+    "alias": [
+        "flag: Djibouti",
+        "flag-djibouti",
+        "flag_djibouti"
+    ],
+    "unicode": "🇩🇯",
+    "sequences": [
+        "🇩🇯"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

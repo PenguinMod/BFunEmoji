@@ -1,0 +1,19 @@
+{
+    "id": "u1f4e7z-e-mail",
+    "type": "emoji",
+    "name": "e-mail",
+    "alias": [
+        "e-mail",
+        "e_mail"
+    ],
+    "unicode": "📧",
+    "sequences": [
+        "📧"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-mail"
+}

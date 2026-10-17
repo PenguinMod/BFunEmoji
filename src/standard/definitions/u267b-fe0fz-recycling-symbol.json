@@ -1,0 +1,21 @@
+{
+    "id": "u267b-fe0fz-recycling-symbol",
+    "type": "emoji",
+    "name": "recycling symbol",
+    "alias": [
+        "recycling symbol",
+        "recycling-symbol",
+        "recycling_symbol"
+    ],
+    "unicode": "♻️",
+    "sequences": [
+        "♻️",
+        "♻"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-other-symbol"
+}

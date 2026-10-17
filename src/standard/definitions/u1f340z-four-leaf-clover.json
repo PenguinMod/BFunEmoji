@@ -1,0 +1,20 @@
+{
+    "id": "u1f340z-four-leaf-clover",
+    "type": "emoji",
+    "name": "four leaf clover",
+    "alias": [
+        "four leaf clover",
+        "four-leaf-clover",
+        "four_leaf_clover"
+    ],
+    "unicode": "🍀",
+    "sequences": [
+        "🍀"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-plant-other"
+}

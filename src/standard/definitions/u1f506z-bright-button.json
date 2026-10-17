@@ -1,0 +1,20 @@
+{
+    "id": "u1f506z-bright-button",
+    "type": "emoji",
+    "name": "bright button",
+    "alias": [
+        "bright button",
+        "bright-button",
+        "bright_button"
+    ],
+    "unicode": "🔆",
+    "sequences": [
+        "🔆"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-av-symbol"
+}

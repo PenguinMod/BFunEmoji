@@ -1,0 +1,19 @@
+{
+    "id": "u1f577-fe0fz-spider",
+    "type": "emoji",
+    "name": "spider",
+    "alias": [
+        "spider"
+    ],
+    "unicode": "🕷️",
+    "sequences": [
+        "🕷️",
+        "🕷"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-bug"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "u1f9c2z-salt",
+    "type": "emoji",
+    "name": "salt",
+    "alias": [
+        "salt"
+    ],
+    "unicode": "🧂",
+    "sequences": [
+        "🧂"
+    ],
+    "flags": [],
+    "emoji_version": "11.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-food-prepared"
+}

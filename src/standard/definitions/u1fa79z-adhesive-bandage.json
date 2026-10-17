@@ -1,0 +1,20 @@
+{
+    "id": "u1fa79z-adhesive-bandage",
+    "type": "emoji",
+    "name": "adhesive bandage",
+    "alias": [
+        "adhesive bandage",
+        "adhesive-bandage",
+        "adhesive_bandage"
+    ],
+    "unicode": "🩹",
+    "sequences": [
+        "🩹"
+    ],
+    "flags": [],
+    "emoji_version": "12.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-medical"
+}

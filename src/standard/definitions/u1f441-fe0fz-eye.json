@@ -1,0 +1,19 @@
+{
+    "id": "u1f441-fe0fz-eye",
+    "type": "emoji",
+    "name": "eye",
+    "alias": [
+        "eye"
+    ],
+    "unicode": "👁️",
+    "sequences": [
+        "👁️",
+        "👁"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-body-parts"
+}

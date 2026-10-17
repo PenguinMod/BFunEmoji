@@ -1,0 +1,21 @@
+{
+    "id": "u35-fe0f-20e3z-keycap---",
+    "type": "emoji",
+    "name": "keycap: 5",
+    "alias": [
+        "keycap: 5",
+        "keycap-5",
+        "keycap_5"
+    ],
+    "unicode": "5️⃣",
+    "sequences": [
+        "5️⃣",
+        "5⃣"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-keycap"
+}

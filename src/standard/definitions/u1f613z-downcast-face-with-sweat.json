@@ -1,0 +1,20 @@
+{
+    "id": "u1f613z-downcast-face-with-sweat",
+    "type": "emoji",
+    "name": "downcast face with sweat",
+    "alias": [
+        "downcast face with sweat",
+        "downcast-face-with-sweat",
+        "downcast_face_with_sweat"
+    ],
+    "unicode": "😓",
+    "sequences": [
+        "😓"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-concerned"
+}

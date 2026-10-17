@@ -1,0 +1,21 @@
+{
+    "id": "u2734-fe0fz-eight-pointed-star",
+    "type": "emoji",
+    "name": "eight-pointed star",
+    "alias": [
+        "eight-pointed star",
+        "eight-pointed-star",
+        "eight_pointed_star"
+    ],
+    "unicode": "✴️",
+    "sequences": [
+        "✴️",
+        "✴"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-other-symbol"
+}

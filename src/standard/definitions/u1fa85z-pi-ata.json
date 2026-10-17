@@ -1,0 +1,20 @@
+{
+    "id": "u1fa85z-pi-ata",
+    "type": "emoji",
+    "name": "piñata",
+    "alias": [
+        "piñata",
+        "pi-ata",
+        "pi_ata"
+    ],
+    "unicode": "🪅",
+    "sequences": [
+        "🪅"
+    ],
+    "flags": [],
+    "emoji_version": "13.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-game"
+}

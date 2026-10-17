@@ -1,0 +1,20 @@
+{
+    "id": "u1fa90z-ringed-planet",
+    "type": "emoji",
+    "name": "ringed planet",
+    "alias": [
+        "ringed planet",
+        "ringed-planet",
+        "ringed_planet"
+    ],
+    "unicode": "🪐",
+    "sequences": [
+        "🪐"
+    ],
+    "flags": [],
+    "emoji_version": "12.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-sky-26-weather"
+}

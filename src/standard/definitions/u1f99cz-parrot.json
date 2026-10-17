@@ -1,0 +1,18 @@
+{
+    "id": "u1f99cz-parrot",
+    "type": "emoji",
+    "name": "parrot",
+    "alias": [
+        "parrot"
+    ],
+    "unicode": "🦜",
+    "sequences": [
+        "🦜"
+    ],
+    "flags": [],
+    "emoji_version": "11.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-bird"
+}

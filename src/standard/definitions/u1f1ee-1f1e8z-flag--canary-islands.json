@@ -1,0 +1,20 @@
+{
+    "id": "u1f1ee-1f1e8z-flag--canary-islands",
+    "type": "emoji",
+    "name": "flag: Canary Islands",
+    "alias": [
+        "flag: Canary Islands",
+        "flag-canary-islands",
+        "flag_canary_islands"
+    ],
+    "unicode": "🇮🇨",
+    "sequences": [
+        "🇮🇨"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

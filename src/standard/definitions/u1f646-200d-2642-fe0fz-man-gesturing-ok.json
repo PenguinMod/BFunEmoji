@@ -1,0 +1,21 @@
+{
+    "id": "u1f646-200d-2642-fe0fz-man-gesturing-ok",
+    "type": "emoji",
+    "name": "man gesturing OK",
+    "alias": [
+        "man gesturing OK",
+        "man-gesturing-ok",
+        "man_gesturing_ok"
+    ],
+    "unicode": "🙆‍♂️",
+    "sequences": [
+        "🙆‍♂️",
+        "🙆‍♂"
+    ],
+    "flags": [],
+    "emoji_version": "4.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-gesture"
+}

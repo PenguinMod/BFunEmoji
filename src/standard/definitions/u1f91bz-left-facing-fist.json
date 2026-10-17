@@ -1,0 +1,20 @@
+{
+    "id": "u1f91bz-left-facing-fist",
+    "type": "emoji",
+    "name": "left-facing fist",
+    "alias": [
+        "left-facing fist",
+        "left-facing-fist",
+        "left_facing_fist"
+    ],
+    "unicode": "🤛",
+    "sequences": [
+        "🤛"
+    ],
+    "flags": [],
+    "emoji_version": "3.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-hand-fingers-closed"
+}

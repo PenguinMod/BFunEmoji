@@ -1,0 +1,20 @@
+{
+    "id": "u1f1fa-1f1f8z-flag--united-states",
+    "type": "emoji",
+    "name": "flag: United States",
+    "alias": [
+        "flag: United States",
+        "flag-united-states",
+        "flag_united_states"
+    ],
+    "unicode": "🇺🇸",
+    "sequences": [
+        "🇺🇸"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

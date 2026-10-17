@@ -1,0 +1,18 @@
+{
+    "id": "u1f9d1-200d-1f52cz-scientist",
+    "type": "emoji",
+    "name": "scientist",
+    "alias": [
+        "scientist"
+    ],
+    "unicode": "🧑‍🔬",
+    "sequences": [
+        "🧑‍🔬"
+    ],
+    "flags": [],
+    "emoji_version": "12.1",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-role"
+}

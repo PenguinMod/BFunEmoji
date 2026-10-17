@@ -1,0 +1,20 @@
+{
+    "id": "u1f196z-ng-button",
+    "type": "emoji",
+    "name": "NG button",
+    "alias": [
+        "NG button",
+        "ng-button",
+        "ng_button"
+    ],
+    "unicode": "🆖",
+    "sequences": [
+        "🆖"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-alphanum"
+}

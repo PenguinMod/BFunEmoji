@@ -1,0 +1,21 @@
+{
+    "id": "u26a7-fe0fz-transgender-symbol",
+    "type": "emoji",
+    "name": "transgender symbol",
+    "alias": [
+        "transgender symbol",
+        "transgender-symbol",
+        "transgender_symbol"
+    ],
+    "unicode": "⚧️",
+    "sequences": [
+        "⚧️",
+        "⚧"
+    ],
+    "flags": [],
+    "emoji_version": "13.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-gender"
+}

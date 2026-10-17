@@ -1,0 +1,21 @@
+{
+    "id": "u1f578-fe0fz-spider-web",
+    "type": "emoji",
+    "name": "spider web",
+    "alias": [
+        "spider web",
+        "spider-web",
+        "spider_web"
+    ],
+    "unicode": "🕸️",
+    "sequences": [
+        "🕸️",
+        "🕸"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-bug"
+}

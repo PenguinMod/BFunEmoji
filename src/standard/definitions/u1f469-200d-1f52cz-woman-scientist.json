@@ -1,0 +1,20 @@
+{
+    "id": "u1f469-200d-1f52cz-woman-scientist",
+    "type": "emoji",
+    "name": "woman scientist",
+    "alias": [
+        "woman scientist",
+        "woman-scientist",
+        "woman_scientist"
+    ],
+    "unicode": "👩‍🔬",
+    "sequences": [
+        "👩‍🔬"
+    ],
+    "flags": [],
+    "emoji_version": "4.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-role"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "u2122-fe0fz-trade-mark",
+    "type": "emoji",
+    "name": "trade mark",
+    "alias": [
+        "trade mark",
+        "trade-mark",
+        "trade_mark"
+    ],
+    "unicode": "™️",
+    "sequences": [
+        "™️",
+        "™"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-other-symbol"
+}

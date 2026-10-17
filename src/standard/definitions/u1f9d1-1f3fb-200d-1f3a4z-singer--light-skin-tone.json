@@ -1,0 +1,20 @@
+{
+    "id": "u1f9d1-1f3fb-200d-1f3a4z-singer--light-skin-tone",
+    "type": "emoji",
+    "name": "singer: light skin tone",
+    "alias": [
+        "singer: light skin tone",
+        "singer-light-skin-tone",
+        "singer_light_skin_tone"
+    ],
+    "unicode": "🧑🏻‍🎤",
+    "sequences": [
+        "🧑🏻‍🎤"
+    ],
+    "flags": [],
+    "emoji_version": "12.1",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-role"
+}

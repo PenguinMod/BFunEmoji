@@ -1,0 +1,21 @@
+{
+    "id": "u1f9de-200d-2642-fe0fz-man-genie",
+    "type": "emoji",
+    "name": "man genie",
+    "alias": [
+        "man genie",
+        "man-genie",
+        "man_genie"
+    ],
+    "unicode": "🧞‍♂️",
+    "sequences": [
+        "🧞‍♂️",
+        "🧞‍♂"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-fantasy"
+}

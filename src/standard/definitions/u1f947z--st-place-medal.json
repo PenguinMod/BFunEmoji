@@ -1,0 +1,20 @@
+{
+    "id": "u1f947z--st-place-medal",
+    "type": "emoji",
+    "name": "1st place medal",
+    "alias": [
+        "1st place medal",
+        "1st-place-medal",
+        "1st_place_medal"
+    ],
+    "unicode": "🥇",
+    "sequences": [
+        "🥇"
+    ],
+    "flags": [],
+    "emoji_version": "3.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-award-medal"
+}

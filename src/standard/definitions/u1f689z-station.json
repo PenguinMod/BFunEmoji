@@ -1,0 +1,18 @@
+{
+    "id": "u1f689z-station",
+    "type": "emoji",
+    "name": "station",
+    "alias": [
+        "station"
+    ],
+    "unicode": "🚉",
+    "sequences": [
+        "🚉"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-transport-ground"
+}

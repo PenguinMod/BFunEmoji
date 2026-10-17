@@ -1,0 +1,21 @@
+{
+    "id": "u262a-fe0fz-star-and-crescent",
+    "type": "emoji",
+    "name": "star and crescent",
+    "alias": [
+        "star and crescent",
+        "star-and-crescent",
+        "star_and_crescent"
+    ],
+    "unicode": "☪️",
+    "sequences": [
+        "☪️",
+        "☪"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-religion"
+}

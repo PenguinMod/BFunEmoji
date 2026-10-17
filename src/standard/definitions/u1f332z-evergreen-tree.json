@@ -1,0 +1,20 @@
+{
+    "id": "u1f332z-evergreen-tree",
+    "type": "emoji",
+    "name": "evergreen tree",
+    "alias": [
+        "evergreen tree",
+        "evergreen-tree",
+        "evergreen_tree"
+    ],
+    "unicode": "🌲",
+    "sequences": [
+        "🌲"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-plant-other"
+}

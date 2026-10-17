@@ -1,0 +1,20 @@
+{
+    "id": "u1f487z-person-getting-haircut",
+    "type": "emoji",
+    "name": "person getting haircut",
+    "alias": [
+        "person getting haircut",
+        "person-getting-haircut",
+        "person_getting_haircut"
+    ],
+    "unicode": "💇",
+    "sequences": [
+        "💇"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-activity"
+}

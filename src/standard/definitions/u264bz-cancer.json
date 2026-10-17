@@ -1,0 +1,19 @@
+{
+    "id": "u264bz-cancer",
+    "type": "emoji",
+    "name": "Cancer",
+    "alias": [
+        "Cancer",
+        "cancer"
+    ],
+    "unicode": "♋",
+    "sequences": [
+        "♋"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-zodiac"
+}

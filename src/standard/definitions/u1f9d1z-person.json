@@ -1,0 +1,18 @@
+{
+    "id": "u1f9d1z-person",
+    "type": "emoji",
+    "name": "person",
+    "alias": [
+        "person"
+    ],
+    "unicode": "🧑",
+    "sequences": [
+        "🧑"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person"
+}

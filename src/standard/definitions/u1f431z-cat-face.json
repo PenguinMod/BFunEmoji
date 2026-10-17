@@ -1,0 +1,20 @@
+{
+    "id": "u1f431z-cat-face",
+    "type": "emoji",
+    "name": "cat face",
+    "alias": [
+        "cat face",
+        "cat-face",
+        "cat_face"
+    ],
+    "unicode": "🐱",
+    "sequences": [
+        "🐱"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-mammal"
+}

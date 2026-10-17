@@ -1,0 +1,20 @@
+{
+    "id": "u1f320z-shooting-star",
+    "type": "emoji",
+    "name": "shooting star",
+    "alias": [
+        "shooting star",
+        "shooting-star",
+        "shooting_star"
+    ],
+    "unicode": "🌠",
+    "sequences": [
+        "🌠"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-sky-26-weather"
+}

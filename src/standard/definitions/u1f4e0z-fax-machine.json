@@ -1,0 +1,20 @@
+{
+    "id": "u1f4e0z-fax-machine",
+    "type": "emoji",
+    "name": "fax machine",
+    "alias": [
+        "fax machine",
+        "fax-machine",
+        "fax_machine"
+    ],
+    "unicode": "📠",
+    "sequences": [
+        "📠"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-phone"
+}

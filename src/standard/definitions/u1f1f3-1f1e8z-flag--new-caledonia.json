@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f3-1f1e8z-flag--new-caledonia",
+    "type": "emoji",
+    "name": "flag: New Caledonia",
+    "alias": [
+        "flag: New Caledonia",
+        "flag-new-caledonia",
+        "flag_new_caledonia"
+    ],
+    "unicode": "🇳🇨",
+    "sequences": [
+        "🇳🇨"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

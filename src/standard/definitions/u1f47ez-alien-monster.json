@@ -1,0 +1,20 @@
+{
+    "id": "u1f47ez-alien-monster",
+    "type": "emoji",
+    "name": "alien monster",
+    "alias": [
+        "alien monster",
+        "alien-monster",
+        "alien_monster"
+    ],
+    "unicode": "👾",
+    "sequences": [
+        "👾"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-costume"
+}

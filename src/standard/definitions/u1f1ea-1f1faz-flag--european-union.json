@@ -1,0 +1,20 @@
+{
+    "id": "u1f1ea-1f1faz-flag--european-union",
+    "type": "emoji",
+    "name": "flag: European Union",
+    "alias": [
+        "flag: European Union",
+        "flag-european-union",
+        "flag_european_union"
+    ],
+    "unicode": "🇪🇺",
+    "sequences": [
+        "🇪🇺"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

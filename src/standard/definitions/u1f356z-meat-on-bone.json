@@ -1,0 +1,20 @@
+{
+    "id": "u1f356z-meat-on-bone",
+    "type": "emoji",
+    "name": "meat on bone",
+    "alias": [
+        "meat on bone",
+        "meat-on-bone",
+        "meat_on_bone"
+    ],
+    "unicode": "🍖",
+    "sequences": [
+        "🍖"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-food-prepared"
+}

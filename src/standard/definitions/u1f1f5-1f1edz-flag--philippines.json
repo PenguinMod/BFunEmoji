@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f5-1f1edz-flag--philippines",
+    "type": "emoji",
+    "name": "flag: Philippines",
+    "alias": [
+        "flag: Philippines",
+        "flag-philippines",
+        "flag_philippines"
+    ],
+    "unicode": "🇵🇭",
+    "sequences": [
+        "🇵🇭"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

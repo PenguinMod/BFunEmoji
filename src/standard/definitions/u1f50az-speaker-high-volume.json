@@ -1,0 +1,20 @@
+{
+    "id": "u1f50az-speaker-high-volume",
+    "type": "emoji",
+    "name": "speaker high volume",
+    "alias": [
+        "speaker high volume",
+        "speaker-high-volume",
+        "speaker_high_volume"
+    ],
+    "unicode": "🔊",
+    "sequences": [
+        "🔊"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-sound"
+}

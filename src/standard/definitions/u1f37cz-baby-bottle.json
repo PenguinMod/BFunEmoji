@@ -1,0 +1,20 @@
+{
+    "id": "u1f37cz-baby-bottle",
+    "type": "emoji",
+    "name": "baby bottle",
+    "alias": [
+        "baby bottle",
+        "baby-bottle",
+        "baby_bottle"
+    ],
+    "unicode": "🍼",
+    "sequences": [
+        "🍼"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-drink"
+}

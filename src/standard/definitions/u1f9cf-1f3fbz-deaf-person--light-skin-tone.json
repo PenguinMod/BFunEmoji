@@ -1,0 +1,20 @@
+{
+    "id": "u1f9cf-1f3fbz-deaf-person--light-skin-tone",
+    "type": "emoji",
+    "name": "deaf person: light skin tone",
+    "alias": [
+        "deaf person: light skin tone",
+        "deaf-person-light-skin-tone",
+        "deaf_person_light_skin_tone"
+    ],
+    "unicode": "🧏🏻",
+    "sequences": [
+        "🧏🏻"
+    ],
+    "flags": [],
+    "emoji_version": "12.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-gesture"
+}

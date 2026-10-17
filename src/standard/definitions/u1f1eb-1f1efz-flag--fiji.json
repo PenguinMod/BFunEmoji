@@ -1,0 +1,20 @@
+{
+    "id": "u1f1eb-1f1efz-flag--fiji",
+    "type": "emoji",
+    "name": "flag: Fiji",
+    "alias": [
+        "flag: Fiji",
+        "flag-fiji",
+        "flag_fiji"
+    ],
+    "unicode": "🇫🇯",
+    "sequences": [
+        "🇫🇯"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

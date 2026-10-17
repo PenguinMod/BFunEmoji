@@ -1,0 +1,20 @@
+{
+    "id": "u1f3b5z-musical-note",
+    "type": "emoji",
+    "name": "musical note",
+    "alias": [
+        "musical note",
+        "musical-note",
+        "musical_note"
+    ],
+    "unicode": "🎵",
+    "sequences": [
+        "🎵"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-music"
+}

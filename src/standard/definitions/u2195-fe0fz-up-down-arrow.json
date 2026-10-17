@@ -1,0 +1,21 @@
+{
+    "id": "u2195-fe0fz-up-down-arrow",
+    "type": "emoji",
+    "name": "up-down arrow",
+    "alias": [
+        "up-down arrow",
+        "up-down-arrow",
+        "up_down_arrow"
+    ],
+    "unicode": "↕️",
+    "sequences": [
+        "↕️",
+        "↕"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-arrow"
+}

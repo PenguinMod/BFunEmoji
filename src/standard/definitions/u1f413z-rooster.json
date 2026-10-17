@@ -1,0 +1,18 @@
+{
+    "id": "u1f413z-rooster",
+    "type": "emoji",
+    "name": "rooster",
+    "alias": [
+        "rooster"
+    ],
+    "unicode": "🐓",
+    "sequences": [
+        "🐓"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-bird"
+}

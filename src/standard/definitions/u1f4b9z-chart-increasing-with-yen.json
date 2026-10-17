@@ -1,0 +1,20 @@
+{
+    "id": "u1f4b9z-chart-increasing-with-yen",
+    "type": "emoji",
+    "name": "chart increasing with yen",
+    "alias": [
+        "chart increasing with yen",
+        "chart-increasing-with-yen",
+        "chart_increasing_with_yen"
+    ],
+    "unicode": "💹",
+    "sequences": [
+        "💹"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-money"
+}

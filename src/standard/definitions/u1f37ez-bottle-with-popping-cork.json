@@ -1,0 +1,20 @@
+{
+    "id": "u1f37ez-bottle-with-popping-cork",
+    "type": "emoji",
+    "name": "bottle with popping cork",
+    "alias": [
+        "bottle with popping cork",
+        "bottle-with-popping-cork",
+        "bottle_with_popping_cork"
+    ],
+    "unicode": "🍾",
+    "sequences": [
+        "🍾"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-drink"
+}

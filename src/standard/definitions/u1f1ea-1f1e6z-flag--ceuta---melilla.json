@@ -1,0 +1,20 @@
+{
+    "id": "u1f1ea-1f1e6z-flag--ceuta---melilla",
+    "type": "emoji",
+    "name": "flag: Ceuta & Melilla",
+    "alias": [
+        "flag: Ceuta & Melilla",
+        "flag-ceuta-melilla",
+        "flag_ceuta_melilla"
+    ],
+    "unicode": "🇪🇦",
+    "sequences": [
+        "🇪🇦"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

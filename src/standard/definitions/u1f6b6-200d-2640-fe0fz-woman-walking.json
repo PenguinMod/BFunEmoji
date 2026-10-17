@@ -1,0 +1,21 @@
+{
+    "id": "u1f6b6-200d-2640-fe0fz-woman-walking",
+    "type": "emoji",
+    "name": "woman walking",
+    "alias": [
+        "woman walking",
+        "woman-walking",
+        "woman_walking"
+    ],
+    "unicode": "🚶‍♀️",
+    "sequences": [
+        "🚶‍♀️",
+        "🚶‍♀"
+    ],
+    "flags": [],
+    "emoji_version": "4.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-activity"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "u23f1-fe0fz-stopwatch",
+    "type": "emoji",
+    "name": "stopwatch",
+    "alias": [
+        "stopwatch"
+    ],
+    "unicode": "⏱️",
+    "sequences": [
+        "⏱️",
+        "⏱"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-time"
+}

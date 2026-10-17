@@ -1,0 +1,20 @@
+{
+    "id": "u1f9d5z-woman-with-headscarf",
+    "type": "emoji",
+    "name": "woman with headscarf",
+    "alias": [
+        "woman with headscarf",
+        "woman-with-headscarf",
+        "woman_with_headscarf"
+    ],
+    "unicode": "🧕",
+    "sequences": [
+        "🧕"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-role"
+}

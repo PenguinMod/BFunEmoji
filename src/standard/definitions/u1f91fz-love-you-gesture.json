@@ -1,0 +1,20 @@
+{
+    "id": "u1f91fz-love-you-gesture",
+    "type": "emoji",
+    "name": "love-you gesture",
+    "alias": [
+        "love-you gesture",
+        "love-you-gesture",
+        "love_you_gesture"
+    ],
+    "unicode": "🤟",
+    "sequences": [
+        "🤟"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-hand-fingers-partial"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "u1f645-200d-2640-fe0fz-woman-gesturing-no",
+    "type": "emoji",
+    "name": "woman gesturing NO",
+    "alias": [
+        "woman gesturing NO",
+        "woman-gesturing-no",
+        "woman_gesturing_no"
+    ],
+    "unicode": "🙅‍♀️",
+    "sequences": [
+        "🙅‍♀️",
+        "🙅‍♀"
+    ],
+    "flags": [],
+    "emoji_version": "4.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-gesture"
+}

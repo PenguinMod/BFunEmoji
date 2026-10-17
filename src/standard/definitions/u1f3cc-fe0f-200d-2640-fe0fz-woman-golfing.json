@@ -1,0 +1,23 @@
+{
+    "id": "u1f3cc-fe0f-200d-2640-fe0fz-woman-golfing",
+    "type": "emoji",
+    "name": "woman golfing",
+    "alias": [
+        "woman golfing",
+        "woman-golfing",
+        "woman_golfing"
+    ],
+    "unicode": "🏌️‍♀️",
+    "sequences": [
+        "🏌️‍♀️",
+        "🏌‍♀️",
+        "🏌️‍♀",
+        "🏌‍♀"
+    ],
+    "flags": [],
+    "emoji_version": "4.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-sport"
+}

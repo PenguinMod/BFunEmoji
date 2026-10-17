@@ -1,0 +1,20 @@
+{
+    "id": "u1f1ea-1f1f8z-flag--spain",
+    "type": "emoji",
+    "name": "flag: Spain",
+    "alias": [
+        "flag: Spain",
+        "flag-spain",
+        "flag_spain"
+    ],
+    "unicode": "🇪🇸",
+    "sequences": [
+        "🇪🇸"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

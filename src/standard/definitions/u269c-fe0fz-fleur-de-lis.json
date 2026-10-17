@@ -1,0 +1,20 @@
+{
+    "id": "u269c-fe0fz-fleur-de-lis",
+    "type": "emoji",
+    "name": "fleur-de-lis",
+    "alias": [
+        "fleur-de-lis",
+        "fleur_de_lis"
+    ],
+    "unicode": "⚜️",
+    "sequences": [
+        "⚜️",
+        "⚜"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-other-symbol"
+}

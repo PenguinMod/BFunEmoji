@@ -1,0 +1,19 @@
+{
+    "id": "u26cf-fe0fz-pick",
+    "type": "emoji",
+    "name": "pick",
+    "alias": [
+        "pick"
+    ],
+    "unicode": "⛏️",
+    "sequences": [
+        "⛏️",
+        "⛏"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-tool"
+}

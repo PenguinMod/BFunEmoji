@@ -1,0 +1,21 @@
+{
+    "id": "u262f-fe0fz-yin-yang",
+    "type": "emoji",
+    "name": "yin yang",
+    "alias": [
+        "yin yang",
+        "yin-yang",
+        "yin_yang"
+    ],
+    "unicode": "☯️",
+    "sequences": [
+        "☯️",
+        "☯"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-religion"
+}

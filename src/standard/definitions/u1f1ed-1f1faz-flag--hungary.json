@@ -1,0 +1,20 @@
+{
+    "id": "u1f1ed-1f1faz-flag--hungary",
+    "type": "emoji",
+    "name": "flag: Hungary",
+    "alias": [
+        "flag: Hungary",
+        "flag-hungary",
+        "flag_hungary"
+    ],
+    "unicode": "🇭🇺",
+    "sequences": [
+        "🇭🇺"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

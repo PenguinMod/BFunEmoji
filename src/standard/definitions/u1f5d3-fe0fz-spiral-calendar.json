@@ -1,0 +1,21 @@
+{
+    "id": "u1f5d3-fe0fz-spiral-calendar",
+    "type": "emoji",
+    "name": "spiral calendar",
+    "alias": [
+        "spiral calendar",
+        "spiral-calendar",
+        "spiral_calendar"
+    ],
+    "unicode": "🗓️",
+    "sequences": [
+        "🗓️",
+        "🗓"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-office"
+}

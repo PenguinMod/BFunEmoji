@@ -1,0 +1,18 @@
+{
+    "id": "u1faa2z-knot",
+    "type": "emoji",
+    "name": "knot",
+    "alias": [
+        "knot"
+    ],
+    "unicode": "🪢",
+    "sequences": [
+        "🪢"
+    ],
+    "flags": [],
+    "emoji_version": "13.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-arts-26-crafts"
+}

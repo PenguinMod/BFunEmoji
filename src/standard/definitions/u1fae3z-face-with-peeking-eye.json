@@ -1,0 +1,20 @@
+{
+    "id": "u1fae3z-face-with-peeking-eye",
+    "type": "emoji",
+    "name": "face with peeking eye",
+    "alias": [
+        "face with peeking eye",
+        "face-with-peeking-eye",
+        "face_with_peeking_eye"
+    ],
+    "unicode": "🫣",
+    "sequences": [
+        "🫣"
+    ],
+    "flags": [],
+    "emoji_version": "14.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-hand"
+}

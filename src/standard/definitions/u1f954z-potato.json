@@ -1,0 +1,18 @@
+{
+    "id": "u1f954z-potato",
+    "type": "emoji",
+    "name": "potato",
+    "alias": [
+        "potato"
+    ],
+    "unicode": "🥔",
+    "sequences": [
+        "🥔"
+    ],
+    "flags": [],
+    "emoji_version": "3.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-food-vegetable"
+}

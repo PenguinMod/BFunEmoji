@@ -1,0 +1,18 @@
+{
+    "id": "u1f9dbz-vampire",
+    "type": "emoji",
+    "name": "vampire",
+    "alias": [
+        "vampire"
+    ],
+    "unicode": "🧛",
+    "sequences": [
+        "🧛"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-fantasy"
+}

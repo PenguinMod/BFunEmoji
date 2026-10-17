@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f1-1f1e6z-flag--laos",
+    "type": "emoji",
+    "name": "flag: Laos",
+    "alias": [
+        "flag: Laos",
+        "flag-laos",
+        "flag_laos"
+    ],
+    "unicode": "🇱🇦",
+    "sequences": [
+        "🇱🇦"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

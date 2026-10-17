@@ -1,0 +1,18 @@
+{
+    "id": "u1f4dcz-scroll",
+    "type": "emoji",
+    "name": "scroll",
+    "alias": [
+        "scroll"
+    ],
+    "unicode": "📜",
+    "sequences": [
+        "📜"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-book-paper"
+}

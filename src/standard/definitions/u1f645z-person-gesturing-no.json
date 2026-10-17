@@ -1,0 +1,20 @@
+{
+    "id": "u1f645z-person-gesturing-no",
+    "type": "emoji",
+    "name": "person gesturing NO",
+    "alias": [
+        "person gesturing NO",
+        "person-gesturing-no",
+        "person_gesturing_no"
+    ],
+    "unicode": "🙅",
+    "sequences": [
+        "🙅"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-gesture"
+}

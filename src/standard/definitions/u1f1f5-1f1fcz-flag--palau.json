@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f5-1f1fcz-flag--palau",
+    "type": "emoji",
+    "name": "flag: Palau",
+    "alias": [
+        "flag: Palau",
+        "flag-palau",
+        "flag_palau"
+    ],
+    "unicode": "🇵🇼",
+    "sequences": [
+        "🇵🇼"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

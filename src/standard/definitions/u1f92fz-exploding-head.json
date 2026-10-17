@@ -1,0 +1,20 @@
+{
+    "id": "u1f92fz-exploding-head",
+    "type": "emoji",
+    "name": "exploding head",
+    "alias": [
+        "exploding head",
+        "exploding-head",
+        "exploding_head"
+    ],
+    "unicode": "🤯",
+    "sequences": [
+        "🤯"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-unwell"
+}

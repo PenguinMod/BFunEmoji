@@ -1,0 +1,21 @@
+{
+    "id": "u1f926-200d-2642-fe0fz-man-facepalming",
+    "type": "emoji",
+    "name": "man facepalming",
+    "alias": [
+        "man facepalming",
+        "man-facepalming",
+        "man_facepalming"
+    ],
+    "unicode": "🤦‍♂️",
+    "sequences": [
+        "🤦‍♂️",
+        "🤦‍♂"
+    ],
+    "flags": [],
+    "emoji_version": "4.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-gesture"
+}

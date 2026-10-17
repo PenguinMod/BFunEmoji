@@ -1,0 +1,21 @@
+{
+    "id": "u1f5bc-fe0fz-framed-picture",
+    "type": "emoji",
+    "name": "framed picture",
+    "alias": [
+        "framed picture",
+        "framed-picture",
+        "framed_picture"
+    ],
+    "unicode": "🖼️",
+    "sequences": [
+        "🖼️",
+        "🖼"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-arts-26-crafts"
+}

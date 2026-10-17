@@ -1,0 +1,19 @@
+{
+    "id": "u1f455z-t-shirt",
+    "type": "emoji",
+    "name": "t-shirt",
+    "alias": [
+        "t-shirt",
+        "t_shirt"
+    ],
+    "unicode": "👕",
+    "sequences": [
+        "👕"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-clothing"
+}

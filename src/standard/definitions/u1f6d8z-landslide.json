@@ -1,0 +1,18 @@
+{
+    "id": "u1f6d8z-landslide",
+    "type": "emoji",
+    "name": "landslide",
+    "alias": [
+        "landslide"
+    ],
+    "unicode": "🛘",
+    "sequences": [
+        "🛘"
+    ],
+    "flags": [],
+    "emoji_version": "17.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-place-geographic"
+}

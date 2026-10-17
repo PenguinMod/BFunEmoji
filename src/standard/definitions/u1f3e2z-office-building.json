@@ -1,0 +1,20 @@
+{
+    "id": "u1f3e2z-office-building",
+    "type": "emoji",
+    "name": "office building",
+    "alias": [
+        "office building",
+        "office-building",
+        "office_building"
+    ],
+    "unicode": "🏢",
+    "sequences": [
+        "🏢"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-place-building"
+}

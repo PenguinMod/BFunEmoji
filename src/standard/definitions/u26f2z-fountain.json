@@ -1,0 +1,18 @@
+{
+    "id": "u26f2z-fountain",
+    "type": "emoji",
+    "name": "fountain",
+    "alias": [
+        "fountain"
+    ],
+    "unicode": "⛲",
+    "sequences": [
+        "⛲"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-place-other"
+}

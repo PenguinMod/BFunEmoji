@@ -1,0 +1,21 @@
+{
+    "id": "u26f8-fe0fz-ice-skate",
+    "type": "emoji",
+    "name": "ice skate",
+    "alias": [
+        "ice skate",
+        "ice-skate",
+        "ice_skate"
+    ],
+    "unicode": "⛸️",
+    "sequences": [
+        "⛸️",
+        "⛸"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-sport"
+}

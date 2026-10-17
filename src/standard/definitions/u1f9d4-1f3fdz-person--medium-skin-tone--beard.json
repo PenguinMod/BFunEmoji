@@ -1,0 +1,20 @@
+{
+    "id": "u1f9d4-1f3fdz-person--medium-skin-tone--beard",
+    "type": "emoji",
+    "name": "person: medium skin tone, beard",
+    "alias": [
+        "person: medium skin tone, beard",
+        "person-medium-skin-tone-beard",
+        "person_medium_skin_tone_beard"
+    ],
+    "unicode": "🧔🏽",
+    "sequences": [
+        "🧔🏽"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person"
+}

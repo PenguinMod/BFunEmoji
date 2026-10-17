@@ -1,0 +1,19 @@
+{
+    "id": "u1f383z-jack-o-lantern",
+    "type": "emoji",
+    "name": "jack-o-lantern",
+    "alias": [
+        "jack-o-lantern",
+        "jack_o_lantern"
+    ],
+    "unicode": "🎃",
+    "sequences": [
+        "🎃"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-event"
+}

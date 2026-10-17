@@ -1,0 +1,20 @@
+{
+    "id": "u1f1e7-1f1fbz-flag--bouvet-island",
+    "type": "emoji",
+    "name": "flag: Bouvet Island",
+    "alias": [
+        "flag: Bouvet Island",
+        "flag-bouvet-island",
+        "flag_bouvet_island"
+    ],
+    "unicode": "🇧🇻",
+    "sequences": [
+        "🇧🇻"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

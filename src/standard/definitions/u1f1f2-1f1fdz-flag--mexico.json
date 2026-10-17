@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f2-1f1fdz-flag--mexico",
+    "type": "emoji",
+    "name": "flag: Mexico",
+    "alias": [
+        "flag: Mexico",
+        "flag-mexico",
+        "flag_mexico"
+    ],
+    "unicode": "🇲🇽",
+    "sequences": [
+        "🇲🇽"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

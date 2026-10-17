@@ -1,0 +1,20 @@
+{
+    "id": "u1f1e6-1f1f1z-flag--albania",
+    "type": "emoji",
+    "name": "flag: Albania",
+    "alias": [
+        "flag: Albania",
+        "flag-albania",
+        "flag_albania"
+    ],
+    "unicode": "🇦🇱",
+    "sequences": [
+        "🇦🇱"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

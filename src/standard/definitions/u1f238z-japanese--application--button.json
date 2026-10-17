@@ -1,0 +1,20 @@
+{
+    "id": "u1f238z-japanese--application--button",
+    "type": "emoji",
+    "name": "Japanese “application” button",
+    "alias": [
+        "Japanese “application” button",
+        "japanese-application-button",
+        "japanese_application_button"
+    ],
+    "unicode": "🈸",
+    "sequences": [
+        "🈸"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-alphanum"
+}

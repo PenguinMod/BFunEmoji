@@ -1,0 +1,20 @@
+{
+    "id": "u1f4b5z-dollar-banknote",
+    "type": "emoji",
+    "name": "dollar banknote",
+    "alias": [
+        "dollar banknote",
+        "dollar-banknote",
+        "dollar_banknote"
+    ],
+    "unicode": "💵",
+    "sequences": [
+        "💵"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-money"
+}
