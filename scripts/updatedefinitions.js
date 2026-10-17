@@ -126,7 +126,7 @@ const saveEmojiInFolder = async (saveFolder, emoji) => {
             ...existingData,
             ...emoji,
             name: existingData.name,
-            alias: [...new Set([...emoji.alias, ...existingData.alias])],
+            alias: [...new Set(existingData.alias)],
             sequences: [...new Set([...emoji.sequences, ...existingData.sequences])],
             emoji_type: existingData.emoji_type,
             completed: existingData.completed,
