@@ -253,7 +253,11 @@ if (collectionTarget === "standard") {
             const emojiDefinition = createEmoji();
             emojiDefinition.type = "emoji";
             emojiDefinition.name = emojiCldrName;
-            emojiDefinition.alias = [...new Set([emojiCldrName, emojiCldrName.replace(/\s+/g, "-"), emojiCldrName.replace(/\s+/g, "_")])];
+            emojiDefinition.alias = [...new Set([
+                emojiCldrName,
+                emojiCldrName.toLowerCase().replace(/[^a-z0-9]+/g, "-"),
+                emojiCldrName.toLowerCase().replace(/[^a-z0-9]+/g, "_")
+            ])];
             emojiDefinition.unicode = emojiCreated;
             emojiDefinition.sequences = [emojiCreated];
             emojiDefinition.emoji_version = emojiVersion;
