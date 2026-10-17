@@ -62,11 +62,22 @@ const createEmoji = () => {
     };
 };
 
+const makeCodepointString = (char) => {
+    return [...char].map(piece => piece.charCodeAt(0).toString(16)).join("-");
+};
 const makeGroupId = (group) => {
     const normalizedName = group.name.toLowerCase()
         .replace(/\s+/g, "-")
-        .replace(/[^a-z\-\_]+/g, (char) => [...char].map(piece => piece.charCodeAt(0).toString(16)).join("-"));
+        .replace(/[^a-z\-\_]+/g, makeCodepointString);
     return `${group.type}-${normalizedName}`;
+};
+const makeEmojiId = (emoji) => {
+    if (emoji.collection !== "standard")
+        throw new Error("Unimplemented");
+    return (emoji.collection === "standard" ? "u" : "c")
+        + makeCodepointString(emoji.unicode)
+        + "-"
+        + emoji.name.toLowerCase().replace(/[^a-z]/g, "-");
 };
 
 const saveGroupToFile = async (savePath, group) => {
@@ -95,7 +106,7 @@ if (collectionTarget === "standard") {
 
     // NOTE: For standard emoji:
     /**
-     * id: This should start with `u` to denote Unicode Standard, and then the hex code points separated by dashes. Then, add a separating dash. Anything after the dash is not required in the sense that: if a drawn file already exists that uses the hex code points in the start of its file name, then the ID should be derived from that drawn file. Otherwise, create the ID by inserting the CLDR Short Name after the separating dash in lowercase, with non A-Z characters replaced with dashes.
+     * id: This should start with `u` to denote Unicode Standard, and then the hex code points separated by dashes. Then, add a separating dash. Anything after the dash is not required in the sense that: if a definition file already exists that uses the hex code points in the start of its file name, then the ID should be derived from that definition file. Otherwise, create the ID by inserting the CLDR Short Name after the separating dash in lowercase, with non A-Z characters replaced with dashes.
      * name: The CLDR Short Name. This may change for newer emojis, and the old name should be included in alias.
      * alias: The CLDR Short Name, then a version with dashes, then a version with underscores, then others added for legacy or compatibility reasons.
      * unicode: The preferred character sequence to create this emoji.
@@ -182,12 +193,43 @@ if (collectionTarget === "standard") {
         // grab emojis
         // NOTE: Don't use trimLine here for precaution because emojis use zero-width symbols
         // Format: code points; status # 🙂 E1.0 slightly smiling face
+        // grab the codepoints because they are before the ; and can be trimmed after
         const emojiSplit = line.split(";");
-        const codePoints = emojiSplit.shift().trim();
+        const codePoints = emojiSplit.shift().trim().split(" ");
+        const emojiCreated = codePoints.map(codePoint => String.fromCodePoint(parseInt(codePoint, 16))).join("");
+        // grab the status after the ; but before the # (we can also trim it after)
         const metaSplit = emojiSplit.join(";").split("#");
         const status = metaSplit.shift().trim();
+        // slice to the first E character for emoji version, then anything by spaces after is a CLDR name we can trim
         const emojiInfo = metaSplit.join("#");
-        
+        const versionIndex = emojiInfo.indexOf("E");
+        const versionSlice = emojiInfo.slice(versionIndex + 1).split(" ");
+        const emojiVersion = versionSlice.shift();
+        const emojiCldrName = versionSlice.join(" ");
+        // create definition if we're qualified or a component
+        if (status === "fully-qualified" || status === "component") {
+            // NOTE: We assume that minimally-qualified or unqualified must be part of a fully-qualified emoji already created
+            const emojiDefinition = createEmoji();
+            emojiDefinition.type = "emoji";
+            emojiDefinition.name = emojiCldrName;
+            emojiDefinition.alias = [emojiCldrName];
+            emojiDefinition.unicode = emojiCreated;
+            emojiDefinition.sequences = [emojiCreated];
+            emojiDefinition.emoji_version = emojiVersion;
+            emojiDefinition.emoji_type = status !== "component" ? "qualified" : "component";
+            emojiDefinition.collection = "standard";
+            emojiDefinition.completed = false;
+            emojiDefinition.group = currentSubgroup.id;
+            emojiDefinition.id = makeEmojiId(emojiDefinition);
+            currentEmojis.push(emojiDefinition);
+        } else {
+            // we're part of another emoji's sequence set
+            // NOTE: For simplicity right now we just assume that we're part of the previous emoji.
+            const latestEmoji = currentEmojis.at(-1);
+            if (!latestEmoji)
+                throw new Error("Reached non-fully-qualified emoji before reaching any fully-qualified emoji");
+            latestEmoji.sequences.push(emojiCreated);
+        }
     }
 }
 
