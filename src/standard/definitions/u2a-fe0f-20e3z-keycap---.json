@@ -4,8 +4,8 @@
     "name": "keycap: *",
     "alias": [
         "keycap: *",
-        "keycap-",
-        "keycap_"
+        "keycap-asterisk",
+        "keycap_asterisk"
     ],
     "unicode": "*️⃣",
     "sequences": [

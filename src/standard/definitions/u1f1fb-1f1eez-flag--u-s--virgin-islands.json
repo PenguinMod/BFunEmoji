@@ -4,8 +4,8 @@
     "name": "flag: U.S. Virgin Islands",
     "alias": [
         "flag: U.S. Virgin Islands",
-        "flag-u-s-virgin-islands",
-        "flag_u_s_virgin_islands"
+        "flag-us-virgin-islands",
+        "flag_us_virgin_islands"
     ],
     "unicode": "🇻🇮",
     "sequences": [

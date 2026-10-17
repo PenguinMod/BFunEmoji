@@ -4,8 +4,8 @@
     "name": "flag: U.S. Outlying Islands",
     "alias": [
         "flag: U.S. Outlying Islands",
-        "flag-u-s-outlying-islands",
-        "flag_u_s_outlying_islands"
+        "flag-us-outlying-islands",
+        "flag_us_outlying_islands"
     ],
     "unicode": "🇺🇲",
     "sequences": [

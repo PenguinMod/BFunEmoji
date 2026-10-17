@@ -4,8 +4,8 @@
     "name": "B button (blood type)",
     "alias": [
         "B button (blood type)",
-        "b-button-blood-type-",
-        "b_button_blood_type_"
+        "b-button",
+        "b_button"
     ],
     "unicode": "🅱️",
     "sequences": [

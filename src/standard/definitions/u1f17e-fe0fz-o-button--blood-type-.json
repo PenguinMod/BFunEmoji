@@ -4,8 +4,8 @@
     "name": "O button (blood type)",
     "alias": [
         "O button (blood type)",
-        "o-button-blood-type-",
-        "o_button_blood_type_"
+        "o-button",
+        "o_button"
     ],
     "unicode": "🅾️",
     "sequences": [

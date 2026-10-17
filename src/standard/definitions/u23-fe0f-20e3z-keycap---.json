@@ -4,8 +4,8 @@
     "name": "keycap: #",
     "alias": [
         "keycap: #",
-        "keycap-",
-        "keycap_"
+        "keycap-hash",
+        "keycap_hash"
     ],
     "unicode": "#️⃣",
     "sequences": [

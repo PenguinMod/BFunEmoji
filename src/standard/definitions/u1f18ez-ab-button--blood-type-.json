@@ -4,8 +4,8 @@
     "name": "AB button (blood type)",
     "alias": [
         "AB button (blood type)",
-        "ab-button-blood-type-",
-        "ab_button_blood_type_"
+        "ab-button",
+        "ab_button"
     ],
     "unicode": "🆎",
     "sequences": [
