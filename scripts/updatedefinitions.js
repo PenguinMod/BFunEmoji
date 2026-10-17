@@ -76,7 +76,7 @@ const makeEmojiId = (emoji) => {
         throw new Error("Unimplemented");
     return (emoji.collection === "standard" ? "u" : "c")
         + makeCodepointString(emoji.unicode)
-        + "-"
+        + "z-"
         + emoji.name.toLowerCase().replace(/[^a-z]/g, "-");
 };
 
@@ -111,7 +111,7 @@ const saveEmojiInFolder = async (saveFolder, emoji) => {
     try {
         // drop to catch & finally to make the new data if we dont find anything
         const codePoints = makeCodepointString(emoji.unicode);
-        const existingFileName = definitions.find(fileName => fileName.startsWith(`u${codePoints}-`));
+        const existingFileName = definitions.find(fileName => fileName.startsWith(`u${codePoints}z-`));
         if (!existingFileName)
             throw new Error("No matches");
         // We also need to change the ID (intentional mutation)
@@ -253,7 +253,7 @@ if (collectionTarget === "standard") {
             const emojiDefinition = createEmoji();
             emojiDefinition.type = "emoji";
             emojiDefinition.name = emojiCldrName;
-            emojiDefinition.alias = [emojiCldrName, emojiCldrName.replace(/\s+/g, "-"), emojiCldrName.replace(/\s+/g, "_")];
+            emojiDefinition.alias = [...new Set([emojiCldrName, emojiCldrName.replace(/\s+/g, "-"), emojiCldrName.replace(/\s+/g, "_")])];
             emojiDefinition.unicode = emojiCreated;
             emojiDefinition.sequences = [emojiCreated];
             emojiDefinition.emoji_version = emojiVersion;
