@@ -1,0 +1,21 @@
+{
+    "id": "u2640-fe0fz-female-sign",
+    "type": "emoji",
+    "name": "female sign",
+    "alias": [
+        "female sign",
+        "female-sign",
+        "female_sign"
+    ],
+    "unicode": "♀️",
+    "sequences": [
+        "♀️",
+        "♀"
+    ],
+    "flags": [],
+    "emoji_version": "4.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-gender"
+}

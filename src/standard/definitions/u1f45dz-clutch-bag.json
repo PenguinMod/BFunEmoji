@@ -1,0 +1,20 @@
+{
+    "id": "u1f45dz-clutch-bag",
+    "type": "emoji",
+    "name": "clutch bag",
+    "alias": [
+        "clutch bag",
+        "clutch-bag",
+        "clutch_bag"
+    ],
+    "unicode": "👝",
+    "sequences": [
+        "👝"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-clothing"
+}

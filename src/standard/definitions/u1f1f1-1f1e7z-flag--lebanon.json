@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f1-1f1e7z-flag--lebanon",
+    "type": "emoji",
+    "name": "flag: Lebanon",
+    "alias": [
+        "flag: Lebanon",
+        "flag:-Lebanon",
+        "flag:_Lebanon"
+    ],
+    "unicode": "🇱🇧",
+    "sequences": [
+        "🇱🇧"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

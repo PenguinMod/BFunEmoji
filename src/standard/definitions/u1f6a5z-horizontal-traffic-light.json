@@ -1,0 +1,20 @@
+{
+    "id": "u1f6a5z-horizontal-traffic-light",
+    "type": "emoji",
+    "name": "horizontal traffic light",
+    "alias": [
+        "horizontal traffic light",
+        "horizontal-traffic-light",
+        "horizontal_traffic_light"
+    ],
+    "unicode": "🚥",
+    "sequences": [
+        "🚥"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-transport-ground"
+}

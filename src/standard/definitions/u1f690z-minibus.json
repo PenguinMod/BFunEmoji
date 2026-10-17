@@ -1,0 +1,18 @@
+{
+    "id": "u1f690z-minibus",
+    "type": "emoji",
+    "name": "minibus",
+    "alias": [
+        "minibus"
+    ],
+    "unicode": "🚐",
+    "sequences": [
+        "🚐"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-transport-ground"
+}

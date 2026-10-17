@@ -1,0 +1,20 @@
+{
+    "id": "u1f4edz-open-mailbox-with-lowered-flag",
+    "type": "emoji",
+    "name": "open mailbox with lowered flag",
+    "alias": [
+        "open mailbox with lowered flag",
+        "open-mailbox-with-lowered-flag",
+        "open_mailbox_with_lowered_flag"
+    ],
+    "unicode": "📭",
+    "sequences": [
+        "📭"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-mail"
+}

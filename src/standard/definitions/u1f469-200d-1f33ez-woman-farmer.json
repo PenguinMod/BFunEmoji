@@ -1,0 +1,20 @@
+{
+    "id": "u1f469-200d-1f33ez-woman-farmer",
+    "type": "emoji",
+    "name": "woman farmer",
+    "alias": [
+        "woman farmer",
+        "woman-farmer",
+        "woman_farmer"
+    ],
+    "unicode": "👩‍🌾",
+    "sequences": [
+        "👩‍🌾"
+    ],
+    "flags": [],
+    "emoji_version": "4.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-role"
+}

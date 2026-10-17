@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f0-1f1eaz-flag--kenya",
+    "type": "emoji",
+    "name": "flag: Kenya",
+    "alias": [
+        "flag: Kenya",
+        "flag:-Kenya",
+        "flag:_Kenya"
+    ],
+    "unicode": "🇰🇪",
+    "sequences": [
+        "🇰🇪"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

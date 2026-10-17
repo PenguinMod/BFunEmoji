@@ -1,0 +1,21 @@
+{
+    "id": "u23f2-fe0fz-timer-clock",
+    "type": "emoji",
+    "name": "timer clock",
+    "alias": [
+        "timer clock",
+        "timer-clock",
+        "timer_clock"
+    ],
+    "unicode": "⏲️",
+    "sequences": [
+        "⏲️",
+        "⏲"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-time"
+}

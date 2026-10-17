@@ -1,0 +1,20 @@
+{
+    "id": "u1f3a1z-ferris-wheel",
+    "type": "emoji",
+    "name": "ferris wheel",
+    "alias": [
+        "ferris wheel",
+        "ferris-wheel",
+        "ferris_wheel"
+    ],
+    "unicode": "🎡",
+    "sequences": [
+        "🎡"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-place-other"
+}

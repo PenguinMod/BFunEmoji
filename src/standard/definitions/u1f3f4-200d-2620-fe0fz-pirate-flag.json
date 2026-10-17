@@ -1,0 +1,21 @@
+{
+    "id": "u1f3f4-200d-2620-fe0fz-pirate-flag",
+    "type": "emoji",
+    "name": "pirate flag",
+    "alias": [
+        "pirate flag",
+        "pirate-flag",
+        "pirate_flag"
+    ],
+    "unicode": "🏴‍☠️",
+    "sequences": [
+        "🏴‍☠️",
+        "🏴‍☠"
+    ],
+    "flags": [],
+    "emoji_version": "11.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-flag"
+}

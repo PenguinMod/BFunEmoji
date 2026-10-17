@@ -1,0 +1,19 @@
+{
+    "id": "u26a0-fe0fz-warning",
+    "type": "emoji",
+    "name": "warning",
+    "alias": [
+        "warning"
+    ],
+    "unicode": "⚠️",
+    "sequences": [
+        "⚠️",
+        "⚠"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-warning"
+}

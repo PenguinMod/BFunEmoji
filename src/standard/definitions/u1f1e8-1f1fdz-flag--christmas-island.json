@@ -1,0 +1,20 @@
+{
+    "id": "u1f1e8-1f1fdz-flag--christmas-island",
+    "type": "emoji",
+    "name": "flag: Christmas Island",
+    "alias": [
+        "flag: Christmas Island",
+        "flag:-Christmas-Island",
+        "flag:_Christmas_Island"
+    ],
+    "unicode": "🇨🇽",
+    "sequences": [
+        "🇨🇽"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

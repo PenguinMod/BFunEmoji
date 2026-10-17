@@ -1,0 +1,20 @@
+{
+    "id": "u1f1ee-1f1f2z-flag--isle-of-man",
+    "type": "emoji",
+    "name": "flag: Isle of Man",
+    "alias": [
+        "flag: Isle of Man",
+        "flag:-Isle-of-Man",
+        "flag:_Isle_of_Man"
+    ],
+    "unicode": "🇮🇲",
+    "sequences": [
+        "🇮🇲"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

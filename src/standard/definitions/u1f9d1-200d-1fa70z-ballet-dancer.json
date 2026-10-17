@@ -1,0 +1,20 @@
+{
+    "id": "u1f9d1-200d-1fa70z-ballet-dancer",
+    "type": "emoji",
+    "name": "ballet dancer",
+    "alias": [
+        "ballet dancer",
+        "ballet-dancer",
+        "ballet_dancer"
+    ],
+    "unicode": "🧑‍🩰",
+    "sequences": [
+        "🧑‍🩰"
+    ],
+    "flags": [],
+    "emoji_version": "17.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-activity"
+}

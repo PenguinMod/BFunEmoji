@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f8-1f1fez-flag--syria",
+    "type": "emoji",
+    "name": "flag: Syria",
+    "alias": [
+        "flag: Syria",
+        "flag:-Syria",
+        "flag:_Syria"
+    ],
+    "unicode": "🇸🇾",
+    "sequences": [
+        "🇸🇾"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

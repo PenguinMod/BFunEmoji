@@ -1,0 +1,20 @@
+{
+    "id": "u1f34fz-green-apple",
+    "type": "emoji",
+    "name": "green apple",
+    "alias": [
+        "green apple",
+        "green-apple",
+        "green_apple"
+    ],
+    "unicode": "🍏",
+    "sequences": [
+        "🍏"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-food-fruit"
+}

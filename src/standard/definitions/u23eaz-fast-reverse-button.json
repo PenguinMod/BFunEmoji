@@ -1,0 +1,20 @@
+{
+    "id": "u23eaz-fast-reverse-button",
+    "type": "emoji",
+    "name": "fast reverse button",
+    "alias": [
+        "fast reverse button",
+        "fast-reverse-button",
+        "fast_reverse_button"
+    ],
+    "unicode": "⏪",
+    "sequences": [
+        "⏪"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-av-symbol"
+}

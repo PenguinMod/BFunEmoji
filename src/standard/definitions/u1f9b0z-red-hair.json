@@ -1,0 +1,20 @@
+{
+    "id": "u1f9b0z-red-hair",
+    "type": "emoji",
+    "name": "red hair",
+    "alias": [
+        "red hair",
+        "red-hair",
+        "red_hair"
+    ],
+    "unicode": "🦰",
+    "sequences": [
+        "🦰"
+    ],
+    "flags": [],
+    "emoji_version": "11.0",
+    "emoji_type": "component",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-hair-style"
+}

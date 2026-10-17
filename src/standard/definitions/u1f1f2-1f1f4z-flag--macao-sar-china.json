@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f2-1f1f4z-flag--macao-sar-china",
+    "type": "emoji",
+    "name": "flag: Macao SAR China",
+    "alias": [
+        "flag: Macao SAR China",
+        "flag:-Macao-SAR-China",
+        "flag:_Macao_SAR_China"
+    ],
+    "unicode": "🇲🇴",
+    "sequences": [
+        "🇲🇴"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f959z-stuffed-flatbread",
+    "type": "emoji",
+    "name": "stuffed flatbread",
+    "alias": [
+        "stuffed flatbread",
+        "stuffed-flatbread",
+        "stuffed_flatbread"
+    ],
+    "unicode": "🥙",
+    "sequences": [
+        "🥙"
+    ],
+    "flags": [],
+    "emoji_version": "3.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-food-prepared"
+}

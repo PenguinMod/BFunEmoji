@@ -1,0 +1,18 @@
+{
+    "id": "u1f347z-grapes",
+    "type": "emoji",
+    "name": "grapes",
+    "alias": [
+        "grapes"
+    ],
+    "unicode": "🍇",
+    "sequences": [
+        "🍇"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-food-fruit"
+}

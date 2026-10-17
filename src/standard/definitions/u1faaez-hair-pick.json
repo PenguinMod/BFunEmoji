@@ -1,0 +1,20 @@
+{
+    "id": "u1faaez-hair-pick",
+    "type": "emoji",
+    "name": "hair pick",
+    "alias": [
+        "hair pick",
+        "hair-pick",
+        "hair_pick"
+    ],
+    "unicode": "🪮",
+    "sequences": [
+        "🪮"
+    ],
+    "flags": [],
+    "emoji_version": "15.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-clothing"
+}

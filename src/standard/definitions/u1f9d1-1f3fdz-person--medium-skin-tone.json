@@ -1,0 +1,20 @@
+{
+    "id": "u1f9d1-1f3fdz-person--medium-skin-tone",
+    "type": "emoji",
+    "name": "person: medium skin tone",
+    "alias": [
+        "person: medium skin tone",
+        "person:-medium-skin-tone",
+        "person:_medium_skin_tone"
+    ],
+    "unicode": "🧑🏽",
+    "sequences": [
+        "🧑🏽"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f550z-one-o-clock",
+    "type": "emoji",
+    "name": "one o’clock",
+    "alias": [
+        "one o’clock",
+        "one-o’clock",
+        "one_o’clock"
+    ],
+    "unicode": "🕐",
+    "sequences": [
+        "🕐"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-time"
+}

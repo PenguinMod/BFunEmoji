@@ -1,0 +1,20 @@
+{
+    "id": "u1f30ez-globe-showing-americas",
+    "type": "emoji",
+    "name": "globe showing Americas",
+    "alias": [
+        "globe showing Americas",
+        "globe-showing-Americas",
+        "globe_showing_Americas"
+    ],
+    "unicode": "🌎",
+    "sequences": [
+        "🌎"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-place-map"
+}

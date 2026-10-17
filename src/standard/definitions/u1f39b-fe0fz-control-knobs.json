@@ -1,0 +1,21 @@
+{
+    "id": "u1f39b-fe0fz-control-knobs",
+    "type": "emoji",
+    "name": "control knobs",
+    "alias": [
+        "control knobs",
+        "control-knobs",
+        "control_knobs"
+    ],
+    "unicode": "🎛️",
+    "sequences": [
+        "🎛️",
+        "🎛"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-music"
+}

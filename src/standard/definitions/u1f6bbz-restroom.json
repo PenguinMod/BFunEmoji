@@ -1,0 +1,18 @@
+{
+    "id": "u1f6bbz-restroom",
+    "type": "emoji",
+    "name": "restroom",
+    "alias": [
+        "restroom"
+    ],
+    "unicode": "🚻",
+    "sequences": [
+        "🚻"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-transport-sign"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "u1f3ca-200d-2640-fe0fz-woman-swimming",
+    "type": "emoji",
+    "name": "woman swimming",
+    "alias": [
+        "woman swimming",
+        "woman-swimming",
+        "woman_swimming"
+    ],
+    "unicode": "🏊‍♀️",
+    "sequences": [
+        "🏊‍♀️",
+        "🏊‍♀"
+    ],
+    "flags": [],
+    "emoji_version": "4.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-sport"
+}

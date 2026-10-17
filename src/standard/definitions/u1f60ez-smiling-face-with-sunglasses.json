@@ -1,0 +1,20 @@
+{
+    "id": "u1f60ez-smiling-face-with-sunglasses",
+    "type": "emoji",
+    "name": "smiling face with sunglasses",
+    "alias": [
+        "smiling face with sunglasses",
+        "smiling-face-with-sunglasses",
+        "smiling_face_with_sunglasses"
+    ],
+    "unicode": "😎",
+    "sequences": [
+        "😎"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-glasses"
+}

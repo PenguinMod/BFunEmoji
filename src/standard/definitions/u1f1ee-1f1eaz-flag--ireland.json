@@ -1,0 +1,20 @@
+{
+    "id": "u1f1ee-1f1eaz-flag--ireland",
+    "type": "emoji",
+    "name": "flag: Ireland",
+    "alias": [
+        "flag: Ireland",
+        "flag:-Ireland",
+        "flag:_Ireland"
+    ],
+    "unicode": "🇮🇪",
+    "sequences": [
+        "🇮🇪"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

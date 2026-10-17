@@ -1,0 +1,20 @@
+{
+    "id": "u1f949z--rd-place-medal",
+    "type": "emoji",
+    "name": "3rd place medal",
+    "alias": [
+        "3rd place medal",
+        "3rd-place-medal",
+        "3rd_place_medal"
+    ],
+    "unicode": "🥉",
+    "sequences": [
+        "🥉"
+    ],
+    "flags": [],
+    "emoji_version": "3.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-award-medal"
+}

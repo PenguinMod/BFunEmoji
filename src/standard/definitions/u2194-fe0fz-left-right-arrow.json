@@ -1,0 +1,21 @@
+{
+    "id": "u2194-fe0fz-left-right-arrow",
+    "type": "emoji",
+    "name": "left-right arrow",
+    "alias": [
+        "left-right arrow",
+        "left-right-arrow",
+        "left-right_arrow"
+    ],
+    "unicode": "↔️",
+    "sequences": [
+        "↔️",
+        "↔"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-arrow"
+}

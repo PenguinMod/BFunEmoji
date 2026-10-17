@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f9-1f1fcz-flag--taiwan",
+    "type": "emoji",
+    "name": "flag: Taiwan",
+    "alias": [
+        "flag: Taiwan",
+        "flag:-Taiwan",
+        "flag:_Taiwan"
+    ],
+    "unicode": "🇹🇼",
+    "sequences": [
+        "🇹🇼"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

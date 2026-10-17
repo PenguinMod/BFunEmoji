@@ -1,0 +1,21 @@
+{
+    "id": "u2b07-fe0fz-down-arrow",
+    "type": "emoji",
+    "name": "down arrow",
+    "alias": [
+        "down arrow",
+        "down-arrow",
+        "down_arrow"
+    ],
+    "unicode": "⬇️",
+    "sequences": [
+        "⬇️",
+        "⬇"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-arrow"
+}

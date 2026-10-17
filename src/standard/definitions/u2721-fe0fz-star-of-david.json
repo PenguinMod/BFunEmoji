@@ -1,0 +1,21 @@
+{
+    "id": "u2721-fe0fz-star-of-david",
+    "type": "emoji",
+    "name": "star of David",
+    "alias": [
+        "star of David",
+        "star-of-David",
+        "star_of_David"
+    ],
+    "unicode": "✡️",
+    "sequences": [
+        "✡️",
+        "✡"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-religion"
+}

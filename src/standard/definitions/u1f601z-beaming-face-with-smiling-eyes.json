@@ -1,0 +1,20 @@
+{
+    "id": "u1f601z-beaming-face-with-smiling-eyes",
+    "type": "emoji",
+    "name": "beaming face with smiling eyes",
+    "alias": [
+        "beaming face with smiling eyes",
+        "beaming-face-with-smiling-eyes",
+        "beaming_face_with_smiling_eyes"
+    ],
+    "unicode": "😁",
+    "sequences": [
+        "😁"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-smiling"
+}

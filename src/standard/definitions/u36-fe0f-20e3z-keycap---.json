@@ -1,0 +1,21 @@
+{
+    "id": "u36-fe0f-20e3z-keycap---",
+    "type": "emoji",
+    "name": "keycap: 6",
+    "alias": [
+        "keycap: 6",
+        "keycap:-6",
+        "keycap:_6"
+    ],
+    "unicode": "6️⃣",
+    "sequences": [
+        "6️⃣",
+        "6⃣"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-keycap"
+}

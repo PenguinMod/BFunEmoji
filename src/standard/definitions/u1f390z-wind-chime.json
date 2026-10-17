@@ -1,0 +1,20 @@
+{
+    "id": "u1f390z-wind-chime",
+    "type": "emoji",
+    "name": "wind chime",
+    "alias": [
+        "wind chime",
+        "wind-chime",
+        "wind_chime"
+    ],
+    "unicode": "🎐",
+    "sequences": [
+        "🎐"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-event"
+}

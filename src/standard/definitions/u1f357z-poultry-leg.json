@@ -1,0 +1,20 @@
+{
+    "id": "u1f357z-poultry-leg",
+    "type": "emoji",
+    "name": "poultry leg",
+    "alias": [
+        "poultry leg",
+        "poultry-leg",
+        "poultry_leg"
+    ],
+    "unicode": "🍗",
+    "sequences": [
+        "🍗"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-food-prepared"
+}

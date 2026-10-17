@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f9-1f1ffz-flag--tanzania",
+    "type": "emoji",
+    "name": "flag: Tanzania",
+    "alias": [
+        "flag: Tanzania",
+        "flag:-Tanzania",
+        "flag:_Tanzania"
+    ],
+    "unicode": "🇹🇿",
+    "sequences": [
+        "🇹🇿"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

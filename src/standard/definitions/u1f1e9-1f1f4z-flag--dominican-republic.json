@@ -1,0 +1,20 @@
+{
+    "id": "u1f1e9-1f1f4z-flag--dominican-republic",
+    "type": "emoji",
+    "name": "flag: Dominican Republic",
+    "alias": [
+        "flag: Dominican Republic",
+        "flag:-Dominican-Republic",
+        "flag:_Dominican_Republic"
+    ],
+    "unicode": "🇩🇴",
+    "sequences": [
+        "🇩🇴"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "u1f9ce-200d-2640-fe0fz-woman-kneeling",
+    "type": "emoji",
+    "name": "woman kneeling",
+    "alias": [
+        "woman kneeling",
+        "woman-kneeling",
+        "woman_kneeling"
+    ],
+    "unicode": "🧎‍♀️",
+    "sequences": [
+        "🧎‍♀️",
+        "🧎‍♀"
+    ],
+    "flags": [],
+    "emoji_version": "12.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-activity"
+}

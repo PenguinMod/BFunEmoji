@@ -1,0 +1,21 @@
+{
+    "id": "u23cf-fe0fz-eject-button",
+    "type": "emoji",
+    "name": "eject button",
+    "alias": [
+        "eject button",
+        "eject-button",
+        "eject_button"
+    ],
+    "unicode": "⏏️",
+    "sequences": [
+        "⏏️",
+        "⏏"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-av-symbol"
+}

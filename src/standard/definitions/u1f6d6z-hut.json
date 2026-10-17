@@ -1,0 +1,18 @@
+{
+    "id": "u1f6d6z-hut",
+    "type": "emoji",
+    "name": "hut",
+    "alias": [
+        "hut"
+    ],
+    "unicode": "🛖",
+    "sequences": [
+        "🛖"
+    ],
+    "flags": [],
+    "emoji_version": "13.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-place-building"
+}

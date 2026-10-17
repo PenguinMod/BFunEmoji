@@ -1,0 +1,20 @@
+{
+    "id": "u1f1e7-1f1f7z-flag--brazil",
+    "type": "emoji",
+    "name": "flag: Brazil",
+    "alias": [
+        "flag: Brazil",
+        "flag:-Brazil",
+        "flag:_Brazil"
+    ],
+    "unicode": "🇧🇷",
+    "sequences": [
+        "🇧🇷"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

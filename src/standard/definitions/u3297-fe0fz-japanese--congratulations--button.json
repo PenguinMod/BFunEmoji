@@ -1,0 +1,21 @@
+{
+    "id": "u3297-fe0fz-japanese--congratulations--button",
+    "type": "emoji",
+    "name": "Japanese “congratulations” button",
+    "alias": [
+        "Japanese “congratulations” button",
+        "Japanese-“congratulations”-button",
+        "Japanese_“congratulations”_button"
+    ],
+    "unicode": "㊗️",
+    "sequences": [
+        "㊗️",
+        "㊗"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-alphanum"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "u1f3f7-fe0fz-label",
+    "type": "emoji",
+    "name": "label",
+    "alias": [
+        "label"
+    ],
+    "unicode": "🏷️",
+    "sequences": [
+        "🏷️",
+        "🏷"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-book-paper"
+}

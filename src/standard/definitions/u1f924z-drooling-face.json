@@ -1,0 +1,20 @@
+{
+    "id": "u1f924z-drooling-face",
+    "type": "emoji",
+    "name": "drooling face",
+    "alias": [
+        "drooling face",
+        "drooling-face",
+        "drooling_face"
+    ],
+    "unicode": "🤤",
+    "sequences": [
+        "🤤"
+    ],
+    "flags": [],
+    "emoji_version": "3.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-sleepy"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "u1f5e1-fe0fz-dagger",
+    "type": "emoji",
+    "name": "dagger",
+    "alias": [
+        "dagger"
+    ],
+    "unicode": "🗡️",
+    "sequences": [
+        "🗡️",
+        "🗡"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-tool"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "u1f3c3-200d-2642-fe0f-200d-27a1-fe0fz-man-running-facing-right",
+    "type": "emoji",
+    "name": "man running facing right",
+    "alias": [
+        "man running facing right",
+        "man-running-facing-right",
+        "man_running_facing_right"
+    ],
+    "unicode": "🏃‍♂️‍➡️",
+    "sequences": [
+        "🏃‍♂️‍➡️",
+        "🏃‍♂‍➡️",
+        "🏃‍♂️‍➡",
+        "🏃‍♂‍➡"
+    ],
+    "flags": [],
+    "emoji_version": "15.1",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-activity"
+}

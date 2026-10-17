@@ -1,0 +1,21 @@
+{
+    "id": "u1f6b4-200d-2640-fe0fz-woman-biking",
+    "type": "emoji",
+    "name": "woman biking",
+    "alias": [
+        "woman biking",
+        "woman-biking",
+        "woman_biking"
+    ],
+    "unicode": "🚴‍♀️",
+    "sequences": [
+        "🚴‍♀️",
+        "🚴‍♀"
+    ],
+    "flags": [],
+    "emoji_version": "4.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-sport"
+}

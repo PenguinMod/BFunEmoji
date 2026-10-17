@@ -1,0 +1,21 @@
+{
+    "id": "u262e-fe0fz-peace-symbol",
+    "type": "emoji",
+    "name": "peace symbol",
+    "alias": [
+        "peace symbol",
+        "peace-symbol",
+        "peace_symbol"
+    ],
+    "unicode": "☮️",
+    "sequences": [
+        "☮️",
+        "☮"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-religion"
+}

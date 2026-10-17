@@ -1,0 +1,19 @@
+{
+    "id": "u1f573-fe0fz-hole",
+    "type": "emoji",
+    "name": "hole",
+    "alias": [
+        "hole"
+    ],
+    "unicode": "🕳️",
+    "sequences": [
+        "🕳️",
+        "🕳"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-emotion"
+}

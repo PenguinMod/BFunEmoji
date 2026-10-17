@@ -1,0 +1,21 @@
+{
+    "id": "u1f170-fe0fz-a-button--blood-type-",
+    "type": "emoji",
+    "name": "A button (blood type)",
+    "alias": [
+        "A button (blood type)",
+        "A-button-(blood-type)",
+        "A_button_(blood_type)"
+    ],
+    "unicode": "🅰️",
+    "sequences": [
+        "🅰️",
+        "🅰"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-alphanum"
+}

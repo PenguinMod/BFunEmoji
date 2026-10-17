@@ -1,0 +1,20 @@
+{
+    "id": "u1f46ez-police-officer",
+    "type": "emoji",
+    "name": "police officer",
+    "alias": [
+        "police officer",
+        "police-officer",
+        "police_officer"
+    ],
+    "unicode": "👮",
+    "sequences": [
+        "👮"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-role"
+}

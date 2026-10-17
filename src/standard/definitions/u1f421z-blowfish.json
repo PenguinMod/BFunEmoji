@@ -1,0 +1,18 @@
+{
+    "id": "u1f421z-blowfish",
+    "type": "emoji",
+    "name": "blowfish",
+    "alias": [
+        "blowfish"
+    ],
+    "unicode": "🐡",
+    "sequences": [
+        "🐡"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-marine"
+}

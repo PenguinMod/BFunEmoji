@@ -1,0 +1,21 @@
+{
+    "id": "u1f481-200d-2642-fe0fz-man-tipping-hand",
+    "type": "emoji",
+    "name": "man tipping hand",
+    "alias": [
+        "man tipping hand",
+        "man-tipping-hand",
+        "man_tipping_hand"
+    ],
+    "unicode": "💁‍♂️",
+    "sequences": [
+        "💁‍♂️",
+        "💁‍♂"
+    ],
+    "flags": [],
+    "emoji_version": "4.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-gesture"
+}

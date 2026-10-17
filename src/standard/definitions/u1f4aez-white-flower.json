@@ -1,0 +1,20 @@
+{
+    "id": "u1f4aez-white-flower",
+    "type": "emoji",
+    "name": "white flower",
+    "alias": [
+        "white flower",
+        "white-flower",
+        "white_flower"
+    ],
+    "unicode": "💮",
+    "sequences": [
+        "💮"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-plant-flower"
+}

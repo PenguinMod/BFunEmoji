@@ -1,0 +1,20 @@
+{
+    "id": "u1f7e5z-red-square",
+    "type": "emoji",
+    "name": "red square",
+    "alias": [
+        "red square",
+        "red-square",
+        "red_square"
+    ],
+    "unicode": "🟥",
+    "sequences": [
+        "🟥"
+    ],
+    "flags": [],
+    "emoji_version": "12.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-geometric"
+}

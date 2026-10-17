@@ -1,0 +1,21 @@
+{
+    "id": "u1f482-200d-2640-fe0fz-woman-guard",
+    "type": "emoji",
+    "name": "woman guard",
+    "alias": [
+        "woman guard",
+        "woman-guard",
+        "woman_guard"
+    ],
+    "unicode": "💂‍♀️",
+    "sequences": [
+        "💂‍♀️",
+        "💂‍♀"
+    ],
+    "flags": [],
+    "emoji_version": "4.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-role"
+}

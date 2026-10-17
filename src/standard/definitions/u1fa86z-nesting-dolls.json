@@ -1,0 +1,20 @@
+{
+    "id": "u1fa86z-nesting-dolls",
+    "type": "emoji",
+    "name": "nesting dolls",
+    "alias": [
+        "nesting dolls",
+        "nesting-dolls",
+        "nesting_dolls"
+    ],
+    "unicode": "🪆",
+    "sequences": [
+        "🪆"
+    ],
+    "flags": [],
+    "emoji_version": "13.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-game"
+}

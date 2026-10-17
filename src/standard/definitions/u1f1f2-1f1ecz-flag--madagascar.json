@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f2-1f1ecz-flag--madagascar",
+    "type": "emoji",
+    "name": "flag: Madagascar",
+    "alias": [
+        "flag: Madagascar",
+        "flag:-Madagascar",
+        "flag:_Madagascar"
+    ],
+    "unicode": "🇲🇬",
+    "sequences": [
+        "🇲🇬"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

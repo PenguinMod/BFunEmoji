@@ -1,0 +1,20 @@
+{
+    "id": "u1f51cz-soon-arrow",
+    "type": "emoji",
+    "name": "SOON arrow",
+    "alias": [
+        "SOON arrow",
+        "SOON-arrow",
+        "SOON_arrow"
+    ],
+    "unicode": "🔜",
+    "sequences": [
+        "🔜"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-arrow"
+}

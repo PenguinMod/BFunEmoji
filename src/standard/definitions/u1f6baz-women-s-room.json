@@ -1,0 +1,20 @@
+{
+    "id": "u1f6baz-women-s-room",
+    "type": "emoji",
+    "name": "women’s room",
+    "alias": [
+        "women’s room",
+        "women’s-room",
+        "women’s_room"
+    ],
+    "unicode": "🚺",
+    "sequences": [
+        "🚺"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-transport-sign"
+}

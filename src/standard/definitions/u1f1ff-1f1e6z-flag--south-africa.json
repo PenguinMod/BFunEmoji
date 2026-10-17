@@ -1,0 +1,20 @@
+{
+    "id": "u1f1ff-1f1e6z-flag--south-africa",
+    "type": "emoji",
+    "name": "flag: South Africa",
+    "alias": [
+        "flag: South Africa",
+        "flag:-South-Africa",
+        "flag:_South_Africa"
+    ],
+    "unicode": "🇿🇦",
+    "sequences": [
+        "🇿🇦"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

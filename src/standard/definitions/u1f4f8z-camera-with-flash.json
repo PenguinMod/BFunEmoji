@@ -1,0 +1,20 @@
+{
+    "id": "u1f4f8z-camera-with-flash",
+    "type": "emoji",
+    "name": "camera with flash",
+    "alias": [
+        "camera with flash",
+        "camera-with-flash",
+        "camera_with_flash"
+    ],
+    "unicode": "📸",
+    "sequences": [
+        "📸"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-light-26-video"
+}

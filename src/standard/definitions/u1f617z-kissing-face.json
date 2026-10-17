@@ -1,0 +1,20 @@
+{
+    "id": "u1f617z-kissing-face",
+    "type": "emoji",
+    "name": "kissing face",
+    "alias": [
+        "kissing face",
+        "kissing-face",
+        "kissing_face"
+    ],
+    "unicode": "😗",
+    "sequences": [
+        "😗"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-affection"
+}

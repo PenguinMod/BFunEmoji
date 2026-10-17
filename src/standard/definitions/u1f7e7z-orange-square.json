@@ -1,0 +1,20 @@
+{
+    "id": "u1f7e7z-orange-square",
+    "type": "emoji",
+    "name": "orange square",
+    "alias": [
+        "orange square",
+        "orange-square",
+        "orange_square"
+    ],
+    "unicode": "🟧",
+    "sequences": [
+        "🟧"
+    ],
+    "flags": [],
+    "emoji_version": "12.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-geometric"
+}

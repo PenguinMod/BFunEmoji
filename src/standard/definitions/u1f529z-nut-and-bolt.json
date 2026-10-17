@@ -1,0 +1,20 @@
+{
+    "id": "u1f529z-nut-and-bolt",
+    "type": "emoji",
+    "name": "nut and bolt",
+    "alias": [
+        "nut and bolt",
+        "nut-and-bolt",
+        "nut_and_bolt"
+    ],
+    "unicode": "🔩",
+    "sequences": [
+        "🔩"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-tool"
+}

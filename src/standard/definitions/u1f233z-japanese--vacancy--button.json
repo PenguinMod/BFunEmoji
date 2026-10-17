@@ -1,0 +1,20 @@
+{
+    "id": "u1f233z-japanese--vacancy--button",
+    "type": "emoji",
+    "name": "Japanese “vacancy” button",
+    "alias": [
+        "Japanese “vacancy” button",
+        "Japanese-“vacancy”-button",
+        "Japanese_“vacancy”_button"
+    ],
+    "unicode": "🈳",
+    "sequences": [
+        "🈳"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-alphanum"
+}

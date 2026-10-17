@@ -1,0 +1,18 @@
+{
+    "id": "u1f4cbz-clipboard",
+    "type": "emoji",
+    "name": "clipboard",
+    "alias": [
+        "clipboard"
+    ],
+    "unicode": "📋",
+    "sequences": [
+        "📋"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-office"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f6f4z-kick-scooter",
+    "type": "emoji",
+    "name": "kick scooter",
+    "alias": [
+        "kick scooter",
+        "kick-scooter",
+        "kick_scooter"
+    ],
+    "unicode": "🛴",
+    "sequences": [
+        "🛴"
+    ],
+    "flags": [],
+    "emoji_version": "3.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-transport-ground"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u26aaz-white-circle",
+    "type": "emoji",
+    "name": "white circle",
+    "alias": [
+        "white circle",
+        "white-circle",
+        "white_circle"
+    ],
+    "unicode": "⚪",
+    "sequences": [
+        "⚪"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-geometric"
+}

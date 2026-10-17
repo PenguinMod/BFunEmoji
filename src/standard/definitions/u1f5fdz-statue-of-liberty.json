@@ -1,0 +1,20 @@
+{
+    "id": "u1f5fdz-statue-of-liberty",
+    "type": "emoji",
+    "name": "Statue of Liberty",
+    "alias": [
+        "Statue of Liberty",
+        "Statue-of-Liberty",
+        "Statue_of_Liberty"
+    ],
+    "unicode": "🗽",
+    "sequences": [
+        "🗽"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-place-building"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "u1f6b6-200d-2640-fe0f-200d-27a1-fe0fz-woman-walking-facing-right",
+    "type": "emoji",
+    "name": "woman walking facing right",
+    "alias": [
+        "woman walking facing right",
+        "woman-walking-facing-right",
+        "woman_walking_facing_right"
+    ],
+    "unicode": "🚶‍♀️‍➡️",
+    "sequences": [
+        "🚶‍♀️‍➡️",
+        "🚶‍♀‍➡️",
+        "🚶‍♀️‍➡",
+        "🚶‍♀‍➡"
+    ],
+    "flags": [],
+    "emoji_version": "15.1",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-activity"
+}

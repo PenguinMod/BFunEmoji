@@ -1,0 +1,20 @@
+{
+    "id": "u1faebz-cracking-face",
+    "type": "emoji",
+    "name": "cracking face",
+    "alias": [
+        "cracking face",
+        "cracking-face",
+        "cracking_face"
+    ],
+    "unicode": "🫫",
+    "sequences": [
+        "🫫"
+    ],
+    "flags": [],
+    "emoji_version": "18.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-smiling"
+}

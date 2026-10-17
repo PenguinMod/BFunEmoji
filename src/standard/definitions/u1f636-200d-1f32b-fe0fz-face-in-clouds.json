@@ -1,0 +1,21 @@
+{
+    "id": "u1f636-200d-1f32b-fe0fz-face-in-clouds",
+    "type": "emoji",
+    "name": "face in clouds",
+    "alias": [
+        "face in clouds",
+        "face-in-clouds",
+        "face_in_clouds"
+    ],
+    "unicode": "😶‍🌫️",
+    "sequences": [
+        "😶‍🌫️",
+        "😶‍🌫"
+    ],
+    "flags": [],
+    "emoji_version": "13.1",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-neutral-skeptical"
+}

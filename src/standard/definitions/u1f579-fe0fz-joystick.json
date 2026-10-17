@@ -1,0 +1,19 @@
+{
+    "id": "u1f579-fe0fz-joystick",
+    "type": "emoji",
+    "name": "joystick",
+    "alias": [
+        "joystick"
+    ],
+    "unicode": "🕹️",
+    "sequences": [
+        "🕹️",
+        "🕹"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-game"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "u1f3cd-fe0fz-motorcycle",
+    "type": "emoji",
+    "name": "motorcycle",
+    "alias": [
+        "motorcycle"
+    ],
+    "unicode": "🏍️",
+    "sequences": [
+        "🏍️",
+        "🏍"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-transport-ground"
+}

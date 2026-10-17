@@ -1,0 +1,21 @@
+{
+    "id": "u1f469-200d-2695-fe0fz-woman-health-worker",
+    "type": "emoji",
+    "name": "woman health worker",
+    "alias": [
+        "woman health worker",
+        "woman-health-worker",
+        "woman_health_worker"
+    ],
+    "unicode": "👩‍⚕️",
+    "sequences": [
+        "👩‍⚕️",
+        "👩‍⚕"
+    ],
+    "flags": [],
+    "emoji_version": "4.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-role"
+}

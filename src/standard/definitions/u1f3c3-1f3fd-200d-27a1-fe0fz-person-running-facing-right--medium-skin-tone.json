@@ -1,0 +1,21 @@
+{
+    "id": "u1f3c3-1f3fd-200d-27a1-fe0fz-person-running-facing-right--medium-skin-tone",
+    "type": "emoji",
+    "name": "person running facing right: medium skin tone",
+    "alias": [
+        "person running facing right: medium skin tone",
+        "person-running-facing-right:-medium-skin-tone",
+        "person_running_facing_right:_medium_skin_tone"
+    ],
+    "unicode": "🏃🏽‍➡️",
+    "sequences": [
+        "🏃🏽‍➡️",
+        "🏃🏽‍➡"
+    ],
+    "flags": [],
+    "emoji_version": "15.1",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-activity"
+}

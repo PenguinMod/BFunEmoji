@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f2-1f1f1z-flag--mali",
+    "type": "emoji",
+    "name": "flag: Mali",
+    "alias": [
+        "flag: Mali",
+        "flag:-Mali",
+        "flag:_Mali"
+    ],
+    "unicode": "🇲🇱",
+    "sequences": [
+        "🇲🇱"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

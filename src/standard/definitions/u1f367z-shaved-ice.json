@@ -1,0 +1,20 @@
+{
+    "id": "u1f367z-shaved-ice",
+    "type": "emoji",
+    "name": "shaved ice",
+    "alias": [
+        "shaved ice",
+        "shaved-ice",
+        "shaved_ice"
+    ],
+    "unicode": "🍧",
+    "sequences": [
+        "🍧"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-food-sweet"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f239z-japanese--discount--button",
+    "type": "emoji",
+    "name": "Japanese “discount” button",
+    "alias": [
+        "Japanese “discount” button",
+        "Japanese-“discount”-button",
+        "Japanese_“discount”_button"
+    ],
+    "unicode": "🈹",
+    "sequences": [
+        "🈹"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-alphanum"
+}

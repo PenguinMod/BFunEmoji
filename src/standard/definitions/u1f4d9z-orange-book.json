@@ -1,0 +1,20 @@
+{
+    "id": "u1f4d9z-orange-book",
+    "type": "emoji",
+    "name": "orange book",
+    "alias": [
+        "orange book",
+        "orange-book",
+        "orange_book"
+    ],
+    "unicode": "📙",
+    "sequences": [
+        "📙"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-book-paper"
+}

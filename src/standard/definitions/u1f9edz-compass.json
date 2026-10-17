@@ -1,0 +1,18 @@
+{
+    "id": "u1f9edz-compass",
+    "type": "emoji",
+    "name": "compass",
+    "alias": [
+        "compass"
+    ],
+    "unicode": "🧭",
+    "sequences": [
+        "🧭"
+    ],
+    "flags": [],
+    "emoji_version": "11.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-place-map"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "u1f98cz-deer",
+    "type": "emoji",
+    "name": "deer",
+    "alias": [
+        "deer"
+    ],
+    "unicode": "🦌",
+    "sequences": [
+        "🦌"
+    ],
+    "flags": [],
+    "emoji_version": "3.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-mammal"
+}

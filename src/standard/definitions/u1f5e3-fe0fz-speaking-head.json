@@ -1,0 +1,21 @@
+{
+    "id": "u1f5e3-fe0fz-speaking-head",
+    "type": "emoji",
+    "name": "speaking head",
+    "alias": [
+        "speaking head",
+        "speaking-head",
+        "speaking_head"
+    ],
+    "unicode": "🗣️",
+    "sequences": [
+        "🗣️",
+        "🗣"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-symbol"
+}

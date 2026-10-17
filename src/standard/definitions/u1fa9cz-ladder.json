@@ -1,0 +1,18 @@
+{
+    "id": "u1fa9cz-ladder",
+    "type": "emoji",
+    "name": "ladder",
+    "alias": [
+        "ladder"
+    ],
+    "unicode": "🪜",
+    "sequences": [
+        "🪜"
+    ],
+    "flags": [],
+    "emoji_version": "13.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-tool"
+}

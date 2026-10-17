@@ -1,0 +1,21 @@
+{
+    "id": "u1f482-200d-2642-fe0fz-man-guard",
+    "type": "emoji",
+    "name": "man guard",
+    "alias": [
+        "man guard",
+        "man-guard",
+        "man_guard"
+    ],
+    "unicode": "💂‍♂️",
+    "sequences": [
+        "💂‍♂️",
+        "💂‍♂"
+    ],
+    "flags": [],
+    "emoji_version": "4.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-role"
+}

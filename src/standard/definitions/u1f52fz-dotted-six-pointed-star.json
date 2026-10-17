@@ -1,0 +1,20 @@
+{
+    "id": "u1f52fz-dotted-six-pointed-star",
+    "type": "emoji",
+    "name": "dotted six-pointed star",
+    "alias": [
+        "dotted six-pointed star",
+        "dotted-six-pointed-star",
+        "dotted_six-pointed_star"
+    ],
+    "unicode": "🔯",
+    "sequences": [
+        "🔯"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-religion"
+}

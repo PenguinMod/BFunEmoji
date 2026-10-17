@@ -1,0 +1,20 @@
+{
+    "id": "u1f19az-vs-button",
+    "type": "emoji",
+    "name": "VS button",
+    "alias": [
+        "VS button",
+        "VS-button",
+        "VS_button"
+    ],
+    "unicode": "🆚",
+    "sequences": [
+        "🆚"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-alphanum"
+}

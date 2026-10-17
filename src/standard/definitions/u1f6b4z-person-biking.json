@@ -1,0 +1,20 @@
+{
+    "id": "u1f6b4z-person-biking",
+    "type": "emoji",
+    "name": "person biking",
+    "alias": [
+        "person biking",
+        "person-biking",
+        "person_biking"
+    ],
+    "unicode": "🚴",
+    "sequences": [
+        "🚴"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-sport"
+}

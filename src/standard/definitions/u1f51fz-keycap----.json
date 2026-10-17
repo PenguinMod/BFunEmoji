@@ -1,0 +1,20 @@
+{
+    "id": "u1f51fz-keycap----",
+    "type": "emoji",
+    "name": "keycap: 10",
+    "alias": [
+        "keycap: 10",
+        "keycap:-10",
+        "keycap:_10"
+    ],
+    "unicode": "🔟",
+    "sequences": [
+        "🔟"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-keycap"
+}

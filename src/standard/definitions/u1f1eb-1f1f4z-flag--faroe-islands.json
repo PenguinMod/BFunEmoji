@@ -1,0 +1,20 @@
+{
+    "id": "u1f1eb-1f1f4z-flag--faroe-islands",
+    "type": "emoji",
+    "name": "flag: Faroe Islands",
+    "alias": [
+        "flag: Faroe Islands",
+        "flag:-Faroe-Islands",
+        "flag:_Faroe_Islands"
+    ],
+    "unicode": "🇫🇴",
+    "sequences": [
+        "🇫🇴"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

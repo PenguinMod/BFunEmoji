@@ -1,0 +1,20 @@
+{
+    "id": "u1f1ed-1f1f9z-flag--haiti",
+    "type": "emoji",
+    "name": "flag: Haiti",
+    "alias": [
+        "flag: Haiti",
+        "flag:-Haiti",
+        "flag:_Haiti"
+    ],
+    "unicode": "🇭🇹",
+    "sequences": [
+        "🇭🇹"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

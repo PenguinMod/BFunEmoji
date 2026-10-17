@@ -1,0 +1,18 @@
+{
+    "id": "u1f9b2z-bald",
+    "type": "emoji",
+    "name": "bald",
+    "alias": [
+        "bald"
+    ],
+    "unicode": "🦲",
+    "sequences": [
+        "🦲"
+    ],
+    "flags": [],
+    "emoji_version": "11.0",
+    "emoji_type": "component",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-hair-style"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1faf6z-heart-hands",
+    "type": "emoji",
+    "name": "heart hands",
+    "alias": [
+        "heart hands",
+        "heart-hands",
+        "heart_hands"
+    ],
+    "unicode": "🫶",
+    "sequences": [
+        "🫶"
+    ],
+    "flags": [],
+    "emoji_version": "14.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-hands"
+}

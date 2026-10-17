@@ -1,0 +1,18 @@
+{
+    "id": "u1f33fz-herb",
+    "type": "emoji",
+    "name": "herb",
+    "alias": [
+        "herb"
+    ],
+    "unicode": "🌿",
+    "sequences": [
+        "🌿"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-plant-other"
+}

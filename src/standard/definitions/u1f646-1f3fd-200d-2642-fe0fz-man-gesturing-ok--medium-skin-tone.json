@@ -1,0 +1,21 @@
+{
+    "id": "u1f646-1f3fd-200d-2642-fe0fz-man-gesturing-ok--medium-skin-tone",
+    "type": "emoji",
+    "name": "man gesturing OK: medium skin tone",
+    "alias": [
+        "man gesturing OK: medium skin tone",
+        "man-gesturing-OK:-medium-skin-tone",
+        "man_gesturing_OK:_medium_skin_tone"
+    ],
+    "unicode": "🙆🏽‍♂️",
+    "sequences": [
+        "🙆🏽‍♂️",
+        "🙆🏽‍♂"
+    ],
+    "flags": [],
+    "emoji_version": "4.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-gesture"
+}

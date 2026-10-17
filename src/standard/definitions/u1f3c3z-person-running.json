@@ -1,0 +1,20 @@
+{
+    "id": "u1f3c3z-person-running",
+    "type": "emoji",
+    "name": "person running",
+    "alias": [
+        "person running",
+        "person-running",
+        "person_running"
+    ],
+    "unicode": "🏃",
+    "sequences": [
+        "🏃"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-activity"
+}

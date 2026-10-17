@@ -1,0 +1,20 @@
+{
+    "id": "u1f9d1-1f3fe-200d-1f9b2z-person--medium-dark-skin-tone--bald",
+    "type": "emoji",
+    "name": "person: medium-dark skin tone, bald",
+    "alias": [
+        "person: medium-dark skin tone, bald",
+        "person:-medium-dark-skin-tone,-bald",
+        "person:_medium-dark_skin_tone,_bald"
+    ],
+    "unicode": "🧑🏾‍🦲",
+    "sequences": [
+        "🧑🏾‍🦲"
+    ],
+    "flags": [],
+    "emoji_version": "12.1",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person"
+}

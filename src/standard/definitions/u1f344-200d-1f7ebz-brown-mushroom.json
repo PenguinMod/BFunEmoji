@@ -1,0 +1,20 @@
+{
+    "id": "u1f344-200d-1f7ebz-brown-mushroom",
+    "type": "emoji",
+    "name": "brown mushroom",
+    "alias": [
+        "brown mushroom",
+        "brown-mushroom",
+        "brown_mushroom"
+    ],
+    "unicode": "🍄‍🟫",
+    "sequences": [
+        "🍄‍🟫"
+    ],
+    "flags": [],
+    "emoji_version": "15.1",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-food-vegetable"
+}

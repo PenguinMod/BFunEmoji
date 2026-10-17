@@ -1,0 +1,18 @@
+{
+    "id": "u1fab1z-worm",
+    "type": "emoji",
+    "name": "worm",
+    "alias": [
+        "worm"
+    ],
+    "unicode": "🪱",
+    "sequences": [
+        "🪱"
+    ],
+    "flags": [],
+    "emoji_version": "13.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-bug"
+}

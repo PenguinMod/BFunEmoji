@@ -1,0 +1,20 @@
+{
+    "id": "u1f964z-cup-with-straw",
+    "type": "emoji",
+    "name": "cup with straw",
+    "alias": [
+        "cup with straw",
+        "cup-with-straw",
+        "cup_with_straw"
+    ],
+    "unicode": "🥤",
+    "sequences": [
+        "🥤"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-drink"
+}

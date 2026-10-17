@@ -1,0 +1,20 @@
+{
+    "id": "u1f1fb-1f1eaz-flag--venezuela",
+    "type": "emoji",
+    "name": "flag: Venezuela",
+    "alias": [
+        "flag: Venezuela",
+        "flag:-Venezuela",
+        "flag:_Venezuela"
+    ],
+    "unicode": "🇻🇪",
+    "sequences": [
+        "🇻🇪"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

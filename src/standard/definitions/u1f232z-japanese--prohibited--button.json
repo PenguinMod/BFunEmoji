@@ -1,0 +1,20 @@
+{
+    "id": "u1f232z-japanese--prohibited--button",
+    "type": "emoji",
+    "name": "Japanese “prohibited” button",
+    "alias": [
+        "Japanese “prohibited” button",
+        "Japanese-“prohibited”-button",
+        "Japanese_“prohibited”_button"
+    ],
+    "unicode": "🈲",
+    "sequences": [
+        "🈲"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-alphanum"
+}

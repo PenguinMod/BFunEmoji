@@ -1,0 +1,20 @@
+{
+    "id": "u1fac5z-person-with-crown",
+    "type": "emoji",
+    "name": "person with crown",
+    "alias": [
+        "person with crown",
+        "person-with-crown",
+        "person_with_crown"
+    ],
+    "unicode": "🫅",
+    "sequences": [
+        "🫅"
+    ],
+    "flags": [],
+    "emoji_version": "14.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-role"
+}

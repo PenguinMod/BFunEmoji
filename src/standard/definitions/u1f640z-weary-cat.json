@@ -1,0 +1,20 @@
+{
+    "id": "u1f640z-weary-cat",
+    "type": "emoji",
+    "name": "weary cat",
+    "alias": [
+        "weary cat",
+        "weary-cat",
+        "weary_cat"
+    ],
+    "unicode": "🙀",
+    "sequences": [
+        "🙀"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-cat-face"
+}

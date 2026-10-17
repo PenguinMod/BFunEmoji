@@ -1,0 +1,20 @@
+{
+    "id": "u1f470z-person-with-veil",
+    "type": "emoji",
+    "name": "person with veil",
+    "alias": [
+        "person with veil",
+        "person-with-veil",
+        "person_with_veil"
+    ],
+    "unicode": "👰",
+    "sequences": [
+        "👰"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-role"
+}

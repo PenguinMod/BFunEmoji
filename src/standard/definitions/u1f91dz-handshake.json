@@ -1,0 +1,18 @@
+{
+    "id": "u1f91dz-handshake",
+    "type": "emoji",
+    "name": "handshake",
+    "alias": [
+        "handshake"
+    ],
+    "unicode": "🤝",
+    "sequences": [
+        "🤝"
+    ],
+    "flags": [],
+    "emoji_version": "3.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-hands"
+}

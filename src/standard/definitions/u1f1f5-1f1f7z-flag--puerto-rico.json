@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f5-1f1f7z-flag--puerto-rico",
+    "type": "emoji",
+    "name": "flag: Puerto Rico",
+    "alias": [
+        "flag: Puerto Rico",
+        "flag:-Puerto-Rico",
+        "flag:_Puerto_Rico"
+    ],
+    "unicode": "🇵🇷",
+    "sequences": [
+        "🇵🇷"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "u1fad9z-jar",
+    "type": "emoji",
+    "name": "jar",
+    "alias": [
+        "jar"
+    ],
+    "unicode": "🫙",
+    "sequences": [
+        "🫙"
+    ],
+    "flags": [],
+    "emoji_version": "14.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-dishware"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f498z-heart-with-arrow",
+    "type": "emoji",
+    "name": "heart with arrow",
+    "alias": [
+        "heart with arrow",
+        "heart-with-arrow",
+        "heart_with_arrow"
+    ],
+    "unicode": "💘",
+    "sequences": [
+        "💘"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-heart"
+}

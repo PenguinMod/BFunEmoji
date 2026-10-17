@@ -1,0 +1,20 @@
+{
+    "id": "u1f44fz-clapping-hands",
+    "type": "emoji",
+    "name": "clapping hands",
+    "alias": [
+        "clapping hands",
+        "clapping-hands",
+        "clapping_hands"
+    ],
+    "unicode": "👏",
+    "sequences": [
+        "👏"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-hands"
+}

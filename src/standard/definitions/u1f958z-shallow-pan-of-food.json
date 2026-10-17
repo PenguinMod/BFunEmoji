@@ -1,0 +1,20 @@
+{
+    "id": "u1f958z-shallow-pan-of-food",
+    "type": "emoji",
+    "name": "shallow pan of food",
+    "alias": [
+        "shallow pan of food",
+        "shallow-pan-of-food",
+        "shallow_pan_of_food"
+    ],
+    "unicode": "🥘",
+    "sequences": [
+        "🥘"
+    ],
+    "flags": [],
+    "emoji_version": "3.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-food-prepared"
+}

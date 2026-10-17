@@ -1,0 +1,18 @@
+{
+    "id": "u1facfz-donkey",
+    "type": "emoji",
+    "name": "donkey",
+    "alias": [
+        "donkey"
+    ],
+    "unicode": "🫏",
+    "sequences": [
+        "🫏"
+    ],
+    "flags": [],
+    "emoji_version": "15.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-mammal"
+}

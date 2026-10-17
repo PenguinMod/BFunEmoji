@@ -1,0 +1,18 @@
+{
+    "id": "u1f9dcz-merperson",
+    "type": "emoji",
+    "name": "merperson",
+    "alias": [
+        "merperson"
+    ],
+    "unicode": "🧜",
+    "sequences": [
+        "🧜"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-fantasy"
+}

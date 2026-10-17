@@ -1,0 +1,21 @@
+{
+    "id": "u23ef-fe0fz-play-or-pause-button",
+    "type": "emoji",
+    "name": "play or pause button",
+    "alias": [
+        "play or pause button",
+        "play-or-pause-button",
+        "play_or_pause_button"
+    ],
+    "unicode": "⏯️",
+    "sequences": [
+        "⏯️",
+        "⏯"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-av-symbol"
+}

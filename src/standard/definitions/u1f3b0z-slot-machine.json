@@ -1,0 +1,20 @@
+{
+    "id": "u1f3b0z-slot-machine",
+    "type": "emoji",
+    "name": "slot machine",
+    "alias": [
+        "slot machine",
+        "slot-machine",
+        "slot_machine"
+    ],
+    "unicode": "🎰",
+    "sequences": [
+        "🎰"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-game"
+}
