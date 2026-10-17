@@ -1,0 +1,20 @@
+{
+    "id": "u1f6b8-children-crossing",
+    "type": "emoji",
+    "name": "children crossing",
+    "alias": [
+        "children crossing",
+        "children-crossing",
+        "children_crossing"
+    ],
+    "unicode": "🚸",
+    "sequences": [
+        "🚸"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-warning"
+}

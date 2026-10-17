@@ -1,0 +1,20 @@
+{
+    "id": "u1f972-smiling-face-with-tear",
+    "type": "emoji",
+    "name": "smiling face with tear",
+    "alias": [
+        "smiling face with tear",
+        "smiling-face-with-tear",
+        "smiling_face_with_tear"
+    ],
+    "unicode": "🥲",
+    "sequences": [
+        "🥲"
+    ],
+    "flags": [],
+    "emoji_version": "13.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-affection"
+}

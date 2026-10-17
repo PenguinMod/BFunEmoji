@@ -1,0 +1,21 @@
+{
+    "id": "u2639-fe0f-frowning-face",
+    "type": "emoji",
+    "name": "frowning face",
+    "alias": [
+        "frowning face",
+        "frowning-face",
+        "frowning_face"
+    ],
+    "unicode": "☹️",
+    "sequences": [
+        "☹️",
+        "☹"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-concerned"
+}

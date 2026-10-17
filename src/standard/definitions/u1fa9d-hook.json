@@ -1,0 +1,20 @@
+{
+    "id": "u1fa9d-hook",
+    "type": "emoji",
+    "name": "hook",
+    "alias": [
+        "hook",
+        "hook",
+        "hook"
+    ],
+    "unicode": "🪝",
+    "sequences": [
+        "🪝"
+    ],
+    "flags": [],
+    "emoji_version": "13.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-tool"
+}

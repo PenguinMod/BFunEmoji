@@ -1,0 +1,20 @@
+{
+    "id": "u1f9cb-bubble-tea",
+    "type": "emoji",
+    "name": "bubble tea",
+    "alias": [
+        "bubble tea",
+        "bubble-tea",
+        "bubble_tea"
+    ],
+    "unicode": "🧋",
+    "sequences": [
+        "🧋"
+    ],
+    "flags": [],
+    "emoji_version": "13.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-drink"
+}

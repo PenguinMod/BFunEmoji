@@ -1,0 +1,21 @@
+{
+    "id": "u2935-fe0f-right-arrow-curving-down",
+    "type": "emoji",
+    "name": "right arrow curving down",
+    "alias": [
+        "right arrow curving down",
+        "right-arrow-curving-down",
+        "right_arrow_curving_down"
+    ],
+    "unicode": "⤵️",
+    "sequences": [
+        "⤵️",
+        "⤵"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-arrow"
+}

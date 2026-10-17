@@ -1,0 +1,20 @@
+{
+    "id": "u1f433-spouting-whale",
+    "type": "emoji",
+    "name": "spouting whale",
+    "alias": [
+        "spouting whale",
+        "spouting-whale",
+        "spouting_whale"
+    ],
+    "unicode": "🐳",
+    "sequences": [
+        "🐳"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-marine"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "u1f5f3-fe0f-ballot-box-with-ballot",
+    "type": "emoji",
+    "name": "ballot box with ballot",
+    "alias": [
+        "ballot box with ballot",
+        "ballot-box-with-ballot",
+        "ballot_box_with_ballot"
+    ],
+    "unicode": "🗳️",
+    "sequences": [
+        "🗳️",
+        "🗳"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-mail"
+}

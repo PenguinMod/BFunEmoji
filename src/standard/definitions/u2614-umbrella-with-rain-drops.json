@@ -1,0 +1,20 @@
+{
+    "id": "u2614-umbrella-with-rain-drops",
+    "type": "emoji",
+    "name": "umbrella with rain drops",
+    "alias": [
+        "umbrella with rain drops",
+        "umbrella-with-rain-drops",
+        "umbrella_with_rain_drops"
+    ],
+    "unicode": "☔",
+    "sequences": [
+        "☔"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-sky-26-weather"
+}

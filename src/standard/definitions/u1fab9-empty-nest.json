@@ -1,0 +1,20 @@
+{
+    "id": "u1fab9-empty-nest",
+    "type": "emoji",
+    "name": "empty nest",
+    "alias": [
+        "empty nest",
+        "empty-nest",
+        "empty_nest"
+    ],
+    "unicode": "🪹",
+    "sequences": [
+        "🪹"
+    ],
+    "flags": [],
+    "emoji_version": "14.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-plant-other"
+}

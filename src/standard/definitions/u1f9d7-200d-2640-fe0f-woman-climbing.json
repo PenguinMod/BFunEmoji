@@ -1,0 +1,21 @@
+{
+    "id": "u1f9d7-200d-2640-fe0f-woman-climbing",
+    "type": "emoji",
+    "name": "woman climbing",
+    "alias": [
+        "woman climbing",
+        "woman-climbing",
+        "woman_climbing"
+    ],
+    "unicode": "🧗‍♀️",
+    "sequences": [
+        "🧗‍♀️",
+        "🧗‍♀"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-activity"
+}

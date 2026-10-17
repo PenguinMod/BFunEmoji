@@ -1,0 +1,20 @@
+{
+    "id": "u1f5ff-moai",
+    "type": "emoji",
+    "name": "moai",
+    "alias": [
+        "moai",
+        "moai",
+        "moai"
+    ],
+    "unicode": "🗿",
+    "sequences": [
+        "🗿"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-other-object"
+}

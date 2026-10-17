@@ -1,0 +1,20 @@
+{
+    "id": "u1f6bf-shower",
+    "type": "emoji",
+    "name": "shower",
+    "alias": [
+        "shower",
+        "shower",
+        "shower"
+    ],
+    "unicode": "🚿",
+    "sequences": [
+        "🚿"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-household"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f6a0-mountain-cableway",
+    "type": "emoji",
+    "name": "mountain cableway",
+    "alias": [
+        "mountain cableway",
+        "mountain-cableway",
+        "mountain_cableway"
+    ],
+    "unicode": "🚠",
+    "sequences": [
+        "🚠"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-transport-air"
+}

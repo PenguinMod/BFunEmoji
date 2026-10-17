@@ -1,0 +1,20 @@
+{
+    "id": "u1f4c2-open-file-folder",
+    "type": "emoji",
+    "name": "open file folder",
+    "alias": [
+        "open file folder",
+        "open-file-folder",
+        "open_file_folder"
+    ],
+    "unicode": "📂",
+    "sequences": [
+        "📂"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-office"
+}

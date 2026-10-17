@@ -1,0 +1,20 @@
+{
+    "id": "u23f3-hourglass-not-done",
+    "type": "emoji",
+    "name": "hourglass not done",
+    "alias": [
+        "hourglass not done",
+        "hourglass-not-done",
+        "hourglass_not_done"
+    ],
+    "unicode": "⏳",
+    "sequences": [
+        "⏳"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-time"
+}

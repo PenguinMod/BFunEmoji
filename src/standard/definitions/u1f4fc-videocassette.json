@@ -1,0 +1,20 @@
+{
+    "id": "u1f4fc-videocassette",
+    "type": "emoji",
+    "name": "videocassette",
+    "alias": [
+        "videocassette",
+        "videocassette",
+        "videocassette"
+    ],
+    "unicode": "📼",
+    "sequences": [
+        "📼"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-light-26-video"
+}

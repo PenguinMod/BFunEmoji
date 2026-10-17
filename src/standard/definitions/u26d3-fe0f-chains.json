@@ -1,0 +1,21 @@
+{
+    "id": "u26d3-fe0f-chains",
+    "type": "emoji",
+    "name": "chains",
+    "alias": [
+        "chains",
+        "chains",
+        "chains"
+    ],
+    "unicode": "⛓️",
+    "sequences": [
+        "⛓️",
+        "⛓"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-tool"
+}

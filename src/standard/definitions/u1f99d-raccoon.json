@@ -1,0 +1,20 @@
+{
+    "id": "u1f99d-raccoon",
+    "type": "emoji",
+    "name": "raccoon",
+    "alias": [
+        "raccoon",
+        "raccoon",
+        "raccoon"
+    ],
+    "unicode": "🦝",
+    "sequences": [
+        "🦝"
+    ],
+    "flags": [],
+    "emoji_version": "11.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-mammal"
+}

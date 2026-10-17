@@ -1,0 +1,20 @@
+{
+    "id": "u1f1e8-1f1ff-flag--czechia",
+    "type": "emoji",
+    "name": "flag: Czechia",
+    "alias": [
+        "flag: Czechia",
+        "flag:-Czechia",
+        "flag:_Czechia"
+    ],
+    "unicode": "🇨🇿",
+    "sequences": [
+        "🇨🇿"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

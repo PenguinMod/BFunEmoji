@@ -1,0 +1,20 @@
+{
+    "id": "u1f3cf-cricket-game",
+    "type": "emoji",
+    "name": "cricket game",
+    "alias": [
+        "cricket game",
+        "cricket-game",
+        "cricket_game"
+    ],
+    "unicode": "🏏",
+    "sequences": [
+        "🏏"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-sport"
+}

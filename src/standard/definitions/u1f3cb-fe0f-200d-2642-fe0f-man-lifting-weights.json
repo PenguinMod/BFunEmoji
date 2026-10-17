@@ -1,0 +1,23 @@
+{
+    "id": "u1f3cb-fe0f-200d-2642-fe0f-man-lifting-weights",
+    "type": "emoji",
+    "name": "man lifting weights",
+    "alias": [
+        "man lifting weights",
+        "man-lifting-weights",
+        "man_lifting_weights"
+    ],
+    "unicode": "🏋️‍♂️",
+    "sequences": [
+        "🏋️‍♂️",
+        "🏋‍♂️",
+        "🏋️‍♂",
+        "🏋‍♂"
+    ],
+    "flags": [],
+    "emoji_version": "4.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-sport"
+}

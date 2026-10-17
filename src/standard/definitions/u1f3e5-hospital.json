@@ -1,0 +1,20 @@
+{
+    "id": "u1f3e5-hospital",
+    "type": "emoji",
+    "name": "hospital",
+    "alias": [
+        "hospital",
+        "hospital",
+        "hospital"
+    ],
+    "unicode": "🏥",
+    "sequences": [
+        "🏥"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-place-building"
+}

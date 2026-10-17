@@ -1,0 +1,21 @@
+{
+    "id": "u1f399-fe0f-studio-microphone",
+    "type": "emoji",
+    "name": "studio microphone",
+    "alias": [
+        "studio microphone",
+        "studio-microphone",
+        "studio_microphone"
+    ],
+    "unicode": "🎙️",
+    "sequences": [
+        "🎙️",
+        "🎙"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-music"
+}

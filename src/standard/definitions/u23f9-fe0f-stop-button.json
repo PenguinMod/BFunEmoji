@@ -1,0 +1,21 @@
+{
+    "id": "u23f9-fe0f-stop-button",
+    "type": "emoji",
+    "name": "stop button",
+    "alias": [
+        "stop button",
+        "stop-button",
+        "stop_button"
+    ],
+    "unicode": "⏹️",
+    "sequences": [
+        "⏹️",
+        "⏹"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-av-symbol"
+}

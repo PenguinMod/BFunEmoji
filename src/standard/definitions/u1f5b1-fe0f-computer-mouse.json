@@ -1,0 +1,21 @@
+{
+    "id": "u1f5b1-fe0f-computer-mouse",
+    "type": "emoji",
+    "name": "computer mouse",
+    "alias": [
+        "computer mouse",
+        "computer-mouse",
+        "computer_mouse"
+    ],
+    "unicode": "🖱️",
+    "sequences": [
+        "🖱️",
+        "🖱"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-computer"
+}

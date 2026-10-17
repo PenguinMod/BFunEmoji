@@ -1,0 +1,20 @@
+{
+    "id": "u1f1ec-1f1ed-flag--ghana",
+    "type": "emoji",
+    "name": "flag: Ghana",
+    "alias": [
+        "flag: Ghana",
+        "flag:-Ghana",
+        "flag:_Ghana"
+    ],
+    "unicode": "🇬🇭",
+    "sequences": [
+        "🇬🇭"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f9c1-cupcake",
+    "type": "emoji",
+    "name": "cupcake",
+    "alias": [
+        "cupcake",
+        "cupcake",
+        "cupcake"
+    ],
+    "unicode": "🧁",
+    "sequences": [
+        "🧁"
+    ],
+    "flags": [],
+    "emoji_version": "11.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-food-sweet"
+}

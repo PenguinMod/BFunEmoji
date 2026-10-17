@@ -1,0 +1,20 @@
+{
+    "id": "u1f551-two-o-clock",
+    "type": "emoji",
+    "name": "two o’clock",
+    "alias": [
+        "two o’clock",
+        "two-o’clock",
+        "two_o’clock"
+    ],
+    "unicode": "🕑",
+    "sequences": [
+        "🕑"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-time"
+}

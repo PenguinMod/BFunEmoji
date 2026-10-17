@@ -1,0 +1,20 @@
+{
+    "id": "u1f34d-pineapple",
+    "type": "emoji",
+    "name": "pineapple",
+    "alias": [
+        "pineapple",
+        "pineapple",
+        "pineapple"
+    ],
+    "unicode": "🍍",
+    "sequences": [
+        "🍍"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-food-fruit"
+}

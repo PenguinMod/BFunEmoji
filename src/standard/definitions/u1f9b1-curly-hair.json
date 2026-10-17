@@ -1,0 +1,20 @@
+{
+    "id": "u1f9b1-curly-hair",
+    "type": "emoji",
+    "name": "curly hair",
+    "alias": [
+        "curly hair",
+        "curly-hair",
+        "curly_hair"
+    ],
+    "unicode": "🦱",
+    "sequences": [
+        "🦱"
+    ],
+    "flags": [],
+    "emoji_version": "11.0",
+    "emoji_type": "component",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-hair-style"
+}

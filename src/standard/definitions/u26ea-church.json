@@ -1,0 +1,20 @@
+{
+    "id": "u26ea-church",
+    "type": "emoji",
+    "name": "church",
+    "alias": [
+        "church",
+        "church",
+        "church"
+    ],
+    "unicode": "⛪",
+    "sequences": [
+        "⛪"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-place-religious"
+}

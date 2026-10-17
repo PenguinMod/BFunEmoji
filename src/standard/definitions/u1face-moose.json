@@ -1,0 +1,20 @@
+{
+    "id": "u1face-moose",
+    "type": "emoji",
+    "name": "moose",
+    "alias": [
+        "moose",
+        "moose",
+        "moose"
+    ],
+    "unicode": "🫎",
+    "sequences": [
+        "🫎"
+    ],
+    "flags": [],
+    "emoji_version": "15.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-mammal"
+}

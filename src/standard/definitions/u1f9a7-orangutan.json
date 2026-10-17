@@ -1,0 +1,20 @@
+{
+    "id": "u1f9a7-orangutan",
+    "type": "emoji",
+    "name": "orangutan",
+    "alias": [
+        "orangutan",
+        "orangutan",
+        "orangutan"
+    ],
+    "unicode": "🦧",
+    "sequences": [
+        "🦧"
+    ],
+    "flags": [],
+    "emoji_version": "12.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-mammal"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f559-ten-o-clock",
+    "type": "emoji",
+    "name": "ten o’clock",
+    "alias": [
+        "ten o’clock",
+        "ten-o’clock",
+        "ten_o’clock"
+    ],
+    "unicode": "🕙",
+    "sequences": [
+        "🕙"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-time"
+}

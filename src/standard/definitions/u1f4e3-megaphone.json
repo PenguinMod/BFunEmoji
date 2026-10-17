@@ -1,0 +1,20 @@
+{
+    "id": "u1f4e3-megaphone",
+    "type": "emoji",
+    "name": "megaphone",
+    "alias": [
+        "megaphone",
+        "megaphone",
+        "megaphone"
+    ],
+    "unicode": "📣",
+    "sequences": [
+        "📣"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-sound"
+}

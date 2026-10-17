@@ -1,0 +1,20 @@
+{
+    "id": "u1f98a-fox",
+    "type": "emoji",
+    "name": "fox",
+    "alias": [
+        "fox",
+        "fox",
+        "fox"
+    ],
+    "unicode": "🦊",
+    "sequences": [
+        "🦊"
+    ],
+    "flags": [],
+    "emoji_version": "3.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-mammal"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f49d-heart-with-ribbon",
+    "type": "emoji",
+    "name": "heart with ribbon",
+    "alias": [
+        "heart with ribbon",
+        "heart-with-ribbon",
+        "heart_with_ribbon"
+    ],
+    "unicode": "💝",
+    "sequences": [
+        "💝"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-heart"
+}

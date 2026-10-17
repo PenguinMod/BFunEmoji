@@ -1,0 +1,21 @@
+{
+    "id": "u26d3-fe0f-200d-1f4a5-broken-chain",
+    "type": "emoji",
+    "name": "broken chain",
+    "alias": [
+        "broken chain",
+        "broken-chain",
+        "broken_chain"
+    ],
+    "unicode": "⛓️‍💥",
+    "sequences": [
+        "⛓️‍💥",
+        "⛓‍💥"
+    ],
+    "flags": [],
+    "emoji_version": "15.1",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-tool"
+}

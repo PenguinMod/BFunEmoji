@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f0-1f1fc-flag--kuwait",
+    "type": "emoji",
+    "name": "flag: Kuwait",
+    "alias": [
+        "flag: Kuwait",
+        "flag:-Kuwait",
+        "flag:_Kuwait"
+    ],
+    "unicode": "🇰🇼",
+    "sequences": [
+        "🇰🇼"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

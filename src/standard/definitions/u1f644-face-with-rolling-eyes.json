@@ -1,0 +1,20 @@
+{
+    "id": "u1f644-face-with-rolling-eyes",
+    "type": "emoji",
+    "name": "face with rolling eyes",
+    "alias": [
+        "face with rolling eyes",
+        "face-with-rolling-eyes",
+        "face_with_rolling_eyes"
+    ],
+    "unicode": "🙄",
+    "sequences": [
+        "🙄"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-neutral-skeptical"
+}

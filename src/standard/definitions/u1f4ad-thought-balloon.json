@@ -1,0 +1,20 @@
+{
+    "id": "u1f4ad-thought-balloon",
+    "type": "emoji",
+    "name": "thought balloon",
+    "alias": [
+        "thought balloon",
+        "thought-balloon",
+        "thought_balloon"
+    ],
+    "unicode": "💭",
+    "sequences": [
+        "💭"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-emotion"
+}

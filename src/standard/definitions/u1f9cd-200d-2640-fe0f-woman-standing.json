@@ -1,0 +1,21 @@
+{
+    "id": "u1f9cd-200d-2640-fe0f-woman-standing",
+    "type": "emoji",
+    "name": "woman standing",
+    "alias": [
+        "woman standing",
+        "woman-standing",
+        "woman_standing"
+    ],
+    "unicode": "🧍‍♀️",
+    "sequences": [
+        "🧍‍♀️",
+        "🧍‍♀"
+    ],
+    "flags": [],
+    "emoji_version": "12.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-activity"
+}

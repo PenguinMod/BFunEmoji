@@ -1,0 +1,20 @@
+{
+    "id": "u1f9d9-mage",
+    "type": "emoji",
+    "name": "mage",
+    "alias": [
+        "mage",
+        "mage",
+        "mage"
+    ],
+    "unicode": "🧙",
+    "sequences": [
+        "🧙"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-fantasy"
+}

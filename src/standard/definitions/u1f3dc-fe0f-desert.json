@@ -1,0 +1,21 @@
+{
+    "id": "u1f3dc-fe0f-desert",
+    "type": "emoji",
+    "name": "desert",
+    "alias": [
+        "desert",
+        "desert",
+        "desert"
+    ],
+    "unicode": "🏜️",
+    "sequences": [
+        "🏜️",
+        "🏜"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-place-geographic"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "u26b1-fe0f-funeral-urn",
+    "type": "emoji",
+    "name": "funeral urn",
+    "alias": [
+        "funeral urn",
+        "funeral-urn",
+        "funeral_urn"
+    ],
+    "unicode": "⚱️",
+    "sequences": [
+        "⚱️",
+        "⚱"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-other-object"
+}

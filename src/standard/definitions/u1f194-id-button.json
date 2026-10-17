@@ -1,0 +1,20 @@
+{
+    "id": "u1f194-id-button",
+    "type": "emoji",
+    "name": "ID button",
+    "alias": [
+        "ID button",
+        "ID-button",
+        "ID_button"
+    ],
+    "unicode": "🆔",
+    "sequences": [
+        "🆔"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-alphanum"
+}

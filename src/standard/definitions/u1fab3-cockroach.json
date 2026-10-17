@@ -1,0 +1,20 @@
+{
+    "id": "u1fab3-cockroach",
+    "type": "emoji",
+    "name": "cockroach",
+    "alias": [
+        "cockroach",
+        "cockroach",
+        "cockroach"
+    ],
+    "unicode": "🪳",
+    "sequences": [
+        "🪳"
+    ],
+    "flags": [],
+    "emoji_version": "13.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-bug"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1faf7-leftwards-pushing-hand",
+    "type": "emoji",
+    "name": "leftwards pushing hand",
+    "alias": [
+        "leftwards pushing hand",
+        "leftwards-pushing-hand",
+        "leftwards_pushing_hand"
+    ],
+    "unicode": "🫷",
+    "sequences": [
+        "🫷"
+    ],
+    "flags": [],
+    "emoji_version": "15.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-hand-fingers-open"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f1e8-1f1f4-flag--colombia",
+    "type": "emoji",
+    "name": "flag: Colombia",
+    "alias": [
+        "flag: Colombia",
+        "flag:-Colombia",
+        "flag:_Colombia"
+    ],
+    "unicode": "🇨🇴",
+    "sequences": [
+        "🇨🇴"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

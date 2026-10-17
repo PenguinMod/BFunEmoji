@@ -1,0 +1,21 @@
+{
+    "id": "u2b06-fe0f-up-arrow",
+    "type": "emoji",
+    "name": "up arrow",
+    "alias": [
+        "up arrow",
+        "up-arrow",
+        "up_arrow"
+    ],
+    "unicode": "⬆️",
+    "sequences": [
+        "⬆️",
+        "⬆"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-arrow"
+}

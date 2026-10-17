@@ -1,0 +1,20 @@
+{
+    "id": "u1f7f0-heavy-equals-sign",
+    "type": "emoji",
+    "name": "heavy equals sign",
+    "alias": [
+        "heavy equals sign",
+        "heavy-equals-sign",
+        "heavy_equals_sign"
+    ],
+    "unicode": "🟰",
+    "sequences": [
+        "🟰"
+    ],
+    "flags": [],
+    "emoji_version": "14.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-math"
+}

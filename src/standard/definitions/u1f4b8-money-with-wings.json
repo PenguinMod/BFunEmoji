@@ -1,0 +1,20 @@
+{
+    "id": "u1f4b8-money-with-wings",
+    "type": "emoji",
+    "name": "money with wings",
+    "alias": [
+        "money with wings",
+        "money-with-wings",
+        "money_with_wings"
+    ],
+    "unicode": "💸",
+    "sequences": [
+        "💸"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-money"
+}

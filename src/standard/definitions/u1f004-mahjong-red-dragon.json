@@ -1,0 +1,20 @@
+{
+    "id": "u1f004-mahjong-red-dragon",
+    "type": "emoji",
+    "name": "mahjong red dragon",
+    "alias": [
+        "mahjong red dragon",
+        "mahjong-red-dragon",
+        "mahjong_red_dragon"
+    ],
+    "unicode": "🀄",
+    "sequences": [
+        "🀄"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-game"
+}

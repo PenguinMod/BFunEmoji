@@ -1,0 +1,21 @@
+{
+    "id": "u26b0-fe0f-coffin",
+    "type": "emoji",
+    "name": "coffin",
+    "alias": [
+        "coffin",
+        "coffin",
+        "coffin"
+    ],
+    "unicode": "⚰️",
+    "sequences": [
+        "⚰️",
+        "⚰"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-other-object"
+}

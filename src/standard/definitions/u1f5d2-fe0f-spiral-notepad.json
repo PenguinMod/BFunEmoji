@@ -1,0 +1,21 @@
+{
+    "id": "u1f5d2-fe0f-spiral-notepad",
+    "type": "emoji",
+    "name": "spiral notepad",
+    "alias": [
+        "spiral notepad",
+        "spiral-notepad",
+        "spiral_notepad"
+    ],
+    "unicode": "🗒️",
+    "sequences": [
+        "🗒️",
+        "🗒"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-office"
+}

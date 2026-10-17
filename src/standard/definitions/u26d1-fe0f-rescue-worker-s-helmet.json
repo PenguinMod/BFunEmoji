@@ -1,0 +1,21 @@
+{
+    "id": "u26d1-fe0f-rescue-worker-s-helmet",
+    "type": "emoji",
+    "name": "rescue worker’s helmet",
+    "alias": [
+        "rescue worker’s helmet",
+        "rescue-worker’s-helmet",
+        "rescue_worker’s_helmet"
+    ],
+    "unicode": "⛑️",
+    "sequences": [
+        "⛑️",
+        "⛑"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-clothing"
+}

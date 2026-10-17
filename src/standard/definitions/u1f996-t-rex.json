@@ -1,0 +1,20 @@
+{
+    "id": "u1f996-t-rex",
+    "type": "emoji",
+    "name": "T-Rex",
+    "alias": [
+        "T-Rex",
+        "T-Rex",
+        "T-Rex"
+    ],
+    "unicode": "🦖",
+    "sequences": [
+        "🦖"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-reptile"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f3b8-guitar",
+    "type": "emoji",
+    "name": "guitar",
+    "alias": [
+        "guitar",
+        "guitar",
+        "guitar"
+    ],
+    "unicode": "🎸",
+    "sequences": [
+        "🎸"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-musical-instrument"
+}

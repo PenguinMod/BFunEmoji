@@ -1,0 +1,20 @@
+{
+    "id": "u1fac3-pregnant-man",
+    "type": "emoji",
+    "name": "pregnant man",
+    "alias": [
+        "pregnant man",
+        "pregnant-man",
+        "pregnant_man"
+    ],
+    "unicode": "🫃",
+    "sequences": [
+        "🫃"
+    ],
+    "flags": [],
+    "emoji_version": "14.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-role"
+}

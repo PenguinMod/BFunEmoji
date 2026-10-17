@@ -1,0 +1,21 @@
+{
+    "id": "u1f56f-fe0f-candle",
+    "type": "emoji",
+    "name": "candle",
+    "alias": [
+        "candle",
+        "candle",
+        "candle"
+    ],
+    "unicode": "🕯️",
+    "sequences": [
+        "🕯️",
+        "🕯"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-light-26-video"
+}

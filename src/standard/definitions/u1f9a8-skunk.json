@@ -1,0 +1,20 @@
+{
+    "id": "u1f9a8-skunk",
+    "type": "emoji",
+    "name": "skunk",
+    "alias": [
+        "skunk",
+        "skunk",
+        "skunk"
+    ],
+    "unicode": "🦨",
+    "sequences": [
+        "🦨"
+    ],
+    "flags": [],
+    "emoji_version": "12.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-mammal"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f64d-1f3fd-person-frowning--medium-skin-tone",
+    "type": "emoji",
+    "name": "person frowning: medium skin tone",
+    "alias": [
+        "person frowning: medium skin tone",
+        "person-frowning:-medium-skin-tone",
+        "person_frowning:_medium_skin_tone"
+    ],
+    "unicode": "🙍🏽",
+    "sequences": [
+        "🙍🏽"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-gesture"
+}

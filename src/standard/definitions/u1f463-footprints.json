@@ -1,0 +1,20 @@
+{
+    "id": "u1f463-footprints",
+    "type": "emoji",
+    "name": "footprints",
+    "alias": [
+        "footprints",
+        "footprints",
+        "footprints"
+    ],
+    "unicode": "👣",
+    "sequences": [
+        "👣"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-symbol"
+}

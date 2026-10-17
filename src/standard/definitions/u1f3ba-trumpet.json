@@ -1,0 +1,20 @@
+{
+    "id": "u1f3ba-trumpet",
+    "type": "emoji",
+    "name": "trumpet",
+    "alias": [
+        "trumpet",
+        "trumpet",
+        "trumpet"
+    ],
+    "unicode": "🎺",
+    "sequences": [
+        "🎺"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-musical-instrument"
+}

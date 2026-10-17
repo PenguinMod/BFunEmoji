@@ -1,0 +1,21 @@
+{
+    "id": "u1f3d9-fe0f-cityscape",
+    "type": "emoji",
+    "name": "cityscape",
+    "alias": [
+        "cityscape",
+        "cityscape",
+        "cityscape"
+    ],
+    "unicode": "🏙️",
+    "sequences": [
+        "🏙️",
+        "🏙"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-place-other"
+}

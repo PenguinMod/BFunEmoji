@@ -1,0 +1,20 @@
+{
+    "id": "u1f688-light-rail",
+    "type": "emoji",
+    "name": "light rail",
+    "alias": [
+        "light rail",
+        "light-rail",
+        "light_rail"
+    ],
+    "unicode": "🚈",
+    "sequences": [
+        "🚈"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-transport-ground"
+}

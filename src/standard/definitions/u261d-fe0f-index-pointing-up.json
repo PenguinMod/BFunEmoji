@@ -1,0 +1,21 @@
+{
+    "id": "u261d-fe0f-index-pointing-up",
+    "type": "emoji",
+    "name": "index pointing up",
+    "alias": [
+        "index pointing up",
+        "index-pointing-up",
+        "index_pointing_up"
+    ],
+    "unicode": "☝️",
+    "sequences": [
+        "☝️",
+        "☝"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-hand-single-finger"
+}

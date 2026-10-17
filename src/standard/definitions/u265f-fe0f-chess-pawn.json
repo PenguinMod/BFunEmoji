@@ -1,0 +1,21 @@
+{
+    "id": "u265f-fe0f-chess-pawn",
+    "type": "emoji",
+    "name": "chess pawn",
+    "alias": [
+        "chess pawn",
+        "chess-pawn",
+        "chess_pawn"
+    ],
+    "unicode": "♟️",
+    "sequences": [
+        "♟️",
+        "♟"
+    ],
+    "flags": [],
+    "emoji_version": "11.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-game"
+}

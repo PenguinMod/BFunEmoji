@@ -1,0 +1,20 @@
+{
+    "id": "u1f3c5-sports-medal",
+    "type": "emoji",
+    "name": "sports medal",
+    "alias": [
+        "sports medal",
+        "sports-medal",
+        "sports_medal"
+    ],
+    "unicode": "🏅",
+    "sequences": [
+        "🏅"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-award-medal"
+}

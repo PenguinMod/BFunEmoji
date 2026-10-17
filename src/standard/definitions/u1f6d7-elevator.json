@@ -1,0 +1,20 @@
+{
+    "id": "u1f6d7-elevator",
+    "type": "emoji",
+    "name": "elevator",
+    "alias": [
+        "elevator",
+        "elevator",
+        "elevator"
+    ],
+    "unicode": "🛗",
+    "sequences": [
+        "🛗"
+    ],
+    "flags": [],
+    "emoji_version": "13.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-household"
+}

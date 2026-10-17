@@ -1,0 +1,20 @@
+{
+    "id": "u1f4c3-page-with-curl",
+    "type": "emoji",
+    "name": "page with curl",
+    "alias": [
+        "page with curl",
+        "page-with-curl",
+        "page_with_curl"
+    ],
+    "unicode": "📃",
+    "sequences": [
+        "📃"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-book-paper"
+}

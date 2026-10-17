@@ -1,0 +1,20 @@
+{
+    "id": "u1f47f-angry-face-with-horns",
+    "type": "emoji",
+    "name": "angry face with horns",
+    "alias": [
+        "angry face with horns",
+        "angry-face-with-horns",
+        "angry_face_with_horns"
+    ],
+    "unicode": "👿",
+    "sequences": [
+        "👿"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-negative"
+}

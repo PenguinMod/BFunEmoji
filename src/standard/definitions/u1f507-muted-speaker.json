@@ -1,0 +1,20 @@
+{
+    "id": "u1f507-muted-speaker",
+    "type": "emoji",
+    "name": "muted speaker",
+    "alias": [
+        "muted speaker",
+        "muted-speaker",
+        "muted_speaker"
+    ],
+    "unicode": "🔇",
+    "sequences": [
+        "🔇"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-sound"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f6f6-canoe",
+    "type": "emoji",
+    "name": "canoe",
+    "alias": [
+        "canoe",
+        "canoe",
+        "canoe"
+    ],
+    "unicode": "🛶",
+    "sequences": [
+        "🛶"
+    ],
+    "flags": [],
+    "emoji_version": "3.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-transport-water"
+}

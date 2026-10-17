@@ -1,0 +1,20 @@
+{
+    "id": "u1f448-backhand-index-pointing-left",
+    "type": "emoji",
+    "name": "backhand index pointing left",
+    "alias": [
+        "backhand index pointing left",
+        "backhand-index-pointing-left",
+        "backhand_index_pointing_left"
+    ],
+    "unicode": "👈",
+    "sequences": [
+        "👈"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-hand-single-finger"
+}

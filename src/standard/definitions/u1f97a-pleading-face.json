@@ -1,0 +1,20 @@
+{
+    "id": "u1f97a-pleading-face",
+    "type": "emoji",
+    "name": "pleading face",
+    "alias": [
+        "pleading face",
+        "pleading-face",
+        "pleading_face"
+    ],
+    "unicode": "🥺",
+    "sequences": [
+        "🥺"
+    ],
+    "flags": [],
+    "emoji_version": "11.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-concerned"
+}

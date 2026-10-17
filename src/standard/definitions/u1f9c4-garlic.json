@@ -1,0 +1,20 @@
+{
+    "id": "u1f9c4-garlic",
+    "type": "emoji",
+    "name": "garlic",
+    "alias": [
+        "garlic",
+        "garlic",
+        "garlic"
+    ],
+    "unicode": "🧄",
+    "sequences": [
+        "🧄"
+    ],
+    "flags": [],
+    "emoji_version": "12.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-food-vegetable"
+}

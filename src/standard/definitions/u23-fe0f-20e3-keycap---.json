@@ -1,0 +1,21 @@
+{
+    "id": "u23-fe0f-20e3-keycap---",
+    "type": "emoji",
+    "name": "keycap: #",
+    "alias": [
+        "keycap: #",
+        "keycap:-#",
+        "keycap:_#"
+    ],
+    "unicode": "#️⃣",
+    "sequences": [
+        "#️⃣",
+        "#⃣"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-keycap"
+}

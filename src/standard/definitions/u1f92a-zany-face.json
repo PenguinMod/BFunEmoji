@@ -1,0 +1,20 @@
+{
+    "id": "u1f92a-zany-face",
+    "type": "emoji",
+    "name": "zany face",
+    "alias": [
+        "zany face",
+        "zany-face",
+        "zany_face"
+    ],
+    "unicode": "🤪",
+    "sequences": [
+        "🤪"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-tongue"
+}

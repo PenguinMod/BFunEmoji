@@ -1,0 +1,20 @@
+{
+    "id": "u1f3f4-black-flag",
+    "type": "emoji",
+    "name": "black flag",
+    "alias": [
+        "black flag",
+        "black-flag",
+        "black_flag"
+    ],
+    "unicode": "🏴",
+    "sequences": [
+        "🏴"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-flag"
+}

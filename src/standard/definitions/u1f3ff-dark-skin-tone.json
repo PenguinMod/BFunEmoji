@@ -1,0 +1,20 @@
+{
+    "id": "u1f3ff-dark-skin-tone",
+    "type": "emoji",
+    "name": "dark skin tone",
+    "alias": [
+        "dark skin tone",
+        "dark-skin-tone",
+        "dark_skin_tone"
+    ],
+    "unicode": "🏿",
+    "sequences": [
+        "🏿"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "component",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-skin-tone"
+}

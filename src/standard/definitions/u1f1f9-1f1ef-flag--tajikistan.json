@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f9-1f1ef-flag--tajikistan",
+    "type": "emoji",
+    "name": "flag: Tajikistan",
+    "alias": [
+        "flag: Tajikistan",
+        "flag:-Tajikistan",
+        "flag:_Tajikistan"
+    ],
+    "unicode": "🇹🇯",
+    "sequences": [
+        "🇹🇯"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

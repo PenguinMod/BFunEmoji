@@ -1,0 +1,20 @@
+{
+    "id": "u1f6a3-person-rowing-boat",
+    "type": "emoji",
+    "name": "person rowing boat",
+    "alias": [
+        "person rowing boat",
+        "person-rowing-boat",
+        "person_rowing_boat"
+    ],
+    "unicode": "🚣",
+    "sequences": [
+        "🚣"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-sport"
+}

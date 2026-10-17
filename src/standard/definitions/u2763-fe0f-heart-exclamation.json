@@ -1,0 +1,21 @@
+{
+    "id": "u2763-fe0f-heart-exclamation",
+    "type": "emoji",
+    "name": "heart exclamation",
+    "alias": [
+        "heart exclamation",
+        "heart-exclamation",
+        "heart_exclamation"
+    ],
+    "unicode": "❣️",
+    "sequences": [
+        "❣️",
+        "❣"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-heart"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f683-railway-car",
+    "type": "emoji",
+    "name": "railway car",
+    "alias": [
+        "railway car",
+        "railway-car",
+        "railway_car"
+    ],
+    "unicode": "🚃",
+    "sequences": [
+        "🚃"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-transport-ground"
+}

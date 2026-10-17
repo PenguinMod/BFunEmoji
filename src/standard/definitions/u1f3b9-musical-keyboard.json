@@ -1,0 +1,20 @@
+{
+    "id": "u1f3b9-musical-keyboard",
+    "type": "emoji",
+    "name": "musical keyboard",
+    "alias": [
+        "musical keyboard",
+        "musical-keyboard",
+        "musical_keyboard"
+    ],
+    "unicode": "🎹",
+    "sequences": [
+        "🎹"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-musical-instrument"
+}

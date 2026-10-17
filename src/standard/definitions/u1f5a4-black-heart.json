@@ -1,0 +1,20 @@
+{
+    "id": "u1f5a4-black-heart",
+    "type": "emoji",
+    "name": "black heart",
+    "alias": [
+        "black heart",
+        "black-heart",
+        "black_heart"
+    ],
+    "unicode": "🖤",
+    "sequences": [
+        "🖤"
+    ],
+    "flags": [],
+    "emoji_version": "3.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-heart"
+}

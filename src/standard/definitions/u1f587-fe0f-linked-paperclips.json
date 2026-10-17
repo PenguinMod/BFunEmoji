@@ -1,0 +1,21 @@
+{
+    "id": "u1f587-fe0f-linked-paperclips",
+    "type": "emoji",
+    "name": "linked paperclips",
+    "alias": [
+        "linked paperclips",
+        "linked-paperclips",
+        "linked_paperclips"
+    ],
+    "unicode": "🖇️",
+    "sequences": [
+        "🖇️",
+        "🖇"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-office"
+}

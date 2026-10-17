@@ -1,0 +1,21 @@
+{
+    "id": "u1f39f-fe0f-admission-tickets",
+    "type": "emoji",
+    "name": "admission tickets",
+    "alias": [
+        "admission tickets",
+        "admission-tickets",
+        "admission_tickets"
+    ],
+    "unicode": "🎟️",
+    "sequences": [
+        "🎟️",
+        "🎟"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-event"
+}

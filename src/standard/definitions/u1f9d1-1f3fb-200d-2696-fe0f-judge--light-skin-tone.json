@@ -1,0 +1,21 @@
+{
+    "id": "u1f9d1-1f3fb-200d-2696-fe0f-judge--light-skin-tone",
+    "type": "emoji",
+    "name": "judge: light skin tone",
+    "alias": [
+        "judge: light skin tone",
+        "judge:-light-skin-tone",
+        "judge:_light_skin_tone"
+    ],
+    "unicode": "🧑🏻‍⚖️",
+    "sequences": [
+        "🧑🏻‍⚖️",
+        "🧑🏻‍⚖"
+    ],
+    "flags": [],
+    "emoji_version": "12.1",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-role"
+}

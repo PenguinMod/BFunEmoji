@@ -1,0 +1,20 @@
+{
+    "id": "u1f615-confused-face",
+    "type": "emoji",
+    "name": "confused face",
+    "alias": [
+        "confused face",
+        "confused-face",
+        "confused_face"
+    ],
+    "unicode": "😕",
+    "sequences": [
+        "😕"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-concerned"
+}

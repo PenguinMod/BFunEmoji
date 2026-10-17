@@ -1,0 +1,20 @@
+{
+    "id": "u1f250-japanese--bargain--button",
+    "type": "emoji",
+    "name": "Japanese “bargain” button",
+    "alias": [
+        "Japanese “bargain” button",
+        "Japanese-“bargain”-button",
+        "Japanese_“bargain”_button"
+    ],
+    "unicode": "🉐",
+    "sequences": [
+        "🉐"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-alphanum"
+}

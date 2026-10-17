@@ -1,0 +1,20 @@
+{
+    "id": "u1f4d6-open-book",
+    "type": "emoji",
+    "name": "open book",
+    "alias": [
+        "open book",
+        "open-book",
+        "open_book"
+    ],
+    "unicode": "📖",
+    "sequences": [
+        "📖"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-book-paper"
+}

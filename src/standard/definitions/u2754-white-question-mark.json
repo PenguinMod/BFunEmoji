@@ -1,0 +1,20 @@
+{
+    "id": "u2754-white-question-mark",
+    "type": "emoji",
+    "name": "white question mark",
+    "alias": [
+        "white question mark",
+        "white-question-mark",
+        "white_question_mark"
+    ],
+    "unicode": "❔",
+    "sequences": [
+        "❔"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-punctuation"
+}

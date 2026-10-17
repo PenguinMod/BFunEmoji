@@ -1,0 +1,20 @@
+{
+    "id": "u1f446-backhand-index-pointing-up",
+    "type": "emoji",
+    "name": "backhand index pointing up",
+    "alias": [
+        "backhand index pointing up",
+        "backhand-index-pointing-up",
+        "backhand_index_pointing_up"
+    ],
+    "unicode": "👆",
+    "sequences": [
+        "👆"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-hand-single-finger"
+}

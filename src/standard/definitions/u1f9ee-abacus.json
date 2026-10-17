@@ -1,0 +1,20 @@
+{
+    "id": "u1f9ee-abacus",
+    "type": "emoji",
+    "name": "abacus",
+    "alias": [
+        "abacus",
+        "abacus",
+        "abacus"
+    ],
+    "unicode": "🧮",
+    "sequences": [
+        "🧮"
+    ],
+    "flags": [],
+    "emoji_version": "11.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-computer"
+}

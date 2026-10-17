@@ -1,0 +1,21 @@
+{
+    "id": "u1f64e-200d-2640-fe0f-woman-pouting",
+    "type": "emoji",
+    "name": "woman pouting",
+    "alias": [
+        "woman pouting",
+        "woman-pouting",
+        "woman_pouting"
+    ],
+    "unicode": "🙎‍♀️",
+    "sequences": [
+        "🙎‍♀️",
+        "🙎‍♀"
+    ],
+    "flags": [],
+    "emoji_version": "4.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-gesture"
+}

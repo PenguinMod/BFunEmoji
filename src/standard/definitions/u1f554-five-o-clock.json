@@ -1,0 +1,20 @@
+{
+    "id": "u1f554-five-o-clock",
+    "type": "emoji",
+    "name": "five o’clock",
+    "alias": [
+        "five o’clock",
+        "five-o’clock",
+        "five_o’clock"
+    ],
+    "unicode": "🕔",
+    "sequences": [
+        "🕔"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-time"
+}

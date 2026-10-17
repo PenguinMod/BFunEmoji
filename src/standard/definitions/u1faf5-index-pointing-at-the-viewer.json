@@ -1,0 +1,20 @@
+{
+    "id": "u1faf5-index-pointing-at-the-viewer",
+    "type": "emoji",
+    "name": "index pointing at the viewer",
+    "alias": [
+        "index pointing at the viewer",
+        "index-pointing-at-the-viewer",
+        "index_pointing_at_the_viewer"
+    ],
+    "unicode": "🫵",
+    "sequences": [
+        "🫵"
+    ],
+    "flags": [],
+    "emoji_version": "14.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-hand-single-finger"
+}

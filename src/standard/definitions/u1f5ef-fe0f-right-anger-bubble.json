@@ -1,0 +1,21 @@
+{
+    "id": "u1f5ef-fe0f-right-anger-bubble",
+    "type": "emoji",
+    "name": "right anger bubble",
+    "alias": [
+        "right anger bubble",
+        "right-anger-bubble",
+        "right_anger_bubble"
+    ],
+    "unicode": "🗯️",
+    "sequences": [
+        "🗯️",
+        "🗯"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-emotion"
+}

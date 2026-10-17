@@ -1,0 +1,20 @@
+{
+    "id": "u1f424-baby-chick",
+    "type": "emoji",
+    "name": "baby chick",
+    "alias": [
+        "baby chick",
+        "baby-chick",
+        "baby_chick"
+    ],
+    "unicode": "🐤",
+    "sequences": [
+        "🐤"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-bird"
+}

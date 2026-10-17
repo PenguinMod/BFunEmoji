@@ -1,0 +1,21 @@
+{
+    "id": "u2934-fe0f-right-arrow-curving-up",
+    "type": "emoji",
+    "name": "right arrow curving up",
+    "alias": [
+        "right arrow curving up",
+        "right-arrow-curving-up",
+        "right_arrow_curving_up"
+    ],
+    "unicode": "⤴️",
+    "sequences": [
+        "⤴️",
+        "⤴"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-arrow"
+}

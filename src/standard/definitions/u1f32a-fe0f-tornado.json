@@ -1,0 +1,21 @@
+{
+    "id": "u1f32a-fe0f-tornado",
+    "type": "emoji",
+    "name": "tornado",
+    "alias": [
+        "tornado",
+        "tornado",
+        "tornado"
+    ],
+    "unicode": "🌪️",
+    "sequences": [
+        "🌪️",
+        "🌪"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-sky-26-weather"
+}

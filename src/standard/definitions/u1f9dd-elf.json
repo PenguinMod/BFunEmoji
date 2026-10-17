@@ -1,0 +1,20 @@
+{
+    "id": "u1f9dd-elf",
+    "type": "emoji",
+    "name": "elf",
+    "alias": [
+        "elf",
+        "elf",
+        "elf"
+    ],
+    "unicode": "🧝",
+    "sequences": [
+        "🧝"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-fantasy"
+}

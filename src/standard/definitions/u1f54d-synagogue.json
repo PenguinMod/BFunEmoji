@@ -1,0 +1,20 @@
+{
+    "id": "u1f54d-synagogue",
+    "type": "emoji",
+    "name": "synagogue",
+    "alias": [
+        "synagogue",
+        "synagogue",
+        "synagogue"
+    ],
+    "unicode": "🕍",
+    "sequences": [
+        "🕍"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-place-religious"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f3f4-e0067-e0062-e0065-e006e-e0067-e007f-flag--england",
+    "type": "emoji",
+    "name": "flag: England",
+    "alias": [
+        "flag: England",
+        "flag:-England",
+        "flag:_England"
+    ],
+    "unicode": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "sequences": [
+        "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-subdivision-flag"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f69e-mountain-railway",
+    "type": "emoji",
+    "name": "mountain railway",
+    "alias": [
+        "mountain railway",
+        "mountain-railway",
+        "mountain_railway"
+    ],
+    "unicode": "🚞",
+    "sequences": [
+        "🚞"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-transport-ground"
+}

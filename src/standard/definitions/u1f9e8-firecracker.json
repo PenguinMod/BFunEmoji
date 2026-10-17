@@ -1,0 +1,20 @@
+{
+    "id": "u1f9e8-firecracker",
+    "type": "emoji",
+    "name": "firecracker",
+    "alias": [
+        "firecracker",
+        "firecracker",
+        "firecracker"
+    ],
+    "unicode": "🧨",
+    "sequences": [
+        "🧨"
+    ],
+    "flags": [],
+    "emoji_version": "11.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-event"
+}

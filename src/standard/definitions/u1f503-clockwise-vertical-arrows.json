@@ -1,0 +1,20 @@
+{
+    "id": "u1f503-clockwise-vertical-arrows",
+    "type": "emoji",
+    "name": "clockwise vertical arrows",
+    "alias": [
+        "clockwise vertical arrows",
+        "clockwise-vertical-arrows",
+        "clockwise_vertical_arrows"
+    ],
+    "unicode": "🔃",
+    "sequences": [
+        "🔃"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-arrow"
+}

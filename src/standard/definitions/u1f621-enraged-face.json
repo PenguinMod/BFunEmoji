@@ -1,0 +1,20 @@
+{
+    "id": "u1f621-enraged-face",
+    "type": "emoji",
+    "name": "enraged face",
+    "alias": [
+        "enraged face",
+        "enraged-face",
+        "enraged_face"
+    ],
+    "unicode": "😡",
+    "sequences": [
+        "😡"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-negative"
+}

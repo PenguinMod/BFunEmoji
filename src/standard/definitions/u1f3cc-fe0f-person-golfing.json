@@ -1,0 +1,21 @@
+{
+    "id": "u1f3cc-fe0f-person-golfing",
+    "type": "emoji",
+    "name": "person golfing",
+    "alias": [
+        "person golfing",
+        "person-golfing",
+        "person_golfing"
+    ],
+    "unicode": "🏌️",
+    "sequences": [
+        "🏌️",
+        "🏌"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-sport"
+}

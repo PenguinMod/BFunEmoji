@@ -1,0 +1,21 @@
+{
+    "id": "u2696-fe0f-balance-scale",
+    "type": "emoji",
+    "name": "balance scale",
+    "alias": [
+        "balance scale",
+        "balance-scale",
+        "balance_scale"
+    ],
+    "unicode": "⚖️",
+    "sequences": [
+        "⚖️",
+        "⚖"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-tool"
+}

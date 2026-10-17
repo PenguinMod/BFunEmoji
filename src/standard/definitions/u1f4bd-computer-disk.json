@@ -1,0 +1,20 @@
+{
+    "id": "u1f4bd-computer-disk",
+    "type": "emoji",
+    "name": "computer disk",
+    "alias": [
+        "computer disk",
+        "computer-disk",
+        "computer_disk"
+    ],
+    "unicode": "💽",
+    "sequences": [
+        "💽"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-computer"
+}

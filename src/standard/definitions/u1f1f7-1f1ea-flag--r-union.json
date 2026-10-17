@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f7-1f1ea-flag--r-union",
+    "type": "emoji",
+    "name": "flag: Réunion",
+    "alias": [
+        "flag: Réunion",
+        "flag:-Réunion",
+        "flag:_Réunion"
+    ],
+    "unicode": "🇷🇪",
+    "sequences": [
+        "🇷🇪"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

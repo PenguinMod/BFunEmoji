@@ -1,0 +1,20 @@
+{
+    "id": "u1f43b-bear",
+    "type": "emoji",
+    "name": "bear",
+    "alias": [
+        "bear",
+        "bear",
+        "bear"
+    ],
+    "unicode": "🐻",
+    "sequences": [
+        "🐻"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-mammal"
+}

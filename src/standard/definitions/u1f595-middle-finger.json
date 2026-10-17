@@ -1,0 +1,20 @@
+{
+    "id": "u1f595-middle-finger",
+    "type": "emoji",
+    "name": "middle finger",
+    "alias": [
+        "middle finger",
+        "middle-finger",
+        "middle_finger"
+    ],
+    "unicode": "🖕",
+    "sequences": [
+        "🖕"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-hand-single-finger"
+}

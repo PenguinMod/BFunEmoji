@@ -1,0 +1,21 @@
+{
+    "id": "u270f-fe0f-pencil",
+    "type": "emoji",
+    "name": "pencil",
+    "alias": [
+        "pencil",
+        "pencil",
+        "pencil"
+    ],
+    "unicode": "✏️",
+    "sequences": [
+        "✏️",
+        "✏"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-writing"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u264e-libra",
+    "type": "emoji",
+    "name": "Libra",
+    "alias": [
+        "Libra",
+        "Libra",
+        "Libra"
+    ],
+    "unicode": "♎",
+    "sequences": [
+        "♎"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-zodiac"
+}

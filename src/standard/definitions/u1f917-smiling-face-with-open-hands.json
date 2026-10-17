@@ -1,0 +1,20 @@
+{
+    "id": "u1f917-smiling-face-with-open-hands",
+    "type": "emoji",
+    "name": "smiling face with open hands",
+    "alias": [
+        "smiling face with open hands",
+        "smiling-face-with-open-hands",
+        "smiling_face_with_open_hands"
+    ],
+    "unicode": "🤗",
+    "sequences": [
+        "🤗"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-hand"
+}

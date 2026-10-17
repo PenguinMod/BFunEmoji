@@ -1,0 +1,21 @@
+{
+    "id": "u1f574-fe0f-person-in-suit-levitating",
+    "type": "emoji",
+    "name": "person in suit levitating",
+    "alias": [
+        "person in suit levitating",
+        "person-in-suit-levitating",
+        "person_in_suit_levitating"
+    ],
+    "unicode": "🕴️",
+    "sequences": [
+        "🕴️",
+        "🕴"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-activity"
+}

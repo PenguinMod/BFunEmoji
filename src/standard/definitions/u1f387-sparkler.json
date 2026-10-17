@@ -1,0 +1,20 @@
+{
+    "id": "u1f387-sparkler",
+    "type": "emoji",
+    "name": "sparkler",
+    "alias": [
+        "sparkler",
+        "sparkler",
+        "sparkler"
+    ],
+    "unicode": "🎇",
+    "sequences": [
+        "🎇"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-event"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "u2620-fe0f-skull-and-crossbones",
+    "type": "emoji",
+    "name": "skull and crossbones",
+    "alias": [
+        "skull and crossbones",
+        "skull-and-crossbones",
+        "skull_and_crossbones"
+    ],
+    "unicode": "☠️",
+    "sequences": [
+        "☠️",
+        "☠"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-negative"
+}

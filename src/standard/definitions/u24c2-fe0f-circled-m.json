@@ -1,0 +1,21 @@
+{
+    "id": "u24c2-fe0f-circled-m",
+    "type": "emoji",
+    "name": "circled M",
+    "alias": [
+        "circled M",
+        "circled-M",
+        "circled_M"
+    ],
+    "unicode": "Ⓜ️",
+    "sequences": [
+        "Ⓜ️",
+        "Ⓜ"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-alphanum"
+}

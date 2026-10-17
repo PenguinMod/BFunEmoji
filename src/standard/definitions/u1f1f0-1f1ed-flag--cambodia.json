@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f0-1f1ed-flag--cambodia",
+    "type": "emoji",
+    "name": "flag: Cambodia",
+    "alias": [
+        "flag: Cambodia",
+        "flag:-Cambodia",
+        "flag:_Cambodia"
+    ],
+    "unicode": "🇰🇭",
+    "sequences": [
+        "🇰🇭"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f408-cat",
+    "type": "emoji",
+    "name": "cat",
+    "alias": [
+        "cat",
+        "cat",
+        "cat"
+    ],
+    "unicode": "🐈",
+    "sequences": [
+        "🐈"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-mammal"
+}

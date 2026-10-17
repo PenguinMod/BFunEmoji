@@ -1,0 +1,20 @@
+{
+    "id": "u1f63b-smiling-cat-with-heart-eyes",
+    "type": "emoji",
+    "name": "smiling cat with heart-eyes",
+    "alias": [
+        "smiling cat with heart-eyes",
+        "smiling-cat-with-heart-eyes",
+        "smiling_cat_with_heart-eyes"
+    ],
+    "unicode": "😻",
+    "sequences": [
+        "😻"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-cat-face"
+}

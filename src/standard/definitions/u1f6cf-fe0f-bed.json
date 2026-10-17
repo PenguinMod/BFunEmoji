@@ -1,0 +1,21 @@
+{
+    "id": "u1f6cf-fe0f-bed",
+    "type": "emoji",
+    "name": "bed",
+    "alias": [
+        "bed",
+        "bed",
+        "bed"
+    ],
+    "unicode": "🛏️",
+    "sequences": [
+        "🛏️",
+        "🛏"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-household"
+}

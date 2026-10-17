@@ -1,0 +1,20 @@
+{
+    "id": "u1fac1-lungs",
+    "type": "emoji",
+    "name": "lungs",
+    "alias": [
+        "lungs",
+        "lungs",
+        "lungs"
+    ],
+    "unicode": "🫁",
+    "sequences": [
+        "🫁"
+    ],
+    "flags": [],
+    "emoji_version": "13.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-body-parts"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f994-hedgehog",
+    "type": "emoji",
+    "name": "hedgehog",
+    "alias": [
+        "hedgehog",
+        "hedgehog",
+        "hedgehog"
+    ],
+    "unicode": "🦔",
+    "sequences": [
+        "🦔"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-mammal"
+}

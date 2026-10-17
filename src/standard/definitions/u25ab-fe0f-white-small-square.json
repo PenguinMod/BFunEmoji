@@ -1,0 +1,21 @@
+{
+    "id": "u25ab-fe0f-white-small-square",
+    "type": "emoji",
+    "name": "white small square",
+    "alias": [
+        "white small square",
+        "white-small-square",
+        "white_small_square"
+    ],
+    "unicode": "▫️",
+    "sequences": [
+        "▫️",
+        "▫"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-geometric"
+}

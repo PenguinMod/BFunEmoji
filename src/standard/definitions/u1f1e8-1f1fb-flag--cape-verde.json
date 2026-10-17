@@ -1,0 +1,20 @@
+{
+    "id": "u1f1e8-1f1fb-flag--cape-verde",
+    "type": "emoji",
+    "name": "flag: Cape Verde",
+    "alias": [
+        "flag: Cape Verde",
+        "flag:-Cape-Verde",
+        "flag:_Cape_Verde"
+    ],
+    "unicode": "🇨🇻",
+    "sequences": [
+        "🇨🇻"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

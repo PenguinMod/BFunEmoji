@@ -1,0 +1,20 @@
+{
+    "id": "u1f4ee-postbox",
+    "type": "emoji",
+    "name": "postbox",
+    "alias": [
+        "postbox",
+        "postbox",
+        "postbox"
+    ],
+    "unicode": "📮",
+    "sequences": [
+        "📮"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-mail"
+}

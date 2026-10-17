@@ -1,0 +1,20 @@
+{
+    "id": "u1f35f-french-fries",
+    "type": "emoji",
+    "name": "french fries",
+    "alias": [
+        "french fries",
+        "french-fries",
+        "french_fries"
+    ],
+    "unicode": "🍟",
+    "sequences": [
+        "🍟"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-food-prepared"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "u1f6cb-fe0f-couch-and-lamp",
+    "type": "emoji",
+    "name": "couch and lamp",
+    "alias": [
+        "couch and lamp",
+        "couch-and-lamp",
+        "couch_and_lamp"
+    ],
+    "unicode": "🛋️",
+    "sequences": [
+        "🛋️",
+        "🛋"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-household"
+}

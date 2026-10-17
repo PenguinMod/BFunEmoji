@@ -1,0 +1,20 @@
+{
+    "id": "u26c4-snowman-without-snow",
+    "type": "emoji",
+    "name": "snowman without snow",
+    "alias": [
+        "snowman without snow",
+        "snowman-without-snow",
+        "snowman_without_snow"
+    ],
+    "unicode": "⛄",
+    "sequences": [
+        "⛄"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-sky-26-weather"
+}

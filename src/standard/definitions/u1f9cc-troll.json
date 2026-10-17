@@ -1,0 +1,20 @@
+{
+    "id": "u1f9cc-troll",
+    "type": "emoji",
+    "name": "troll",
+    "alias": [
+        "troll",
+        "troll",
+        "troll"
+    ],
+    "unicode": "🧌",
+    "sequences": [
+        "🧌"
+    ],
+    "flags": [],
+    "emoji_version": "14.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-fantasy"
+}

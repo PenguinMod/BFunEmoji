@@ -1,0 +1,20 @@
+{
+    "id": "u1faef-fight-cloud",
+    "type": "emoji",
+    "name": "fight cloud",
+    "alias": [
+        "fight cloud",
+        "fight-cloud",
+        "fight_cloud"
+    ],
+    "unicode": "🫯",
+    "sequences": [
+        "🫯"
+    ],
+    "flags": [],
+    "emoji_version": "17.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-emotion"
+}

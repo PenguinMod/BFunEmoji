@@ -1,0 +1,20 @@
+{
+    "id": "u1f983-turkey",
+    "type": "emoji",
+    "name": "turkey",
+    "alias": [
+        "turkey",
+        "turkey",
+        "turkey"
+    ],
+    "unicode": "🦃",
+    "sequences": [
+        "🦃"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-bird"
+}

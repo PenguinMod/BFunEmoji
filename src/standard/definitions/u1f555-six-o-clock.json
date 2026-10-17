@@ -1,0 +1,20 @@
+{
+    "id": "u1f555-six-o-clock",
+    "type": "emoji",
+    "name": "six o’clock",
+    "alias": [
+        "six o’clock",
+        "six-o’clock",
+        "six_o’clock"
+    ],
+    "unicode": "🕕",
+    "sequences": [
+        "🕕"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-time"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "u1f9df-200d-2642-fe0f-man-zombie",
+    "type": "emoji",
+    "name": "man zombie",
+    "alias": [
+        "man zombie",
+        "man-zombie",
+        "man_zombie"
+    ],
+    "unicode": "🧟‍♂️",
+    "sequences": [
+        "🧟‍♂️",
+        "🧟‍♂"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-fantasy"
+}

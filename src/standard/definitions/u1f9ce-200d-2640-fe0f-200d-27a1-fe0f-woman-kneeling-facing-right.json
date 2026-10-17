@@ -1,0 +1,23 @@
+{
+    "id": "u1f9ce-200d-2640-fe0f-200d-27a1-fe0f-woman-kneeling-facing-right",
+    "type": "emoji",
+    "name": "woman kneeling facing right",
+    "alias": [
+        "woman kneeling facing right",
+        "woman-kneeling-facing-right",
+        "woman_kneeling_facing_right"
+    ],
+    "unicode": "🧎‍♀️‍➡️",
+    "sequences": [
+        "🧎‍♀️‍➡️",
+        "🧎‍♀‍➡️",
+        "🧎‍♀️‍➡",
+        "🧎‍♀‍➡"
+    ],
+    "flags": [],
+    "emoji_version": "15.1",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-activity"
+}

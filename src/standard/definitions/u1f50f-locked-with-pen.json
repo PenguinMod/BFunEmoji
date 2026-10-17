@@ -1,0 +1,20 @@
+{
+    "id": "u1f50f-locked-with-pen",
+    "type": "emoji",
+    "name": "locked with pen",
+    "alias": [
+        "locked with pen",
+        "locked-with-pen",
+        "locked_with_pen"
+    ],
+    "unicode": "🔏",
+    "sequences": [
+        "🔏"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-lock"
+}

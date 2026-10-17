@@ -1,0 +1,20 @@
+{
+    "id": "u1f63d-kissing-cat",
+    "type": "emoji",
+    "name": "kissing cat",
+    "alias": [
+        "kissing cat",
+        "kissing-cat",
+        "kissing_cat"
+    ],
+    "unicode": "😽",
+    "sequences": [
+        "😽"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-cat-face"
+}

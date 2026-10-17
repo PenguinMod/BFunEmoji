@@ -1,0 +1,20 @@
+{
+    "id": "u270b-1f3fb-raised-hand--light-skin-tone",
+    "type": "emoji",
+    "name": "raised hand: light skin tone",
+    "alias": [
+        "raised hand: light skin tone",
+        "raised-hand:-light-skin-tone",
+        "raised_hand:_light_skin_tone"
+    ],
+    "unicode": "✋🏻",
+    "sequences": [
+        "✋🏻"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-hand-fingers-open"
+}

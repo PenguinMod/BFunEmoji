@@ -1,0 +1,20 @@
+{
+    "id": "u1f982-scorpion",
+    "type": "emoji",
+    "name": "scorpion",
+    "alias": [
+        "scorpion",
+        "scorpion",
+        "scorpion"
+    ],
+    "unicode": "🦂",
+    "sequences": [
+        "🦂"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-bug"
+}

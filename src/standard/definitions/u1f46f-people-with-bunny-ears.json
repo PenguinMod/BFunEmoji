@@ -1,0 +1,20 @@
+{
+    "id": "u1f46f-people-with-bunny-ears",
+    "type": "emoji",
+    "name": "people with bunny ears",
+    "alias": [
+        "people with bunny ears",
+        "people-with-bunny-ears",
+        "people_with_bunny_ears"
+    ],
+    "unicode": "👯",
+    "sequences": [
+        "👯"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-activity"
+}

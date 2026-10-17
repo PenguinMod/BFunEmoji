@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f8-1f1f1-flag--sierra-leone",
+    "type": "emoji",
+    "name": "flag: Sierra Leone",
+    "alias": [
+        "flag: Sierra Leone",
+        "flag:-Sierra-Leone",
+        "flag:_Sierra_Leone"
+    ],
+    "unicode": "🇸🇱",
+    "sequences": [
+        "🇸🇱"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

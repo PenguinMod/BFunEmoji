@@ -1,0 +1,21 @@
+{
+    "id": "u2601-fe0f-cloud",
+    "type": "emoji",
+    "name": "cloud",
+    "alias": [
+        "cloud",
+        "cloud",
+        "cloud"
+    ],
+    "unicode": "☁️",
+    "sequences": [
+        "☁️",
+        "☁"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-sky-26-weather"
+}

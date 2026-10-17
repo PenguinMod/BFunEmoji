@@ -1,0 +1,20 @@
+{
+    "id": "u1f64f-folded-hands",
+    "type": "emoji",
+    "name": "folded hands",
+    "alias": [
+        "folded hands",
+        "folded-hands",
+        "folded_hands"
+    ],
+    "unicode": "🙏",
+    "sequences": [
+        "🙏"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-hands"
+}

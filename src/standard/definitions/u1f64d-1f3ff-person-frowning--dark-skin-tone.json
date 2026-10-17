@@ -1,0 +1,20 @@
+{
+    "id": "u1f64d-1f3ff-person-frowning--dark-skin-tone",
+    "type": "emoji",
+    "name": "person frowning: dark skin tone",
+    "alias": [
+        "person frowning: dark skin tone",
+        "person-frowning:-dark-skin-tone",
+        "person_frowning:_dark_skin_tone"
+    ],
+    "unicode": "🙍🏿",
+    "sequences": [
+        "🙍🏿"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-gesture"
+}

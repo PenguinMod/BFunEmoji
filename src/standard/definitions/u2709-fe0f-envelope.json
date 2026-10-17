@@ -1,0 +1,21 @@
+{
+    "id": "u2709-fe0f-envelope",
+    "type": "emoji",
+    "name": "envelope",
+    "alias": [
+        "envelope",
+        "envelope",
+        "envelope"
+    ],
+    "unicode": "✉️",
+    "sequences": [
+        "✉️",
+        "✉"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-mail"
+}

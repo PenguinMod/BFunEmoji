@@ -1,0 +1,20 @@
+{
+    "id": "u1f6b9-men-s-room",
+    "type": "emoji",
+    "name": "men’s room",
+    "alias": [
+        "men’s room",
+        "men’s-room",
+        "men’s_room"
+    ],
+    "unicode": "🚹",
+    "sequences": [
+        "🚹"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-transport-sign"
+}

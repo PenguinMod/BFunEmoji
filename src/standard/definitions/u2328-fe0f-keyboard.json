@@ -1,0 +1,21 @@
+{
+    "id": "u2328-fe0f-keyboard",
+    "type": "emoji",
+    "name": "keyboard",
+    "alias": [
+        "keyboard",
+        "keyboard",
+        "keyboard"
+    ],
+    "unicode": "⌨️",
+    "sequences": [
+        "⌨️",
+        "⌨"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-computer"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "u1f6e3-fe0f-motorway",
+    "type": "emoji",
+    "name": "motorway",
+    "alias": [
+        "motorway",
+        "motorway",
+        "motorway"
+    ],
+    "unicode": "🛣️",
+    "sequences": [
+        "🛣️",
+        "🛣"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-transport-ground"
+}

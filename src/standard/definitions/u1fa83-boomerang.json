@@ -1,0 +1,20 @@
+{
+    "id": "u1fa83-boomerang",
+    "type": "emoji",
+    "name": "boomerang",
+    "alias": [
+        "boomerang",
+        "boomerang",
+        "boomerang"
+    ],
+    "unicode": "🪃",
+    "sequences": [
+        "🪃"
+    ],
+    "flags": [],
+    "emoji_version": "13.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-tool"
+}

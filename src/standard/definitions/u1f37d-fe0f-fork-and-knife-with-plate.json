@@ -1,0 +1,21 @@
+{
+    "id": "u1f37d-fe0f-fork-and-knife-with-plate",
+    "type": "emoji",
+    "name": "fork and knife with plate",
+    "alias": [
+        "fork and knife with plate",
+        "fork-and-knife-with-plate",
+        "fork_and_knife_with_plate"
+    ],
+    "unicode": "🍽️",
+    "sequences": [
+        "🍽️",
+        "🍽"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-dishware"
+}

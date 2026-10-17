@@ -1,0 +1,20 @@
+{
+    "id": "u1fabf-goose",
+    "type": "emoji",
+    "name": "goose",
+    "alias": [
+        "goose",
+        "goose",
+        "goose"
+    ],
+    "unicode": "🪿",
+    "sequences": [
+        "🪿"
+    ],
+    "flags": [],
+    "emoji_version": "15.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-bird"
+}

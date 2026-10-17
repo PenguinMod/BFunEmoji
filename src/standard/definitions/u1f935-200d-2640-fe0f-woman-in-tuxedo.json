@@ -1,0 +1,21 @@
+{
+    "id": "u1f935-200d-2640-fe0f-woman-in-tuxedo",
+    "type": "emoji",
+    "name": "woman in tuxedo",
+    "alias": [
+        "woman in tuxedo",
+        "woman-in-tuxedo",
+        "woman_in_tuxedo"
+    ],
+    "unicode": "🤵‍♀️",
+    "sequences": [
+        "🤵‍♀️",
+        "🤵‍♀"
+    ],
+    "flags": [],
+    "emoji_version": "13.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-role"
+}

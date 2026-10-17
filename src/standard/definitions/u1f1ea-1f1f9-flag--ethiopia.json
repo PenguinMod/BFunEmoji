@@ -1,0 +1,20 @@
+{
+    "id": "u1f1ea-1f1f9-flag--ethiopia",
+    "type": "emoji",
+    "name": "flag: Ethiopia",
+    "alias": [
+        "flag: Ethiopia",
+        "flag:-Ethiopia",
+        "flag:_Ethiopia"
+    ],
+    "unicode": "🇪🇹",
+    "sequences": [
+        "🇪🇹"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f369-doughnut",
+    "type": "emoji",
+    "name": "doughnut",
+    "alias": [
+        "doughnut",
+        "doughnut",
+        "doughnut"
+    ],
+    "unicode": "🍩",
+    "sequences": [
+        "🍩"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-food-sweet"
+}

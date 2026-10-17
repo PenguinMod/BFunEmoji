@@ -1,0 +1,20 @@
+{
+    "id": "u1f63a-grinning-cat",
+    "type": "emoji",
+    "name": "grinning cat",
+    "alias": [
+        "grinning cat",
+        "grinning-cat",
+        "grinning_cat"
+    ],
+    "unicode": "😺",
+    "sequences": [
+        "😺"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-cat-face"
+}

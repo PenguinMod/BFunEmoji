@@ -1,0 +1,20 @@
+{
+    "id": "u1fab8-coral",
+    "type": "emoji",
+    "name": "coral",
+    "alias": [
+        "coral",
+        "coral",
+        "coral"
+    ],
+    "unicode": "🪸",
+    "sequences": [
+        "🪸"
+    ],
+    "flags": [],
+    "emoji_version": "14.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-marine"
+}

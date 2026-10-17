@@ -1,0 +1,20 @@
+{
+    "id": "u1f9d6-person-in-steamy-room",
+    "type": "emoji",
+    "name": "person in steamy room",
+    "alias": [
+        "person in steamy room",
+        "person-in-steamy-room",
+        "person_in_steamy_room"
+    ],
+    "unicode": "🧖",
+    "sequences": [
+        "🧖"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-activity"
+}

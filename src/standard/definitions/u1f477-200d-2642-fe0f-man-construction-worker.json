@@ -1,0 +1,21 @@
+{
+    "id": "u1f477-200d-2642-fe0f-man-construction-worker",
+    "type": "emoji",
+    "name": "man construction worker",
+    "alias": [
+        "man construction worker",
+        "man-construction-worker",
+        "man_construction_worker"
+    ],
+    "unicode": "👷‍♂️",
+    "sequences": [
+        "👷‍♂️",
+        "👷‍♂"
+    ],
+    "flags": [],
+    "emoji_version": "4.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-role"
+}

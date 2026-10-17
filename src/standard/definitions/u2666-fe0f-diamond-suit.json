@@ -1,0 +1,21 @@
+{
+    "id": "u2666-fe0f-diamond-suit",
+    "type": "emoji",
+    "name": "diamond suit",
+    "alias": [
+        "diamond suit",
+        "diamond-suit",
+        "diamond_suit"
+    ],
+    "unicode": "♦️",
+    "sequences": [
+        "♦️",
+        "♦"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-game"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "u1f6cd-fe0f-shopping-bags",
+    "type": "emoji",
+    "name": "shopping bags",
+    "alias": [
+        "shopping bags",
+        "shopping-bags",
+        "shopping_bags"
+    ],
+    "unicode": "🛍️",
+    "sequences": [
+        "🛍️",
+        "🛍"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-clothing"
+}

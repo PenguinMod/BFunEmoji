@@ -1,0 +1,21 @@
+{
+    "id": "u2764-fe0f-200d-1f525-heart-on-fire",
+    "type": "emoji",
+    "name": "heart on fire",
+    "alias": [
+        "heart on fire",
+        "heart-on-fire",
+        "heart_on_fire"
+    ],
+    "unicode": "❤️‍🔥",
+    "sequences": [
+        "❤️‍🔥",
+        "❤‍🔥"
+    ],
+    "flags": [],
+    "emoji_version": "13.1",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-heart"
+}

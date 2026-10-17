@@ -1,0 +1,20 @@
+{
+    "id": "u1f1e7-1f1f2-flag--bermuda",
+    "type": "emoji",
+    "name": "flag: Bermuda",
+    "alias": [
+        "flag: Bermuda",
+        "flag:-Bermuda",
+        "flag:_Bermuda"
+    ],
+    "unicode": "🇧🇲",
+    "sequences": [
+        "🇧🇲"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

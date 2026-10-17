@@ -1,0 +1,21 @@
+{
+    "id": "u1f39a-fe0f-level-slider",
+    "type": "emoji",
+    "name": "level slider",
+    "alias": [
+        "level slider",
+        "level-slider",
+        "level_slider"
+    ],
+    "unicode": "🎚️",
+    "sequences": [
+        "🎚️",
+        "🎚"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-music"
+}

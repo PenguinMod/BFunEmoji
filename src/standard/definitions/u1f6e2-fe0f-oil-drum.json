@@ -1,0 +1,21 @@
+{
+    "id": "u1f6e2-fe0f-oil-drum",
+    "type": "emoji",
+    "name": "oil drum",
+    "alias": [
+        "oil drum",
+        "oil-drum",
+        "oil_drum"
+    ],
+    "unicode": "🛢️",
+    "sequences": [
+        "🛢️",
+        "🛢"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-transport-ground"
+}

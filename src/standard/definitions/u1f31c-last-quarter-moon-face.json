@@ -1,0 +1,20 @@
+{
+    "id": "u1f31c-last-quarter-moon-face",
+    "type": "emoji",
+    "name": "last quarter moon face",
+    "alias": [
+        "last quarter moon face",
+        "last-quarter-moon-face",
+        "last_quarter_moon_face"
+    ],
+    "unicode": "🌜",
+    "sequences": [
+        "🌜"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-sky-26-weather"
+}

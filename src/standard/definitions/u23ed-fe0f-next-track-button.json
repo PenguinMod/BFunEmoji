@@ -1,0 +1,21 @@
+{
+    "id": "u23ed-fe0f-next-track-button",
+    "type": "emoji",
+    "name": "next track button",
+    "alias": [
+        "next track button",
+        "next-track-button",
+        "next_track_button"
+    ],
+    "unicode": "⏭️",
+    "sequences": [
+        "⏭️",
+        "⏭"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-av-symbol"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f64c-raising-hands",
+    "type": "emoji",
+    "name": "raising hands",
+    "alias": [
+        "raising hands",
+        "raising-hands",
+        "raising_hands"
+    ],
+    "unicode": "🙌",
+    "sequences": [
+        "🙌"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-hands"
+}

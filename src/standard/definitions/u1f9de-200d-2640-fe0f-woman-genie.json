@@ -1,0 +1,21 @@
+{
+    "id": "u1f9de-200d-2640-fe0f-woman-genie",
+    "type": "emoji",
+    "name": "woman genie",
+    "alias": [
+        "woman genie",
+        "woman-genie",
+        "woman_genie"
+    ],
+    "unicode": "🧞‍♀️",
+    "sequences": [
+        "🧞‍♀️",
+        "🧞‍♀"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-fantasy"
+}

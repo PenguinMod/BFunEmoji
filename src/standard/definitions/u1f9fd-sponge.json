@@ -1,0 +1,20 @@
+{
+    "id": "u1f9fd-sponge",
+    "type": "emoji",
+    "name": "sponge",
+    "alias": [
+        "sponge",
+        "sponge",
+        "sponge"
+    ],
+    "unicode": "🧽",
+    "sequences": [
+        "🧽"
+    ],
+    "flags": [],
+    "emoji_version": "11.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-household"
+}

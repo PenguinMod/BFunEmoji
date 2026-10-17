@@ -1,0 +1,21 @@
+{
+    "id": "u26f0-fe0f-mountain",
+    "type": "emoji",
+    "name": "mountain",
+    "alias": [
+        "mountain",
+        "mountain",
+        "mountain"
+    ],
+    "unicode": "⛰️",
+    "sequences": [
+        "⛰️",
+        "⛰"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-place-geographic"
+}

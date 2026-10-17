@@ -1,0 +1,20 @@
+{
+    "id": "u1f468-200d-1f692-man-firefighter",
+    "type": "emoji",
+    "name": "man firefighter",
+    "alias": [
+        "man firefighter",
+        "man-firefighter",
+        "man_firefighter"
+    ],
+    "unicode": "👨‍🚒",
+    "sequences": [
+        "👨‍🚒"
+    ],
+    "flags": [],
+    "emoji_version": "4.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-role"
+}

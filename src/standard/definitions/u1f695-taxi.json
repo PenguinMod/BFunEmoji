@@ -1,0 +1,20 @@
+{
+    "id": "u1f695-taxi",
+    "type": "emoji",
+    "name": "taxi",
+    "alias": [
+        "taxi",
+        "taxi",
+        "taxi"
+    ],
+    "unicode": "🚕",
+    "sequences": [
+        "🚕"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-transport-ground"
+}

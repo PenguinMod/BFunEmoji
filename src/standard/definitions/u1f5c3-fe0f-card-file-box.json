@@ -1,0 +1,21 @@
+{
+    "id": "u1f5c3-fe0f-card-file-box",
+    "type": "emoji",
+    "name": "card file box",
+    "alias": [
+        "card file box",
+        "card-file-box",
+        "card_file_box"
+    ],
+    "unicode": "🗃️",
+    "sequences": [
+        "🗃️",
+        "🗃"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-office"
+}

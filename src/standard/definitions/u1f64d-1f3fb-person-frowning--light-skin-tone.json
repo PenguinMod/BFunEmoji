@@ -1,0 +1,20 @@
+{
+    "id": "u1f64d-1f3fb-person-frowning--light-skin-tone",
+    "type": "emoji",
+    "name": "person frowning: light skin tone",
+    "alias": [
+        "person frowning: light skin tone",
+        "person-frowning:-light-skin-tone",
+        "person_frowning:_light_skin_tone"
+    ],
+    "unicode": "🙍🏻",
+    "sequences": [
+        "🙍🏻"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-gesture"
+}

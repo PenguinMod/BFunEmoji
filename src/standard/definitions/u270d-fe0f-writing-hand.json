@@ -1,0 +1,21 @@
+{
+    "id": "u270d-fe0f-writing-hand",
+    "type": "emoji",
+    "name": "writing hand",
+    "alias": [
+        "writing hand",
+        "writing-hand",
+        "writing_hand"
+    ],
+    "unicode": "✍️",
+    "sequences": [
+        "✍️",
+        "✍"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-hand-prop"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f415-200d-1f9ba-service-dog",
+    "type": "emoji",
+    "name": "service dog",
+    "alias": [
+        "service dog",
+        "service-dog",
+        "service_dog"
+    ],
+    "unicode": "🐕‍🦺",
+    "sequences": [
+        "🐕‍🦺"
+    ],
+    "flags": [],
+    "emoji_version": "12.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-mammal"
+}

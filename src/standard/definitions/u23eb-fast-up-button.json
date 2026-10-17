@@ -1,0 +1,20 @@
+{
+    "id": "u23eb-fast-up-button",
+    "type": "emoji",
+    "name": "fast up button",
+    "alias": [
+        "fast up button",
+        "fast-up-button",
+        "fast_up_button"
+    ],
+    "unicode": "⏫",
+    "sequences": [
+        "⏫"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-av-symbol"
+}

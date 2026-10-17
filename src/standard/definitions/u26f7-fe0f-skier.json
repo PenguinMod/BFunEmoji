@@ -1,0 +1,21 @@
+{
+    "id": "u26f7-fe0f-skier",
+    "type": "emoji",
+    "name": "skier",
+    "alias": [
+        "skier",
+        "skier",
+        "skier"
+    ],
+    "unicode": "⛷️",
+    "sequences": [
+        "⛷️",
+        "⛷"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-sport"
+}

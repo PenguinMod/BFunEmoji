@@ -1,0 +1,21 @@
+{
+    "id": "u1f9d1-1f3fe-200d-2708-fe0f-pilot--medium-dark-skin-tone",
+    "type": "emoji",
+    "name": "pilot: medium-dark skin tone",
+    "alias": [
+        "pilot: medium-dark skin tone",
+        "pilot:-medium-dark-skin-tone",
+        "pilot:_medium-dark_skin_tone"
+    ],
+    "unicode": "🧑🏾‍✈️",
+    "sequences": [
+        "🧑🏾‍✈️",
+        "🧑🏾‍✈"
+    ],
+    "flags": [],
+    "emoji_version": "12.1",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-role"
+}

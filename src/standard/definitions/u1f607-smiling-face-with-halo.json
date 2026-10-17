@@ -1,0 +1,20 @@
+{
+    "id": "u1f607-smiling-face-with-halo",
+    "type": "emoji",
+    "name": "smiling face with halo",
+    "alias": [
+        "smiling face with halo",
+        "smiling-face-with-halo",
+        "smiling_face_with_halo"
+    ],
+    "unicode": "😇",
+    "sequences": [
+        "😇"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-smiling"
+}

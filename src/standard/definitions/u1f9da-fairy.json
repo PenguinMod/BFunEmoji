@@ -1,0 +1,20 @@
+{
+    "id": "u1f9da-fairy",
+    "type": "emoji",
+    "name": "fairy",
+    "alias": [
+        "fairy",
+        "fairy",
+        "fairy"
+    ],
+    "unicode": "🧚",
+    "sequences": [
+        "🧚"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-fantasy"
+}

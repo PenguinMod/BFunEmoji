@@ -1,0 +1,21 @@
+{
+    "id": "u2712-fe0f-black-nib",
+    "type": "emoji",
+    "name": "black nib",
+    "alias": [
+        "black nib",
+        "black-nib",
+        "black_nib"
+    ],
+    "unicode": "✒️",
+    "sequences": [
+        "✒️",
+        "✒"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-writing"
+}

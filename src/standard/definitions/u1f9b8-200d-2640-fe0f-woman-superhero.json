@@ -1,0 +1,21 @@
+{
+    "id": "u1f9b8-200d-2640-fe0f-woman-superhero",
+    "type": "emoji",
+    "name": "woman superhero",
+    "alias": [
+        "woman superhero",
+        "woman-superhero",
+        "woman_superhero"
+    ],
+    "unicode": "🦸‍♀️",
+    "sequences": [
+        "🦸‍♀️",
+        "🦸‍♀"
+    ],
+    "flags": [],
+    "emoji_version": "11.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-fantasy"
+}

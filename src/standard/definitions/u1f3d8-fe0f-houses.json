@@ -1,0 +1,21 @@
+{
+    "id": "u1f3d8-fe0f-houses",
+    "type": "emoji",
+    "name": "houses",
+    "alias": [
+        "houses",
+        "houses",
+        "houses"
+    ],
+    "unicode": "🏘️",
+    "sequences": [
+        "🏘️",
+        "🏘"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-place-building"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f9ba-safety-vest",
+    "type": "emoji",
+    "name": "safety vest",
+    "alias": [
+        "safety vest",
+        "safety-vest",
+        "safety_vest"
+    ],
+    "unicode": "🦺",
+    "sequences": [
+        "🦺"
+    ],
+    "flags": [],
+    "emoji_version": "12.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-clothing"
+}

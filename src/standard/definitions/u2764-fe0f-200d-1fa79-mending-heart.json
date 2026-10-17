@@ -1,0 +1,21 @@
+{
+    "id": "u2764-fe0f-200d-1fa79-mending-heart",
+    "type": "emoji",
+    "name": "mending heart",
+    "alias": [
+        "mending heart",
+        "mending-heart",
+        "mending_heart"
+    ],
+    "unicode": "❤️‍🩹",
+    "sequences": [
+        "❤️‍🩹",
+        "❤‍🩹"
+    ],
+    "flags": [],
+    "emoji_version": "13.1",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-heart"
+}

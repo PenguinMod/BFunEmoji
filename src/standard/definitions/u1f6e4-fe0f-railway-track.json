@@ -1,0 +1,21 @@
+{
+    "id": "u1f6e4-fe0f-railway-track",
+    "type": "emoji",
+    "name": "railway track",
+    "alias": [
+        "railway track",
+        "railway-track",
+        "railway_track"
+    ],
+    "unicode": "🛤️",
+    "sequences": [
+        "🛤️",
+        "🛤"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-transport-ground"
+}

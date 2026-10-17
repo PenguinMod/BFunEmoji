@@ -1,0 +1,20 @@
+{
+    "id": "u1faac-hamsa",
+    "type": "emoji",
+    "name": "hamsa",
+    "alias": [
+        "hamsa",
+        "hamsa",
+        "hamsa"
+    ],
+    "unicode": "🪬",
+    "sequences": [
+        "🪬"
+    ],
+    "flags": [],
+    "emoji_version": "14.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-other-object"
+}

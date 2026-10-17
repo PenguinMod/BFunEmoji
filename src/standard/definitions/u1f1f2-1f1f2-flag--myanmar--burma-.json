@@ -1,0 +1,20 @@
+{
+    "id": "u1f1f2-1f1f2-flag--myanmar--burma-",
+    "type": "emoji",
+    "name": "flag: Myanmar (Burma)",
+    "alias": [
+        "flag: Myanmar (Burma)",
+        "flag:-Myanmar-(Burma)",
+        "flag:_Myanmar_(Burma)"
+    ],
+    "unicode": "🇲🇲",
+    "sequences": [
+        "🇲🇲"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

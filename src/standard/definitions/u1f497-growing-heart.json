@@ -1,0 +1,20 @@
+{
+    "id": "u1f497-growing-heart",
+    "type": "emoji",
+    "name": "growing heart",
+    "alias": [
+        "growing heart",
+        "growing-heart",
+        "growing_heart"
+    ],
+    "unicode": "💗",
+    "sequences": [
+        "💗"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-heart"
+}

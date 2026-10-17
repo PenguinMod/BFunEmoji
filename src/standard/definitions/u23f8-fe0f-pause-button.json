@@ -1,0 +1,21 @@
+{
+    "id": "u23f8-fe0f-pause-button",
+    "type": "emoji",
+    "name": "pause button",
+    "alias": [
+        "pause button",
+        "pause-button",
+        "pause_button"
+    ],
+    "unicode": "⏸️",
+    "sequences": [
+        "⏸️",
+        "⏸"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-av-symbol"
+}

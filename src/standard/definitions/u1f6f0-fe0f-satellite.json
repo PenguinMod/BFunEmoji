@@ -1,0 +1,21 @@
+{
+    "id": "u1f6f0-fe0f-satellite",
+    "type": "emoji",
+    "name": "satellite",
+    "alias": [
+        "satellite",
+        "satellite",
+        "satellite"
+    ],
+    "unicode": "🛰️",
+    "sequences": [
+        "🛰️",
+        "🛰"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-transport-air"
+}

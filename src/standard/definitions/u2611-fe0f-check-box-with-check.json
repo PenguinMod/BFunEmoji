@@ -1,0 +1,21 @@
+{
+    "id": "u2611-fe0f-check-box-with-check",
+    "type": "emoji",
+    "name": "check box with check",
+    "alias": [
+        "check box with check",
+        "check-box-with-check",
+        "check_box_with_check"
+    ],
+    "unicode": "☑️",
+    "sequences": [
+        "☑️",
+        "☑"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-other-symbol"
+}

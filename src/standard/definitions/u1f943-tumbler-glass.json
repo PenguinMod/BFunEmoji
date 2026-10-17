@@ -1,0 +1,20 @@
+{
+    "id": "u1f943-tumbler-glass",
+    "type": "emoji",
+    "name": "tumbler glass",
+    "alias": [
+        "tumbler glass",
+        "tumbler-glass",
+        "tumbler_glass"
+    ],
+    "unicode": "🥃",
+    "sequences": [
+        "🥃"
+    ],
+    "flags": [],
+    "emoji_version": "3.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-drink"
+}

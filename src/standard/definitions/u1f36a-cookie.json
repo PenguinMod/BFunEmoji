@@ -1,0 +1,20 @@
+{
+    "id": "u1f36a-cookie",
+    "type": "emoji",
+    "name": "cookie",
+    "alias": [
+        "cookie",
+        "cookie",
+        "cookie"
+    ],
+    "unicode": "🍪",
+    "sequences": [
+        "🍪"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-food-sweet"
+}

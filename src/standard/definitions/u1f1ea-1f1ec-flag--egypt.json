@@ -1,0 +1,20 @@
+{
+    "id": "u1f1ea-1f1ec-flag--egypt",
+    "type": "emoji",
+    "name": "flag: Egypt",
+    "alias": [
+        "flag: Egypt",
+        "flag:-Egypt",
+        "flag:_Egypt"
+    ],
+    "unicode": "🇪🇬",
+    "sequences": [
+        "🇪🇬"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

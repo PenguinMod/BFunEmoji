@@ -1,0 +1,20 @@
+{
+    "id": "u1f423-hatching-chick",
+    "type": "emoji",
+    "name": "hatching chick",
+    "alias": [
+        "hatching chick",
+        "hatching-chick",
+        "hatching_chick"
+    ],
+    "unicode": "🐣",
+    "sequences": [
+        "🐣"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-animal-bird"
+}

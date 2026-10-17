@@ -1,0 +1,21 @@
+{
+    "id": "u1f470-200d-2642-fe0f-man-with-veil",
+    "type": "emoji",
+    "name": "man with veil",
+    "alias": [
+        "man with veil",
+        "man-with-veil",
+        "man_with_veil"
+    ],
+    "unicode": "👰‍♂️",
+    "sequences": [
+        "👰‍♂️",
+        "👰‍♂"
+    ],
+    "flags": [],
+    "emoji_version": "13.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-role"
+}

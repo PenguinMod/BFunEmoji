@@ -1,0 +1,20 @@
+{
+    "id": "u1f489-syringe",
+    "type": "emoji",
+    "name": "syringe",
+    "alias": [
+        "syringe",
+        "syringe",
+        "syringe"
+    ],
+    "unicode": "💉",
+    "sequences": [
+        "💉"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-medical"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f6b5-person-mountain-biking",
+    "type": "emoji",
+    "name": "person mountain biking",
+    "alias": [
+        "person mountain biking",
+        "person-mountain-biking",
+        "person_mountain_biking"
+    ],
+    "unicode": "🚵",
+    "sequences": [
+        "🚵"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-sport"
+}

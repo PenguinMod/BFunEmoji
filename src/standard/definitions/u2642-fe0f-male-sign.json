@@ -1,0 +1,21 @@
+{
+    "id": "u2642-fe0f-male-sign",
+    "type": "emoji",
+    "name": "male sign",
+    "alias": [
+        "male sign",
+        "male-sign",
+        "male_sign"
+    ],
+    "unicode": "♂️",
+    "sequences": [
+        "♂️",
+        "♂"
+    ],
+    "flags": [],
+    "emoji_version": "4.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-gender"
+}

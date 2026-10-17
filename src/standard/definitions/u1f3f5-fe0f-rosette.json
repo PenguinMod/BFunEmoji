@@ -1,0 +1,21 @@
+{
+    "id": "u1f3f5-fe0f-rosette",
+    "type": "emoji",
+    "name": "rosette",
+    "alias": [
+        "rosette",
+        "rosette",
+        "rosette"
+    ],
+    "unicode": "🏵️",
+    "sequences": [
+        "🏵️",
+        "🏵"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-plant-flower"
+}

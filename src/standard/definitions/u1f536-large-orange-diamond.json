@@ -1,0 +1,20 @@
+{
+    "id": "u1f536-large-orange-diamond",
+    "type": "emoji",
+    "name": "large orange diamond",
+    "alias": [
+        "large orange diamond",
+        "large-orange-diamond",
+        "large_orange_diamond"
+    ],
+    "unicode": "🔶",
+    "sequences": [
+        "🔶"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-geometric"
+}

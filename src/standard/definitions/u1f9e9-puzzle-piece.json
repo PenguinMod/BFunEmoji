@@ -1,0 +1,20 @@
+{
+    "id": "u1f9e9-puzzle-piece",
+    "type": "emoji",
+    "name": "puzzle piece",
+    "alias": [
+        "puzzle piece",
+        "puzzle-piece",
+        "puzzle_piece"
+    ],
+    "unicode": "🧩",
+    "sequences": [
+        "🧩"
+    ],
+    "flags": [],
+    "emoji_version": "11.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-game"
+}

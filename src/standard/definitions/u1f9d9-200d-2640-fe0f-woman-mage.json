@@ -1,0 +1,21 @@
+{
+    "id": "u1f9d9-200d-2640-fe0f-woman-mage",
+    "type": "emoji",
+    "name": "woman mage",
+    "alias": [
+        "woman mage",
+        "woman-mage",
+        "woman_mage"
+    ],
+    "unicode": "🧙‍♀️",
+    "sequences": [
+        "🧙‍♀️",
+        "🧙‍♀"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-fantasy"
+}

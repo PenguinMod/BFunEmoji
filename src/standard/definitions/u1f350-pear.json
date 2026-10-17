@@ -1,0 +1,20 @@
+{
+    "id": "u1f350-pear",
+    "type": "emoji",
+    "name": "pear",
+    "alias": [
+        "pear",
+        "pear",
+        "pear"
+    ],
+    "unicode": "🍐",
+    "sequences": [
+        "🍐"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-food-fruit"
+}

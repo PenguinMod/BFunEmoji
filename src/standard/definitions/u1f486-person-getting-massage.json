@@ -1,0 +1,20 @@
+{
+    "id": "u1f486-person-getting-massage",
+    "type": "emoji",
+    "name": "person getting massage",
+    "alias": [
+        "person getting massage",
+        "person-getting-massage",
+        "person_getting_massage"
+    ],
+    "unicode": "💆",
+    "sequences": [
+        "💆"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-activity"
+}

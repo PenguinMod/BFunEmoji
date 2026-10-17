@@ -1,0 +1,20 @@
+{
+    "id": "u1f6c4-baggage-claim",
+    "type": "emoji",
+    "name": "baggage claim",
+    "alias": [
+        "baggage claim",
+        "baggage-claim",
+        "baggage_claim"
+    ],
+    "unicode": "🛄",
+    "sequences": [
+        "🛄"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-transport-sign"
+}

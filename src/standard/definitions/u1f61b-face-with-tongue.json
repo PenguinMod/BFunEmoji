@@ -1,0 +1,20 @@
+{
+    "id": "u1f61b-face-with-tongue",
+    "type": "emoji",
+    "name": "face with tongue",
+    "alias": [
+        "face with tongue",
+        "face-with-tongue",
+        "face_with_tongue"
+    ],
+    "unicode": "😛",
+    "sequences": [
+        "😛"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-tongue"
+}

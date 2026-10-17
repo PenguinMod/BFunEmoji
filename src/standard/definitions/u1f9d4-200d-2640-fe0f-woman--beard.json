@@ -1,0 +1,21 @@
+{
+    "id": "u1f9d4-200d-2640-fe0f-woman--beard",
+    "type": "emoji",
+    "name": "woman: beard",
+    "alias": [
+        "woman: beard",
+        "woman:-beard",
+        "woman:_beard"
+    ],
+    "unicode": "🧔‍♀️",
+    "sequences": [
+        "🧔‍♀️",
+        "🧔‍♀"
+    ],
+    "flags": [],
+    "emoji_version": "13.1",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person"
+}

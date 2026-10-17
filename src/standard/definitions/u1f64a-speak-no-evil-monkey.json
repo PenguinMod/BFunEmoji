@@ -1,0 +1,20 @@
+{
+    "id": "u1f64a-speak-no-evil-monkey",
+    "type": "emoji",
+    "name": "speak-no-evil monkey",
+    "alias": [
+        "speak-no-evil monkey",
+        "speak-no-evil-monkey",
+        "speak-no-evil_monkey"
+    ],
+    "unicode": "🙊",
+    "sequences": [
+        "🙊"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-monkey-face"
+}

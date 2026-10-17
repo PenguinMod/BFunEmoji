@@ -1,0 +1,20 @@
+{
+    "id": "u1f3ec-department-store",
+    "type": "emoji",
+    "name": "department store",
+    "alias": [
+        "department store",
+        "department-store",
+        "department_store"
+    ],
+    "unicode": "🏬",
+    "sequences": [
+        "🏬"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-place-building"
+}

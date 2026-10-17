@@ -1,0 +1,21 @@
+{
+    "id": "u1f5d1-fe0f-wastebasket",
+    "type": "emoji",
+    "name": "wastebasket",
+    "alias": [
+        "wastebasket",
+        "wastebasket",
+        "wastebasket"
+    ],
+    "unicode": "🗑️",
+    "sequences": [
+        "🗑️",
+        "🗑"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-office"
+}

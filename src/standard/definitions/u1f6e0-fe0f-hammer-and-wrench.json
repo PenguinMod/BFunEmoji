@@ -1,0 +1,21 @@
+{
+    "id": "u1f6e0-fe0f-hammer-and-wrench",
+    "type": "emoji",
+    "name": "hammer and wrench",
+    "alias": [
+        "hammer and wrench",
+        "hammer-and-wrench",
+        "hammer_and_wrench"
+    ],
+    "unicode": "🛠️",
+    "sequences": [
+        "🛠️",
+        "🛠"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-tool"
+}

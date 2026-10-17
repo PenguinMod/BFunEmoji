@@ -1,0 +1,20 @@
+{
+    "id": "u1f1e7-1f1f9-flag--bhutan",
+    "type": "emoji",
+    "name": "flag: Bhutan",
+    "alias": [
+        "flag: Bhutan",
+        "flag:-Bhutan",
+        "flag:_Bhutan"
+    ],
+    "unicode": "🇧🇹",
+    "sequences": [
+        "🇧🇹"
+    ],
+    "flags": [],
+    "emoji_version": "2.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-country-flag"
+}

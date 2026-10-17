@@ -1,0 +1,20 @@
+{
+    "id": "u1faad-folding-hand-fan",
+    "type": "emoji",
+    "name": "folding hand fan",
+    "alias": [
+        "folding hand fan",
+        "folding-hand-fan",
+        "folding_hand_fan"
+    ],
+    "unicode": "🪭",
+    "sequences": [
+        "🪭"
+    ],
+    "flags": [],
+    "emoji_version": "15.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-clothing"
+}

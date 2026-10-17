@@ -1,0 +1,20 @@
+{
+    "id": "u1f33c-blossom",
+    "type": "emoji",
+    "name": "blossom",
+    "alias": [
+        "blossom",
+        "blossom",
+        "blossom"
+    ],
+    "unicode": "🌼",
+    "sequences": [
+        "🌼"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-plant-flower"
+}

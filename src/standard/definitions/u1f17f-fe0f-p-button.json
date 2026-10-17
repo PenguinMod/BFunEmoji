@@ -1,0 +1,21 @@
+{
+    "id": "u1f17f-fe0f-p-button",
+    "type": "emoji",
+    "name": "P button",
+    "alias": [
+        "P button",
+        "P-button",
+        "P_button"
+    ],
+    "unicode": "🅿️",
+    "sequences": [
+        "🅿️",
+        "🅿"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-alphanum"
+}

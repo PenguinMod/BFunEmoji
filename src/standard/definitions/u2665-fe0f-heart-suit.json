@@ -1,0 +1,21 @@
+{
+    "id": "u2665-fe0f-heart-suit",
+    "type": "emoji",
+    "name": "heart suit",
+    "alias": [
+        "heart suit",
+        "heart-suit",
+        "heart_suit"
+    ],
+    "unicode": "♥️",
+    "sequences": [
+        "♥️",
+        "♥"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-game"
+}

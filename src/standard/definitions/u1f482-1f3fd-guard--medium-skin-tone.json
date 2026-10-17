@@ -1,0 +1,20 @@
+{
+    "id": "u1f482-1f3fd-guard--medium-skin-tone",
+    "type": "emoji",
+    "name": "guard: medium skin tone",
+    "alias": [
+        "guard: medium skin tone",
+        "guard:-medium-skin-tone",
+        "guard:_medium_skin_tone"
+    ],
+    "unicode": "💂🏽",
+    "sequences": [
+        "💂🏽"
+    ],
+    "flags": [],
+    "emoji_version": "1.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-person-role"
+}

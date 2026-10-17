@@ -1,0 +1,20 @@
+{
+    "id": "u2796-minus",
+    "type": "emoji",
+    "name": "minus",
+    "alias": [
+        "minus",
+        "minus",
+        "minus"
+    ],
+    "unicode": "➖",
+    "sequences": [
+        "➖"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-math"
+}

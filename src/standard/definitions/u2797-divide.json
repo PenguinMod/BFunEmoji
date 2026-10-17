@@ -1,0 +1,20 @@
+{
+    "id": "u2797-divide",
+    "type": "emoji",
+    "name": "divide",
+    "alias": [
+        "divide",
+        "divide",
+        "divide"
+    ],
+    "unicode": "➗",
+    "sequences": [
+        "➗"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-math"
+}

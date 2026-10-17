@@ -1,0 +1,20 @@
+{
+    "id": "u1f6bc-baby-symbol",
+    "type": "emoji",
+    "name": "baby symbol",
+    "alias": [
+        "baby symbol",
+        "baby-symbol",
+        "baby_symbol"
+    ],
+    "unicode": "🚼",
+    "sequences": [
+        "🚼"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-transport-sign"
+}

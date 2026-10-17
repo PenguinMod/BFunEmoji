@@ -1,0 +1,20 @@
+{
+    "id": "u1f195-new-button",
+    "type": "emoji",
+    "name": "NEW button",
+    "alias": [
+        "NEW button",
+        "NEW-button",
+        "NEW_button"
+    ],
+    "unicode": "🆕",
+    "sequences": [
+        "🆕"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-alphanum"
+}

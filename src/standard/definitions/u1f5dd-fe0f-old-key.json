@@ -1,0 +1,21 @@
+{
+    "id": "u1f5dd-fe0f-old-key",
+    "type": "emoji",
+    "name": "old key",
+    "alias": [
+        "old key",
+        "old-key",
+        "old_key"
+    ],
+    "unicode": "🗝️",
+    "sequences": [
+        "🗝️",
+        "🗝"
+    ],
+    "flags": [],
+    "emoji_version": "0.7",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-lock"
+}

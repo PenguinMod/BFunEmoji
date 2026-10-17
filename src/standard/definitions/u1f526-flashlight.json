@@ -1,0 +1,20 @@
+{
+    "id": "u1f526-flashlight",
+    "type": "emoji",
+    "name": "flashlight",
+    "alias": [
+        "flashlight",
+        "flashlight",
+        "flashlight"
+    ],
+    "unicode": "🔦",
+    "sequences": [
+        "🔦"
+    ],
+    "flags": [],
+    "emoji_version": "0.6",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-light-26-video"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "u1f9d0-face-with-monocle",
+    "type": "emoji",
+    "name": "face with monocle",
+    "alias": [
+        "face with monocle",
+        "face-with-monocle",
+        "face_with_monocle"
+    ],
+    "unicode": "🧐",
+    "sequences": [
+        "🧐"
+    ],
+    "flags": [],
+    "emoji_version": "5.0",
+    "emoji_type": "qualified",
+    "collection": "standard",
+    "completed": false,
+    "group": "subgroup-face-glasses"
+}
