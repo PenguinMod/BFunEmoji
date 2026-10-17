@@ -272,7 +272,7 @@ if (collectionTarget === "standard") {
     }
 
     // TODO: Later we'll see what logic should be duplicated for custom but its not implemented right now
-    return;
+    process.exit(0);
 }
 
 // NOTE: For custom emoji:
