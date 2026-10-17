@@ -270,6 +270,9 @@ if (collectionTarget === "standard") {
             latestEmoji.sequences.push(emojiCreated);
         }
     }
+
+    // TODO: Later we'll see what logic should be duplicated for custom but its not implemented right now
+    return;
 }
 
 // NOTE: For custom emoji:
@@ -280,3 +283,5 @@ if (collectionTarget === "standard") {
  * unicode: A custom Unicode sequence to create this emoji. Zero-width-joiners are required and U+EA20 must be the first character.
  * sequences: A list with only the preferred custom Unicode character sequence.
  */
+// TODO: Custom emoji
+throw new Error("Not implemented");
