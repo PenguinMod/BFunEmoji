@@ -63,7 +63,7 @@ const createEmoji = () => {
 };
 
 const makeCodepointString = (char) => {
-    return [...char].map(piece => piece.charCodeAt(0).toString(16)).join("-");
+    return [...char].map(piece => piece.codePointAt(0).toString(16)).join("-");
 };
 const makeGroupId = (group) => {
     const normalizedName = group.name.toLowerCase()
@@ -111,7 +111,7 @@ const saveEmojiInFolder = async (saveFolder, emoji) => {
     try {
         // drop to catch & finally to make the new data if we dont find anything
         const codePoints = makeCodepointString(emoji.unicode);
-        const existingFileName = definitions.find(fileName => fileName.startsWith(codePoints));
+        const existingFileName = definitions.find(fileName => fileName.startsWith(`u${codePoints}-`));
         if (!existingFileName)
             throw new Error("No matches");
         // We also need to change the ID (intentional mutation)
@@ -143,6 +143,8 @@ const saveEmojiInFolder = async (saveFolder, emoji) => {
 if (collectionTarget === "standard") {
     const response = await fetch(STANDARD_URL);
     const text = await response.text();
+    if (!response.ok)
+        throw new Error("Failed to fetch");
 
     // NOTE: For standard emoji:
     /**
@@ -192,7 +194,7 @@ if (collectionTarget === "standard") {
                 await saveGroupToFile(subGroupPath, currentSubgroup);
                 currentSubgroup = null;
                 // for groups, need to save their data too
-                if (isGroupThisLine) {
+                if (isGroupThisLine || isEndOfFile) {
                     const groupPath = path.join(definitionFolder, `${currentGroup.id}.json`);
                     await saveGroupToFile(groupPath, currentGroup);
                     currentGroup = null;
