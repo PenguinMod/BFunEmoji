@@ -1,8 +1,8 @@
 /**
  * @fileoverview update:definitions:x
  * Update the definitions folder for a specific collection.
- * - For `standard`, downloads the latest Unicode emoji data, checks for drawn glyphs, and updates definitions.
- * - For `custom`, just checks for drawn glyphs and updates definitions.
+ * - For `standard`, downloads the latest Unicode emoji data, checks for completed marks in definitions, and updates definitions.
+ * - For `custom`, just checks for completed marks in definitions and updates definitions.
  */
 /** */
 import fs from "node:fs/promises";
