@@ -17,10 +17,11 @@ for (const file of files) {
     console.log("reading", file);
     const definitionStr = await fs.readFile(path.join(definitionsFolder, file), "utf8");
     const definitionObj = JSON.parse(definitionStr);
-
-    const versionStr = definitionObj.emoji_version;
-    const versionCount = versionMap.get(versionStr) || 0;
-    versionMap.set(versionStr, versionCount + 1);
+    if (!definitionObj.completed) {
+        const versionStr = definitionObj.emoji_version;
+        const versionCount = versionMap.get(versionStr) || 0;
+        versionMap.set(versionStr, versionCount + 1);
+    }
 }
 
 const sorted = {};
@@ -28,4 +29,6 @@ const keys = [...versionMap.keys()].sort();
 for (const key of keys) {
     sorted[key] = versionMap.get(key);
 }
+
+console.log("REMAINING EMOJI:");
 console.log(sorted);
