@@ -11,6 +11,7 @@
     "type": "commonjs",
     "scripts": {
         "make:others": "cd scripts && node makeothers.js",
-        "update:definitions": "cd scripts && node updatedefinitions"
+        "update:definitions": "cd scripts && node updatedefinitions.js",
+        "count": "cd scripts && node count.js"
     }
 }
