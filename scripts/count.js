@@ -23,4 +23,9 @@ for (const file of files) {
     versionMap.set(versionStr, versionCount + 1);
 }
 
-console.log(versionMap);
+const sorted = {};
+const keys = [...versionMap.keys()].sort();
+for (const key of keys) {
+    sorted[key] = versionMap.get(key);
+}
+console.log(sorted);
